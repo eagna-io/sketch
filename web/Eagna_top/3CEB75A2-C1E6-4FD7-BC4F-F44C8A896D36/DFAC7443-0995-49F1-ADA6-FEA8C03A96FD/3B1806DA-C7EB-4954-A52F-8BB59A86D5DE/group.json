@@ -70,6 +70,10 @@
     {
       "class": "rectangle",
       "id": "43440D30-5B62-45E1-A882-6EADE4DCC597"
+    },
+    {
+      "class": "text",
+      "id": "7502D99E-2D18-4459-8DAB-9767C244AE75"
     }
   ],
   "name": "Group",
