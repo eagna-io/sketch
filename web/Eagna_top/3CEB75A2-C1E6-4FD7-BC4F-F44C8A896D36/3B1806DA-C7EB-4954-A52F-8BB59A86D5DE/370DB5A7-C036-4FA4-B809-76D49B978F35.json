@@ -28,19 +28,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "400"
+    "string": "日本の勝利"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9A0AEBFF-6552-4436-B9A4-2D2F404CA182",
+  "do_objectID": "370DB5A7-C036-4FA4-B809-76D49B978F35",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "232883B2-3755-4158-92D2-5D270AB98FE0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "D3D18DEF-3E85-4835-80D6-BA30277082ED",
     "height": 20,
-    "width": 41,
-    "x": 339,
-    "y": 124
+    "width": 100,
+    "x": 50,
+    "y": 160
   },
-  "glyphBounds": "{{0, 2}, {40, 17}}",
+  "glyphBounds": "{{3, 1}, {96, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "400",
+  "name": "日本の勝利",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,11 +75,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "7A4392BE-3A09-4C00-BE54-3B6A3C533C03",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "5157404E-E660-4292-B0A3-3D201F778D0A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

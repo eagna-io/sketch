@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "現在オープン中のマーケット"
+    "string": "Featured Markets"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 25,
-    "width": 325,
-    "x": 156,
+    "width": 233,
+    "x": 160,
     "y": 914
   },
-  "glyphBounds": "{{1, 0}, {320, 25}}",
+  "glyphBounds": "{{1, 2}, {231, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "現在オープン中のマーケット",
+  "name": "Featured Markets",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

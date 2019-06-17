@@ -27,6 +27,9 @@
     "x": -248,
     "y": -314
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -72,15 +75,15 @@
     },
     {
       "class": "group",
-      "id": "72E745AE-D5E2-4D1E-BFED-B275A7A65691"
-    },
-    {
-      "class": "group",
       "id": "A4F8FB8B-1C25-463B-ACCC-CCD4DDC86001"
     },
     {
       "class": "text",
       "id": "1E2E4EF5-51D6-447C-9A6E-C20A1DB6CF75"
+    },
+    {
+      "class": "group",
+      "id": "3B1806DA-C7EB-4954-A52F-8BB59A86D5DE"
     }
   ],
   "name": "Desktop HD",

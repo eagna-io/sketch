@@ -28,19 +28,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "日本"
+    "string": "200"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7EBCD81C-0D3E-49F1-86C6-11C68519FCB6",
+  "do_objectID": "D1698762-A53B-4F74-A131-675B59C4FDCA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EDCA7FA6-5396-4BA4-8C90-E2D38C8BEE83",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "3C948E1E-09F9-4836-AAB4-478D8ABE576F",
     "height": 20,
-    "width": 40,
-    "x": 47,
-    "y": 124
+    "width": 41,
+    "x": 419,
+    "y": 240
   },
-  "glyphBounds": "{{3, 1}, {37, 19}}",
+  "glyphBounds": "{{1, 2}, {39, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "日本",
+  "name": "200",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,11 +75,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "58AD8B8E-0E5A-4F42-8B35-617471E2D3F8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "8ECEE9B2-D97F-4869-97EE-BE3936C09572",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
