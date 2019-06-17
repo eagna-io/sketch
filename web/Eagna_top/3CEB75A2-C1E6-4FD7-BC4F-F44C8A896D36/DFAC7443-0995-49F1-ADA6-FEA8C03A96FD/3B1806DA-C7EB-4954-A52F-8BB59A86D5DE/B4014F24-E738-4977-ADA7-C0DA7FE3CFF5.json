@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "HiraginoSans-W4",
-              "size": 20
+              "size": 18
             }
           },
           "kerning": 0,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E7A9C937-DCC7-4FCB-8524-EF28E6A37CB9",
-    "height": 20,
-    "width": 160,
+    "height": 18,
+    "width": 144,
     "x": 50,
-    "y": 200
+    "y": 217
   },
-  "glyphBounds": "{{1, 1}, {158, 19}}",
+  "glyphBounds": "{{1, 0}, {142, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -94,7 +94,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "HiraginoSans-W4",
-            "size": 20
+            "size": 18
           }
         },
         "kerning": 0,

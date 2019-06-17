@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "58E5A0D2-1D4D-4C28-9FCA-3DF2B403D1F0",
-    "height": 290,
+    "height": 307,
     "width": 510,
     "x": 770,
     "y": 192
@@ -38,6 +38,10 @@
     {
       "class": "rectangle",
       "id": "765659A7-D6D6-462D-B529-B44D909F6147"
+    },
+    {
+      "class": "shapePath",
+      "id": "52D5D3B2-5799-4031-B71D-940A05EF6FFC"
     },
     {
       "class": "text",
