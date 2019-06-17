@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "E186B0E6-A848-44C1-96EE-0FA222531500",
+  "do_objectID": "02E7B6B4-5794-4843-8121-0E32C863E50E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,25 +17,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 158,
-    "width": 315,
-    "x": 27,
-    "y": 12
+    "height": 236,
+    "width": 238,
+    "x": 601,
+    "y": 385
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/aa30aad437d48ffa5986e05407cbda855e23d948.png",
+    "_ref": "images/675e4a1e71a166db008f823a707c731e008f86be.png",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 72,
+  "intendedDPI": 144,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon",
+  "name": "スクリーンショット 2019-06-16 0.52.13",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

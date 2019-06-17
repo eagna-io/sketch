@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A4F8FB8B-1C25-463B-ACCC-CCD4DDC86001",
+  "do_objectID": "CAF13496-2B7B-460C-AAF5-420B08AB736A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 236,
+    "height": 871,
     "width": 1440,
     "x": 0,
-    "y": 1661
+    "y": 140
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,26 +34,22 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "12C6760C-A497-4537-9EA3-7FD926AF8A87"
+      "id": "14F05B0F-E301-495B-98E8-787BB16FC0C1"
     },
     {
       "class": "bitmap",
-      "id": "8475E1DD-5E02-4B87-84DF-DE8F85D1D018"
+      "id": "02E7B6B4-5794-4843-8121-0E32C863E50E"
     },
     {
       "class": "text",
-      "id": "D8E08244-50DF-463B-950E-980A207D4423"
+      "id": "A58FCAC1-9B29-4395-BE8B-183295F17C68"
     },
     {
       "class": "text",
-      "id": "B670D84C-A180-40D1-828A-75E7C7919419"
-    },
-    {
-      "class": "text",
-      "id": "966DFEFF-BEEE-49C4-8755-95FACC0F194F"
+      "id": "6FE12D8A-3910-4CF3-B7B6-DA182D168E5D"
     }
   ],
-  "name": "footer",
+  "name": "Sign-up",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

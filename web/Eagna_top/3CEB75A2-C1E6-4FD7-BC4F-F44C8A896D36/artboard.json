@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1708,
+    "height": 1897,
     "width": 1440,
     "x": -248,
     "y": -314
@@ -50,40 +50,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "E186B0E6-A848-44C1-96EE-0FA222531500"
-    },
-    {
-      "class": "text",
-      "id": "6FE12D8A-3910-4CF3-B7B6-DA182D168E5D"
-    },
-    {
-      "class": "bitmap",
-      "id": "02E7B6B4-5794-4843-8121-0E32C863E50E"
-    },
-    {
-      "class": "text",
-      "id": "A58FCAC1-9B29-4395-BE8B-183295F17C68"
-    },
-    {
-      "class": "text",
-      "id": "730135E1-4C44-4216-8457-E9A91D44F659"
-    },
-    {
-      "class": "group",
-      "id": "9B1EBE30-9891-4EE8-BD8D-C137C2625DCF"
-    },
-    {
       "class": "group",
       "id": "A4F8FB8B-1C25-463B-ACCC-CCD4DDC86001"
     },
     {
-      "class": "text",
-      "id": "1E2E4EF5-51D6-447C-9A6E-C20A1DB6CF75"
+      "class": "group",
+      "id": "DFAC7443-0995-49F1-ADA6-FEA8C03A96FD"
     },
     {
       "class": "group",
-      "id": "3B1806DA-C7EB-4954-A52F-8BB59A86D5DE"
+      "id": "CAF13496-2B7B-460C-AAF5-420B08AB736A"
+    },
+    {
+      "class": "group",
+      "id": "EC3D5C44-D3CA-494E-BA44-8643688B79ED"
     }
   ],
   "name": "Desktop HD",
