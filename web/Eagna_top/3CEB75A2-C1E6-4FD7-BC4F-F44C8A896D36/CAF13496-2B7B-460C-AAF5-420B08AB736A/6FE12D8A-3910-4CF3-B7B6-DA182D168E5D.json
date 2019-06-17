@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "未来は俺等の手の中"
+    "string": "未来は僕等の手の中"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "未来は俺等の手の中",
+  "name": "未来は僕等の手の中",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
