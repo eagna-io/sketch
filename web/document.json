@@ -1,0 +1,93 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7866847826086957,
+          "green": 0.7756337848592181,
+          "red": 0.7610665605530885
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3058823529411765,
+          "green": 0.2196078431372549,
+          "red": 0.1058823529411765
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3058823529411765,
+          "green": 0.7450980392156863,
+          "red": 0.1725490196078431
+        }
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7866847826086957,
+        "green": 0.7756337848592181,
+        "red": 0.7610665605530885
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3058823529411765,
+        "green": 0.2196078431372549,
+        "red": 0.1058823529411765
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3058823529411765,
+        "green": 0.7450980392156863,
+        "red": 0.1725490196078431
+      }
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "F4BAA1F5-8594-4E8E-9C52-BDA5263C5A1B",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "55.1",
+    "build": 78136,
+    "version": 118
+  },
+  "pages": [
+    "Eagna_top"
+  ]
+}
