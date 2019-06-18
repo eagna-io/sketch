@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "93万円以上"
+    "string": "100万円以上"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 97,
+    "width": 109,
     "x": 50,
-    "y": 147
+    "y": 177
   },
-  "glyphBounds": "{{0, 1}, {96, 17}}",
+  "glyphBounds": "{{2, 1}, {106, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "93万円以上",
+  "name": "100万円以上",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

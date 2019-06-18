@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 18,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "ビットコイン価格が93万円を超えるか"
+    "string": "6/28のビットコイン価格が100万円を超えているか"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
+    "height": 62,
     "width": 450,
     "x": 30,
     "y": 60
   },
-  "glyphBounds": "{{3, 12}, {344, 20}}",
+  "glyphBounds": "{{1, 12}, {429, 49}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "ビットコイン価格が93万円を超えるか",
+  "name": "6/28のビットコイン価格が100万円を",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

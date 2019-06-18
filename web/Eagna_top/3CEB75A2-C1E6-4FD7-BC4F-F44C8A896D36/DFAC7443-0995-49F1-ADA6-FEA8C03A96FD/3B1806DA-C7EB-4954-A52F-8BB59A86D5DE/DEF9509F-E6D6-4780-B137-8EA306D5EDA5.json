@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 29,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "コパアメリカブラジル2019 日本vsエクアドルの試合結果"
+    "string": "コパアメリカブラジル2019 : 日本vsエクアドル"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,12 +55,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3EB1E663-BCAE-4DEB-9C12-F7D93D9B532C",
-    "height": 62,
+    "height": 32,
     "width": 450,
     "x": 30,
     "y": 60
   },
-  "glyphBounds": "{{3, 12}, {259, 48}}",
+  "glyphBounds": "{{3, 12}, {431, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "コパアメリカブラジル2019 日本vsエ",
+  "name": "コパアメリカブラジル2019 : 日本v",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
