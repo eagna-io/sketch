@@ -20,6 +20,9 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -36,6 +39,10 @@
     {
       "class": "text",
       "id": "1E2E4EF5-51D6-447C-9A6E-C20A1DB6CF75"
+    },
+    {
+      "class": "text",
+      "id": "D2C049C7-401F-4A71-A00A-3A9BE3C43F46"
     },
     {
       "class": "bitmap",
