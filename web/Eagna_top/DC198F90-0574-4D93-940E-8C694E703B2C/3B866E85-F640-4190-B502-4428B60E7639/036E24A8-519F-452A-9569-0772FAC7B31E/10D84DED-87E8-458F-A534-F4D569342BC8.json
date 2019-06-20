@@ -16,31 +16,32 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HiraginoSans-W5",
-              "size": 36
+              "name": "HiraginoSans-W4",
+              "size": 12
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "未来は僕等の手の中"
+    "string": "100万円未満"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6FE12D8A-3910-4CF3-B7B6-DA182D168E5D",
+  "do_objectID": "10D84DED-87E8-458F-A534-F4D569342BC8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F40E82A6-F01F-4130-8ACB-EC1219394F8D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 324,
-    "x": 558,
-    "y": 259
+    "do_objectID": "E191047C-2F41-48C3-B0F7-C802463CE47C",
+    "height": 12,
+    "width": 136,
+    "x": 32,
+    "y": 190
   },
-  "glyphBounds": "{{1, 1}, {320, 35}}",
+  "glyphBounds": "{{1, 0}, {71, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "未来は僕等の手の中",
+  "name": "100万円未満",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,11 +75,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "FD8DC7E4-7F7F-444D-9282-A28A8BFDDB0C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "5CF35F1F-3E5B-4D3E-B2EA-B5417D25BB6B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -89,14 +93,14 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HiraginoSans-W5",
-            "size": 36
+            "name": "HiraginoSans-W4",
+            "size": 12
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0
@@ -105,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
