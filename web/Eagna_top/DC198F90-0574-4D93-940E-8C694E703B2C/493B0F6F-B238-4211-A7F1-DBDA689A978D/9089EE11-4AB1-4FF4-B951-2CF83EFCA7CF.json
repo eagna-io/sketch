@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HiraginoSans-W5",
-              "size": 36
+              "name": "HiraginoSans-W2",
+              "size": 13
             }
           },
           "kerning": 0,
@@ -28,19 +28,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "未来は僕等の手の中"
+    "string": "予測市場とは？"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6FE12D8A-3910-4CF3-B7B6-DA182D168E5D",
+  "do_objectID": "9089EE11-4AB1-4FF4-B951-2CF83EFCA7CF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6C7F066A-E690-4C60-9D01-BB764653187F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 324,
-    "x": 558,
-    "y": 259
+    "do_objectID": "45F9D074-15EE-4609-AD45-FAAF6F8DB7B0",
+    "height": 13,
+    "width": 125,
+    "x": 0,
+    "y": 77
   },
-  "glyphBounds": "{{1, 1}, {320, 35}}",
+  "glyphBounds": "{{17, 0}, {88, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "未来は僕等の手の中",
+  "name": "予測市場とは？",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,11 +75,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "51B63C30-FF64-447E-8232-8EF5DCAD640A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "64387C7F-2299-4D03-94D5-10E69DC2A50A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -89,8 +93,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HiraginoSans-W5",
-            "size": 36
+            "name": "HiraginoSans-W2",
+            "size": 13
           }
         },
         "kerning": 0,
@@ -105,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

@@ -61,12 +61,8 @@
       "id": "AB1D02C9-5CE4-4060-A0F9-5B881DD2B3E4"
     },
     {
-      "class": "rectangle",
-      "id": "4861FCE0-5638-485F-8109-04B6820CD9C1"
-    },
-    {
-      "class": "text",
-      "id": "673E874C-AF38-42BA-9C7B-7326FC841942"
+      "class": "group",
+      "id": "3A476E0B-D4AC-45A6-BD9C-FAAE87731861"
     }
   ],
   "name": "Group",

@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HiraginoSans-W5",
-              "size": 36
+              "name": "HiraginoSans-W1",
+              "size": 20
             }
           },
           "kerning": 0,
@@ -32,15 +32,16 @@
         "location": 0
       }
     ],
-    "string": "未来は僕等の手の中"
+    "string": "注目のマーケット\b"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6FE12D8A-3910-4CF3-B7B6-DA182D168E5D",
+  "do_objectID": "311535B2-5357-4F83-B25B-28B6D4825989",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "64A2503A-FC18-4AA5-B06E-ABE9CFB399A8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 324,
-    "x": 558,
-    "y": 259
+    "do_objectID": "92E4A207-38DC-41DE-8412-B9E0C24D4099",
+    "height": 20,
+    "width": 160,
+    "x": 104,
+    "y": 36
   },
-  "glyphBounds": "{{1, 1}, {320, 35}}",
+  "glyphBounds": "{{1, 1}, {156, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "未来は僕等の手の中",
+  "name": "注目のマーケット\b",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,11 +75,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B1C5BF31-91A8-4786-BF79-536172C5A2F7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "FCBBBE9A-11FC-4F28-92C6-9804818A7299",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -89,8 +93,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HiraginoSans-W5",
-            "size": 36
+            "name": "HiraginoSans-W1",
+            "size": 20
           }
         },
         "kerning": 0,
