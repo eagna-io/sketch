@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMaskMode": 0,
   "do_objectID": "AB5E8D53-C5EF-4CD0-81A4-42A7711B2665",
-  "edited": false,
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -48,7 +48,7 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
+      "curveFrom": "{1, 0.2103048275184223}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
       "hasCurveFrom": false,
@@ -58,9 +58,19 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
+      "curveFrom": "{1, 0.75394298837017804}",
+      "curveMode": 1,
+      "curveTo": "{1, 0.42060965503684461}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0.63091448255526694}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
-      "curveTo": "{1, 1}",
+      "curveTo": "{1, 0.87697149418508913}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
       "point": "{1, 1}"

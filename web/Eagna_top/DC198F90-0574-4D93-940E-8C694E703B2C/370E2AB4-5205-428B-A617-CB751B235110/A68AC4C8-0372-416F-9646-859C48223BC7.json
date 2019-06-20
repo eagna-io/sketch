@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HiraginoSans-W2",
+              "name": "NotoSansJP-Light",
               "size": 16
             }
           },
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3ECB3FAC-1640-47F3-9C99-984E7C1FAF4E",
-    "height": 16,
+    "height": 24,
     "width": 241,
     "x": 67,
-    "y": 157
+    "y": 152
   },
-  "glyphBounds": "{{0, 0}, {238, 16}}",
+  "glyphBounds": "{{1, 5}, {237, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HiraginoSans-W2",
+            "name": "NotoSansJP-Light",
             "size": 16
           }
         },

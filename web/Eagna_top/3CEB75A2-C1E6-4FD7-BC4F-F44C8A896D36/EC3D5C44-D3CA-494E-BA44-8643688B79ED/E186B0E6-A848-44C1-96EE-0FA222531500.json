@@ -16,9 +16,9 @@
   "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
+    "constrainProportions": false,
     "height": 100,
-    "width": 199.367088607595,
+    "width": 200,
     "x": 50,
     "y": 20
   },
