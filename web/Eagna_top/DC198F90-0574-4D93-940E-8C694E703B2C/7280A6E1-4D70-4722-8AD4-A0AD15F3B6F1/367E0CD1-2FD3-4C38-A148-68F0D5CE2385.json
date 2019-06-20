@@ -17,10 +17,10 @@
   "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
+    "constrainProportions": false,
     "do_objectID": "3E2A7BAD-D4E7-4071-958F-B4EEE4EED051",
     "height": 48,
-    "width": 123,
+    "width": 96,
     "x": 20,
     "y": 10.98229445553034
   },

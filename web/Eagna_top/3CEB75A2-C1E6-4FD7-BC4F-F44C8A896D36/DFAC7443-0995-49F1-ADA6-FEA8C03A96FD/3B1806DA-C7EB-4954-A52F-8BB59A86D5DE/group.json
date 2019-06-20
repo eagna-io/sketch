@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "58E5A0D2-1D4D-4C28-9FCA-3DF2B403D1F0",
     "height": 275,
-    "width": 510,
-    "x": 770,
+    "width": 480,
+    "x": 745,
     "y": 192
   },
   "groupLayout": {
@@ -32,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
