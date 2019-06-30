@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D288DAC8-094D-4AA0-A0B4-E8CA08CF23DC",
+  "do_objectID": "E4045780-6FC3-4FBE-BC1D-2C03910AB4A3",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "594B1BE1-DFC5-4C2C-BB9E-2B96BA28ADB6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,57 +15,43 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "constrainProportions": true,
+    "do_objectID": "E5F6BF15-8679-4D53-8FED-EE23FE35774F",
+    "height": 33,
+    "width": 33,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BC47442D-A092-4758-8A0F-E1D00DDEE749"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -626,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "artboard",
-      "id": "AB5FD19B-8B25-4D8C-93E6-95491ACE802C"
-    },
-    {
-      "class": "artboard",
-      "id": "43D65FCD-F927-40D2-B9EF-8D9098AF747A"
+      "class": "shapeGroup",
+      "id": "8222C408-37C3-4BBE-A50C-76AAE055FF14"
     }
   ],
-  "name": "Account",
-  "nameIsFixed": true,
+  "name": "user-circle-solid",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "74C1A394-403F-4228-9760-1BFD4958DD4B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -484,
-    "guides": [
-    ]
   }
 }

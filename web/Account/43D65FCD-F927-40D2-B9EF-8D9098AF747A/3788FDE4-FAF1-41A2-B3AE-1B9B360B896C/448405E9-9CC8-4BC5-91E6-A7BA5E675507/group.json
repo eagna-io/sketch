@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D288DAC8-094D-4AA0-A0B4-E8CA08CF23DC",
+  "do_objectID": "448405E9-9CC8-4BC5-91E6-A7BA5E675507",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "height": 62,
+    "width": 598,
+    "x": 1,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -626,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,15 +33,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "AB5FD19B-8B25-4D8C-93E6-95491ACE802C"
+      "class": "rectangle",
+      "id": "BB8E3CAE-D10A-45B4-B147-822F2262F4B1"
     },
     {
-      "class": "artboard",
-      "id": "43D65FCD-F927-40D2-B9EF-8D9098AF747A"
+      "class": "shapePath",
+      "id": "4D10E35E-384E-45C5-AED0-38B863CFC429"
+    },
+    {
+      "class": "text",
+      "id": "40A774F6-4A8B-4ADA-92FF-4E6630406CE6"
     }
   ],
-  "name": "Account",
+  "name": "Header",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,11 +57,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -484,
-    "guides": [
-    ]
   }
 }
