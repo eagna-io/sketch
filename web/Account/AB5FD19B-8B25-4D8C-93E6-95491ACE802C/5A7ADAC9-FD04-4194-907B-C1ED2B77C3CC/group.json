@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A7ADAC9-FD04-4194-907B-C1ED2B77C3CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 159,
+    "width": 337,
+    "x": 19,
+    "y": 453
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FBD61438-59A2-483D-854E-E1DAC2307470"
+    },
+    {
+      "class": "group",
+      "id": "AAE873F3-D681-4427-8535-FE30F33946C1"
+    },
+    {
+      "class": "group",
+      "id": "59E13E48-D3F3-42AF-BDA7-DEC62DBE77F1"
+    },
+    {
+      "class": "group",
+      "id": "316BEB45-8E71-4287-89B3-4CE1A9A0B7FD"
+    }
+  ],
+  "name": "Featured Markets",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
