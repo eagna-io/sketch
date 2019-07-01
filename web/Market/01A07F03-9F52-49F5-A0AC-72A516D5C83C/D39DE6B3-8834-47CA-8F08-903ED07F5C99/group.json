@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E22B6E33-BF39-415F-9184-90060F380F16",
+  "do_objectID": "D39DE6B3-8834-47CA-8F08-903ED07F5C99",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "04940A2D-813C-430E-A62C-1ABB5F1540D1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 84,
+    "do_objectID": "3982F8DD-0894-4A2E-8FE8-5E19B5EEB322",
+    "height": 165,
     "width": 337,
     "x": 19,
-    "y": 299
+    "y": 1328
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8A92F6E7-E213-4326-8F3A-C29BF4EF293B"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,38 +33,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "0E6A8275-5A21-4F9F-91F0-24EAA192CA3E"
+      "id": "B22414E9-87F4-43B0-BEBD-29983C1DA863"
     },
     {
-      "class": "rectangle",
-      "id": "48E8CD2A-AE12-455B-904A-BE3EAA0C9AB7"
+      "class": "group",
+      "id": "3F34AAAB-1770-45E1-AF72-059B2EE72E2A"
     },
     {
-      "class": "shapePath",
-      "id": "58886B9A-7790-4B15-82CE-096649C51E7B"
+      "class": "group",
+      "id": "C5925BE1-5AA3-435B-BE1A-5ECB1C573D6C"
     },
     {
-      "class": "text",
-      "id": "739BD066-7299-4ABE-8287-FAC50A6B6E32"
-    },
-    {
-      "class": "text",
-      "id": "193CE0D9-193F-4D38-8C7A-C2DD81A460B6"
-    },
-    {
-      "class": "rectangle",
-      "id": "79B36A5D-EFFE-41D6-9FAB-67672ADAFBEB"
-    },
-    {
-      "class": "text",
-      "id": "666071E4-67D3-439F-94B1-E7ABF7F33F68"
+      "class": "group",
+      "id": "147D6C24-EA67-47C3-8771-23FEADAB42B0"
     }
   ],
-  "name": "Participated Markets",
+  "name": "History",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -69,6 +60,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C1B1ADC9-D9FF-4F37-B9E8-528C7D6388FE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

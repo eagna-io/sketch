@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E22B6E33-BF39-415F-9184-90060F380F16",
+  "do_objectID": "C8AD743E-E78E-422A-9C58-2B923546EBB1",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "0EE05054-B0E0-4797-A7DA-A4B3DE536DF8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 84,
-    "width": 337,
-    "x": 19,
-    "y": 299
+    "do_objectID": "6FB0A53D-4481-42FF-B0F1-5DF08AF5D75C",
+    "height": 44,
+    "width": 335,
+    "x": 1,
+    "y": 1
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "63E81796-4090-481B-9BE2-996307806136"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,34 +37,22 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "0E6A8275-5A21-4F9F-91F0-24EAA192CA3E"
-    },
-    {
-      "class": "rectangle",
-      "id": "48E8CD2A-AE12-455B-904A-BE3EAA0C9AB7"
+      "id": "D876D9A7-3AFF-4D87-881D-14CB46A58136"
     },
     {
       "class": "shapePath",
-      "id": "58886B9A-7790-4B15-82CE-096649C51E7B"
+      "id": "B22D683B-96C1-4758-98FF-6BFC2E3BFEFA"
     },
     {
       "class": "text",
-      "id": "739BD066-7299-4ABE-8287-FAC50A6B6E32"
+      "id": "38E57D55-3EF6-4878-949F-742298C486CC"
     },
     {
       "class": "text",
-      "id": "193CE0D9-193F-4D38-8C7A-C2DD81A460B6"
-    },
-    {
-      "class": "rectangle",
-      "id": "79B36A5D-EFFE-41D6-9FAB-67672ADAFBEB"
-    },
-    {
-      "class": "text",
-      "id": "666071E4-67D3-439F-94B1-E7ABF7F33F68"
+      "id": "7634F788-BECA-4535-B0CB-1968300AE6EF"
     }
   ],
-  "name": "Participated Markets",
+  "name": "Header",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -69,6 +60,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "A615A581-5ACD-4B7B-8084-6A3907C9B1ED",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

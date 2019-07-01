@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E22B6E33-BF39-415F-9184-90060F380F16",
+  "do_objectID": "98C674A9-FA26-4EC4-875E-42370C8EA6B7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 84,
-    "width": 337,
-    "x": 19,
-    "y": 299
+    "height": 40,
+    "width": 287,
+    "x": 25,
+    "y": 25
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,34 +34,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "0E6A8275-5A21-4F9F-91F0-24EAA192CA3E"
-    },
-    {
-      "class": "rectangle",
-      "id": "48E8CD2A-AE12-455B-904A-BE3EAA0C9AB7"
-    },
-    {
-      "class": "shapePath",
-      "id": "58886B9A-7790-4B15-82CE-096649C51E7B"
+      "id": "6291DFF7-BB13-45E9-ABDE-CCF5E6FD22E3"
     },
     {
       "class": "text",
-      "id": "739BD066-7299-4ABE-8287-FAC50A6B6E32"
-    },
-    {
-      "class": "text",
-      "id": "193CE0D9-193F-4D38-8C7A-C2DD81A460B6"
-    },
-    {
-      "class": "rectangle",
-      "id": "79B36A5D-EFFE-41D6-9FAB-67672ADAFBEB"
-    },
-    {
-      "class": "text",
-      "id": "666071E4-67D3-439F-94B1-E7ABF7F33F68"
+      "id": "DEAE0BCE-473F-46F0-A13B-F83BF43DF2AA"
     }
   ],
-  "name": "Participated Markets",
+  "name": "Token Select",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E22B6E33-BF39-415F-9184-90060F380F16",
+  "do_objectID": "FA4EC463-C9E8-47A5-836C-7A880FC8459D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,16 +15,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 84,
-    "width": 337,
-    "x": 19,
-    "y": 299
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -626,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,35 +40,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "0E6A8275-5A21-4F9F-91F0-24EAA192CA3E"
-    },
-    {
-      "class": "rectangle",
-      "id": "48E8CD2A-AE12-455B-904A-BE3EAA0C9AB7"
-    },
-    {
-      "class": "shapePath",
-      "id": "58886B9A-7790-4B15-82CE-096649C51E7B"
-    },
-    {
-      "class": "text",
-      "id": "739BD066-7299-4ABE-8287-FAC50A6B6E32"
-    },
-    {
-      "class": "text",
-      "id": "193CE0D9-193F-4D38-8C7A-C2DD81A460B6"
-    },
-    {
-      "class": "rectangle",
-      "id": "79B36A5D-EFFE-41D6-9FAB-67672ADAFBEB"
-    },
-    {
-      "class": "text",
-      "id": "666071E4-67D3-439F-94B1-E7ABF7F33F68"
+      "class": "artboard",
+      "id": "01A07F03-9F52-49F5-A0AC-72A516D5C83C"
     }
   ],
-  "name": "Participated Markets",
+  "name": "Market",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,5 +56,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -484,
+    "guides": [
+    ]
   }
 }

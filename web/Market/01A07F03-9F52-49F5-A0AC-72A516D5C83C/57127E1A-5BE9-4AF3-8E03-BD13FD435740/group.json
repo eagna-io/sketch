@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E22B6E33-BF39-415F-9184-90060F380F16",
+  "do_objectID": "57127E1A-5BE9-4AF3-8E03-BD13FD435740",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 84,
+    "height": 290,
     "width": 337,
     "x": 19,
-    "y": 299
+    "y": 757
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,34 +34,34 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "0E6A8275-5A21-4F9F-91F0-24EAA192CA3E"
+      "id": "7EC96875-9E08-4660-9986-18ED5666FE9F"
     },
     {
-      "class": "rectangle",
-      "id": "48E8CD2A-AE12-455B-904A-BE3EAA0C9AB7"
+      "class": "group",
+      "id": "BC133B49-3C34-4A62-B57F-2B56CA860EC0"
     },
     {
       "class": "shapePath",
-      "id": "58886B9A-7790-4B15-82CE-096649C51E7B"
+      "id": "0D0F30D6-2402-40FA-9768-E55D81B512E6"
     },
     {
-      "class": "text",
-      "id": "739BD066-7299-4ABE-8287-FAC50A6B6E32"
+      "class": "group",
+      "id": "EDF32029-8121-4D00-9427-9AB612D396F8"
     },
     {
-      "class": "text",
-      "id": "193CE0D9-193F-4D38-8C7A-C2DD81A460B6"
+      "class": "group",
+      "id": "826AF19A-1FA6-48FF-B403-B1D8F4AA338B"
     },
     {
-      "class": "rectangle",
-      "id": "79B36A5D-EFFE-41D6-9FAB-67672ADAFBEB"
+      "class": "group",
+      "id": "6AFF7571-72C8-4420-9BBE-9B7011CA948E"
     },
     {
-      "class": "text",
-      "id": "666071E4-67D3-439F-94B1-E7ABF7F33F68"
+      "class": "group",
+      "id": "98C674A9-FA26-4EC4-875E-42370C8EA6B7"
     }
   ],
-  "name": "Participated Markets",
+  "name": "Order Component",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

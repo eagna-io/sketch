@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E22B6E33-BF39-415F-9184-90060F380F16",
+  "do_objectID": "147D6C24-EA67-47C3-8771-23FEADAB42B0",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CC4B40C2-174F-4DF5-BC51-B0764ABC0B29",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 84,
-    "width": 337,
-    "x": 19,
-    "y": 299
+    "do_objectID": "81A9BFC9-B962-4474-8779-2FCB3030C366",
+    "height": 55,
+    "width": 335,
+    "x": 1,
+    "y": 1
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "58162208-FC69-4A87-8BA3-F38CC88A38A5"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,34 +37,34 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "0E6A8275-5A21-4F9F-91F0-24EAA192CA3E"
-    },
-    {
-      "class": "rectangle",
-      "id": "48E8CD2A-AE12-455B-904A-BE3EAA0C9AB7"
+      "id": "394D0F4E-F30F-41B3-BD27-8D6115402AA9"
     },
     {
       "class": "shapePath",
-      "id": "58886B9A-7790-4B15-82CE-096649C51E7B"
+      "id": "AD21C625-12BC-4B75-9597-537986D45F49"
     },
     {
       "class": "text",
-      "id": "739BD066-7299-4ABE-8287-FAC50A6B6E32"
+      "id": "47388918-0B52-4C7E-B8DB-F7F694C34C01"
     },
     {
       "class": "text",
-      "id": "193CE0D9-193F-4D38-8C7A-C2DD81A460B6"
-    },
-    {
-      "class": "rectangle",
-      "id": "79B36A5D-EFFE-41D6-9FAB-67672ADAFBEB"
+      "id": "9622AF66-19AB-4753-B770-9FEA189BAB0D"
     },
     {
       "class": "text",
-      "id": "666071E4-67D3-439F-94B1-E7ABF7F33F68"
+      "id": "E3BCCDA8-064F-4036-AD6C-199DD581A69C"
+    },
+    {
+      "class": "text",
+      "id": "4F88EA69-7B61-4C97-A53E-3103E00ED3CE"
+    },
+    {
+      "class": "text",
+      "id": "D7B56FB4-64A4-4310-A2F5-18F0BB47337D"
     }
   ],
-  "name": "Participated Markets",
+  "name": "Header",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -69,6 +72,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "AF43AAE3-ABDE-4876-9177-976399E1AE4F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
