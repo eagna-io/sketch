@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "18F04456-AF20-4289-B576-F940EC59FD10",
+  "do_objectID": "2555E0B8-7962-4144-B00E-B2778208DD4B",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "675675E7-6999-405D-B387-AC280A770FCA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 139,
-    "width": 375,
-    "x": 0,
-    "y": 60
+    "do_objectID": "79423FE6-28A3-4D8D-9754-DB8B5396FF89",
+    "height": 137,
+    "width": 310,
+    "x": 32,
+    "y": 781
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1CB62A1A-8F8F-49E9-8085-084A5CEBCD03"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,19 +36,27 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "11EBEC71-907C-46FB-AF5A-49F769E6568E"
-    },
-    {
       "class": "text",
-      "id": "A06A9701-3721-41AE-8401-64CD136A3509"
+      "id": "2D2825BB-50BF-4EC2-9EFA-D3FBC881C0E7"
     },
     {
       "class": "group",
-      "id": "66CDAFBB-B29B-42C0-A4B5-7193179CCFF0"
+      "id": "32421AD2-8CE9-4627-A274-EB4F839E8046"
+    },
+    {
+      "class": "text",
+      "id": "73230CF6-2EFE-4845-87E8-B8EA34B2EB33"
+    },
+    {
+      "class": "oval",
+      "id": "20D071CC-DF4E-4369-B1EA-6075D6CA0F30"
+    },
+    {
+      "class": "shapePath",
+      "id": "5B0CDA25-79B1-47F5-B5CB-819469314178"
     }
   ],
-  "name": "Market Header",
+  "name": "Token Asset",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -53,6 +64,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "E3FA7DCF-F4EA-4501-85B2-CDCAB50571BA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

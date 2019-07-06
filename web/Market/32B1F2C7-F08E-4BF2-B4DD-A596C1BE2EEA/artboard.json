@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8DED28C0-4E14-45CE-AA9B-BA8DB83919B5",
+  "do_objectID": "32B1F2C7-F08E-4BF2-B4DD-A596C1BE2EEA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,16 +22,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2400,
-    "width": 1440,
-    "x": -188,
-    "y": 1518
+    "height": 1143,
+    "width": 375,
+    "x": 345,
+    "y": -334
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,46 +50,38 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "6D0E5D60-C7FE-4A24-8EDD-0BEFABCDCBC5"
+      "class": "group",
+      "id": "93AFFC5B-49A9-4B3A-A0D9-EE29713063A3"
     },
     {
       "class": "group",
-      "id": "6E908065-DF54-41AF-9CD5-481DC9A37946"
+      "id": "A4912A0D-A9A6-402F-B33E-2A5DF3621853"
     },
     {
       "class": "group",
-      "id": "C6EF5306-8B80-4BEB-A780-912721584BC0"
+      "id": "80169D2A-F71A-4ACC-9E83-3609EC1DD872"
     },
     {
       "class": "group",
-      "id": "ED66ABC8-E825-4196-B6A7-E3ACEC55691C"
+      "id": "F7A6D5EE-8ADD-423C-BC07-1586E03265D3"
     },
     {
       "class": "group",
-      "id": "F75C6D84-6FF6-47EF-93C6-D14DFD9E82D6"
+      "id": "2555E0B8-7962-4144-B00E-B2778208DD4B"
     },
     {
       "class": "group",
-      "id": "D20960AC-2B1C-4520-AD14-F3909CDADF6A"
-    },
-    {
-      "class": "group",
-      "id": "FA630304-0134-4053-8488-5FAAD1CFD7B4"
-    },
-    {
-      "class": "group",
-      "id": "27C705FF-5826-4F08-8ACD-37EF27D40696"
+      "id": "885FCCD0-1F25-4782-87A5-48AC1631BAE6"
     }
   ],
-  "name": "Desktop HD",
+  "name": "iPhone 8 Copy",
   "nameIsFixed": false,
   "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop HD",
-    "offersLandscapeVariant": 0,
-    "width": 1440
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
   },
   "resizesContent": false,
   "resizingConstraint": 63,

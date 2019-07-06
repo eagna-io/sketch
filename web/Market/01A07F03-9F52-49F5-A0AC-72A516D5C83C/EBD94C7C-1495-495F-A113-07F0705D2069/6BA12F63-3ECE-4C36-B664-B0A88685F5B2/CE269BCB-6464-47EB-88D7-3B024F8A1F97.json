@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "11EBEC71-907C-46FB-AF5A-49F769E6568E",
+  "do_objectID": "CE269BCB-6464-47EB-88D7-3B024F8A1F97",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,9 +17,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 139,
-    "width": 375,
-    "x": 0,
+    "height": 62,
+    "width": 3,
+    "x": 6,
     "y": 0
   },
   "hasClippingMask": false,
@@ -89,9 +89,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9803921568627451,
-          "green": 0.9725490196078431,
-          "red": 0.9647058823529412
+          "blue": 0.592156862745098,
+          "green": 0.592156862745098,
+          "red": 0.592156862745098
         },
         "fillType": 0,
         "isEnabled": true,
@@ -102,28 +102,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 0,
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592156862745098,
-          "green": 0.592156862745098,
-          "red": 0.592156862745098
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FA4EC463-C9E8-47A5-836C-7A880FC8459D",
+  "do_objectID": "BC44E0FA-FA26-491C-8918-31C23741A12E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 160,
+    "width": 307,
+    "x": 35,
+    "y": 249
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -626,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,19 +33,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "01A07F03-9F52-49F5-A0AC-72A516D5C83C"
+      "class": "text",
+      "id": "A6DD52F1-8F03-457B-8CF1-21345C344D3D"
     },
     {
-      "class": "artboard",
-      "id": "32B1F2C7-F08E-4BF2-B4DD-A596C1BE2EEA"
+      "class": "text",
+      "id": "C6477ED2-BDEF-40B2-9D7A-01923DCC2D4A"
     },
     {
-      "class": "artboard",
-      "id": "8DED28C0-4E14-45CE-AA9B-BA8DB83919B5"
+      "class": "shapePath",
+      "id": "653607F7-45BE-4325-9DE8-71CBBAF54A5A"
+    },
+    {
+      "class": "text",
+      "id": "0F35CD82-935E-4B4B-8A08-9358FFBD7B49"
     }
   ],
-  "name": "Market",
+  "name": "Short Desc",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,11 +61,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -484,
-    "guides": [
-    ]
   }
 }

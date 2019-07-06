@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FA4EC463-C9E8-47A5-836C-7A880FC8459D",
+  "do_objectID": "F7A6D5EE-8ADD-423C-BC07-1586E03265D3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 115,
+    "width": 310,
+    "x": 32,
+    "y": 958
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -626,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,19 +33,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "01A07F03-9F52-49F5-A0AC-72A516D5C83C"
+      "class": "text",
+      "id": "4CE204DF-9964-4B46-B6A1-35B57248F347"
     },
     {
-      "class": "artboard",
-      "id": "32B1F2C7-F08E-4BF2-B4DD-A596C1BE2EEA"
+      "class": "text",
+      "id": "8B8FF20D-D80C-4972-A6D3-61AF466C35A7"
     },
     {
-      "class": "artboard",
-      "id": "8DED28C0-4E14-45CE-AA9B-BA8DB83919B5"
+      "class": "group",
+      "id": "86B68019-2D00-4160-ACCA-59660B67731D"
+    },
+    {
+      "class": "shapePath",
+      "id": "84FB8B0B-343F-4FE1-98C0-023BC7990887"
     }
   ],
-  "name": "Market",
+  "name": "Coin Asset",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,11 +61,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -484,
-    "guides": [
-    ]
   }
 }

@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "11EBEC71-907C-46FB-AF5A-49F769E6568E",
+  "do_objectID": "03C50E30-62A9-40E0-9F69-928729084CEA",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "927E7FB0-99DE-437F-BBC8-9240FBA02056",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,12 +14,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 4,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 139,
-    "width": 375,
+    "do_objectID": "32F8650B-2FAD-4957-8F8E-AB7FBF4B11A1",
+    "height": 62,
+    "width": 130,
     "x": 0,
     "y": 0
   },
@@ -37,7 +39,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 4,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 4,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 4,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -67,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 4,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -82,6 +84,23 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "8451E2E3-B6C3-4DAC-BD0B-38E310BFE834",
     "endMarkerType": 0,
     "fills": [
       {
@@ -89,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9803921568627451,
-          "green": 0.9725490196078431,
-          "red": 0.9647058823529412
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
@@ -105,13 +124,13 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 0,
+        "blurRadius": 1,
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.592156862745098,
-          "green": 0.592156862745098,
-          "red": 0.592156862745098
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

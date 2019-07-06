@@ -1,8 +1,9 @@
 {
-  "_class": "group",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "18F04456-AF20-4289-B576-F940EC59FD10",
+  "do_objectID": "C7C3028D-AD05-4D34-9C6F-45B7F3107C4A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,41 +13,30 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 139,
-    "width": 375,
-    "x": 0,
-    "y": 60
+    "constrainProportions": true,
+    "height": 50,
+    "width": 100,
+    "x": 30,
+    "y": 5
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/aa30aad437d48ffa5986e05407cbda855e23d948.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "11EBEC71-907C-46FB-AF5A-49F769E6568E"
-    },
-    {
-      "class": "text",
-      "id": "A06A9701-3721-41AE-8401-64CD136A3509"
-    },
-    {
-      "class": "group",
-      "id": "66CDAFBB-B29B-42C0-A4B5-7193179CCFF0"
-    }
-  ],
-  "name": "Market Header",
-  "nameIsFixed": true,
+  "layerListExpandedType": 0,
+  "name": "icon",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
