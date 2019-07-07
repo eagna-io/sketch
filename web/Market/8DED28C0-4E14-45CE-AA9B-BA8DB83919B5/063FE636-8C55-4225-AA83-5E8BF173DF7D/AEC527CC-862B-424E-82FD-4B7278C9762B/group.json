@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C6EF5306-8B80-4BEB-A780-912721584BC0",
+  "do_objectID": "AEC527CC-862B-424E-82FD-4B7278C9762B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8C2B2412-7390-4184-BB6F-D4B69BA678D7",
+    "do_objectID": "B85ABCCF-9A7F-43B7-B887-751C8DAB0F66",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "97CB77CE-3185-49ED-A0F5-A116A89D23E8",
-    "height": 209,
-    "width": 1440,
-    "x": 0,
-    "y": 0
+    "do_objectID": "1E91C19B-113B-482F-BCAD-B32A91C7B82D",
+    "height": 97,
+    "width": 128,
+    "x": 53,
+    "y": 686
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "A6B1EE54-9F00-4AC5-A0BA-460D9CC91AF1"
+    "do_objectID": "E1D61ADD-C3B3-40AF-B61C-7C4473F1E7B1"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,26 +33,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "90344B1A-81F2-45D5-8435-1F8B3D02FD33"
-    },
-    {
-      "class": "bitmap",
-      "id": "94C455EC-875A-495D-800D-6205B6FF370D"
-    },
-    {
-      "class": "group",
-      "id": "8FE69656-67B2-4864-B590-E190C59A09AF"
+      "class": "text",
+      "id": "686EF9D2-2F5F-497F-B2AC-3F2A2394B85B"
     },
     {
       "class": "text",
-      "id": "04FCE46D-BA43-4679-A0AF-C04204754AD9"
+      "id": "8BE65B34-F40E-4F22-9CBA-2A7B9494C2E7"
+    },
+    {
+      "class": "bitmap",
+      "id": "F56F49E2-5917-4CA3-9108-2D747B4C5086"
     }
   ],
-  "name": "Header",
+  "name": "Own Token",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,7 +56,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AA7D15F0-4D0A-4A7B-A211-356E79DD7710",
+    "do_objectID": "590DF8A1-3917-43C9-805A-7A681604834A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

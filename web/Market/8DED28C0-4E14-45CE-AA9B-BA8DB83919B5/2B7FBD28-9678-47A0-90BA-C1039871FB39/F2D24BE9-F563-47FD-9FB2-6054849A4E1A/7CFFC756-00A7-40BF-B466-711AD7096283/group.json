@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C6EF5306-8B80-4BEB-A780-912721584BC0",
+  "do_objectID": "7CFFC756-00A7-40BF-B466-711AD7096283",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8C2B2412-7390-4184-BB6F-D4B69BA678D7",
+    "do_objectID": "5521141B-C8AA-4755-A0E8-93FE359D68EB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "97CB77CE-3185-49ED-A0F5-A116A89D23E8",
-    "height": 209,
-    "width": 1440,
+    "do_objectID": "D91A1EEE-0C80-4812-99ED-75B94E5B0A57",
+    "height": 50,
+    "width": 130,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "A6B1EE54-9F00-4AC5-A0BA-460D9CC91AF1"
+    "do_objectID": "85B60D85-219D-4A81-8A9A-64C7E421E6D0"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,26 +33,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "90344B1A-81F2-45D5-8435-1F8B3D02FD33"
-    },
-    {
-      "class": "bitmap",
-      "id": "94C455EC-875A-495D-800D-6205B6FF370D"
-    },
-    {
-      "class": "group",
-      "id": "8FE69656-67B2-4864-B590-E190C59A09AF"
+      "id": "E703A6FE-1835-46B1-B9E9-280C07024AB7"
     },
     {
       "class": "text",
-      "id": "04FCE46D-BA43-4679-A0AF-C04204754AD9"
+      "id": "4A8F3B9F-00C4-4459-B2DA-28EABD5F7C75"
     }
   ],
-  "name": "Header",
+  "name": "Buy Button",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,7 +52,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AA7D15F0-4D0A-4A7B-A211-356E79DD7710",
+    "do_objectID": "9F4A89AB-811C-4011-8D5D-CD8F61CC0F24",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
