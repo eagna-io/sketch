@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Regular",
-              "size": 25
+              "size": 24
             }
           },
           "kerning": 0,
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 17,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "MACHI cafeドリンク(S)"
+    "string": "1位 ~ 3位"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 37,
-    "width": 264,
-    "x": 302.9999999999999,
-    "y": 103
+    "height": 36,
+    "width": 99,
+    "x": 309.9999999999999,
+    "y": 79
   },
-  "glyphBounds": "{{2, 8}, {259, 26}}",
+  "glyphBounds": "{{2, 7}, {96, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "MACHI cafeドリンク(S)",
+  "name": "1位 ~ 3位",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -90,7 +90,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Regular",
-            "size": 25
+            "size": 24
           }
         },
         "kerning": 0,

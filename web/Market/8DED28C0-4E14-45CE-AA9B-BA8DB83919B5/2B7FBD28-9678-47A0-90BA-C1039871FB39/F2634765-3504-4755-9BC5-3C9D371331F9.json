@@ -17,12 +17,12 @@
   "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
+    "constrainProportions": false,
     "do_objectID": "08AF7EAA-51B2-4463-9F56-BBCAA89A885B",
-    "height": 256,
-    "width": 268,
-    "x": 120,
-    "y": 400
+    "height": 225,
+    "width": 416.25,
+    "x": 16.875,
+    "y": 422
   },
   "hasClippingMask": false,
   "image": {

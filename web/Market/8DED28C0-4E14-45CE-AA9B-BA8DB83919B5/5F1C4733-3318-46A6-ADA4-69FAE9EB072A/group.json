@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 311,
-    "width": 567,
-    "x": 110,
-    "y": 1547
+    "height": 302,
+    "width": 693,
+    "x": 230,
+    "y": 1472
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -43,6 +43,18 @@
     {
       "class": "text",
       "id": "E86C1F1F-986A-4114-9555-4BCFB42C4F86"
+    },
+    {
+      "class": "text",
+      "id": "2C869965-3465-439D-890C-78A8238C23AE"
+    },
+    {
+      "class": "text",
+      "id": "869DEA3A-E540-4718-8436-7EFFCBA4C54C"
+    },
+    {
+      "class": "text",
+      "id": "A45AFFC9-15EF-4989-845D-01D3D0252EB2"
     }
   ],
   "name": "Reward",

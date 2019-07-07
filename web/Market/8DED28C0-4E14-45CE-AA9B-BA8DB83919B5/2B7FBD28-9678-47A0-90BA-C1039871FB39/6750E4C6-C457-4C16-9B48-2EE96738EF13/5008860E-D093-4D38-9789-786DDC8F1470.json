@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 30
+              "size": 28
             }
           },
           "kerning": 0,
@@ -109,12 +109,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8F2A98D8-5BA5-4034-B4AB-3D43D61D5FC6",
-    "height": 45,
-    "width": 137,
-    "x": 60,
-    "y": 52
+    "height": 41,
+    "width": 127.125,
+    "x": 54.11515748031488,
+    "y": 51
   },
-  "glyphBounds": "{{20, 12}, {116, 30}}",
+  "glyphBounds": "{{15, 10}, {112, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -150,7 +150,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
-            "size": 30
+            "size": 28
           }
         },
         "kerning": 0,
@@ -161,7 +161,7 @@
         },
         "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },

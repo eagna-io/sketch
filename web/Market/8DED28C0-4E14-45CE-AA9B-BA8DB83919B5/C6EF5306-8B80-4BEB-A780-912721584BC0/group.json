@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "97CB77CE-3185-49ED-A0F5-A116A89D23E8",
-    "height": 209,
+    "height": 60,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -46,10 +46,6 @@
     {
       "class": "group",
       "id": "8FE69656-67B2-4864-B590-E190C59A09AF"
-    },
-    {
-      "class": "text",
-      "id": "04FCE46D-BA43-4679-A0AF-C04204754AD9"
     }
   ],
   "name": "Header",
