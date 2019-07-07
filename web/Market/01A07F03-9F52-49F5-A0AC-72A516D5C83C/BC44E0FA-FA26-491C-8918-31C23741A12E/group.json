@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 160,
-    "width": 307,
-    "x": 35,
-    "y": 249
+    "height": 166,
+    "width": 323,
+    "x": 20,
+    "y": 825
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -43,10 +43,6 @@
     {
       "class": "shapePath",
       "id": "653607F7-45BE-4325-9DE8-71CBBAF54A5A"
-    },
-    {
-      "class": "text",
-      "id": "0F35CD82-935E-4B4B-8A08-9358FFBD7B49"
     }
   ],
   "name": "Short Desc",

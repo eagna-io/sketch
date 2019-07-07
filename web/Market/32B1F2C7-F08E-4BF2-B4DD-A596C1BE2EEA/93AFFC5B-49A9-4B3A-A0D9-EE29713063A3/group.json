@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 139,
+    "height": 157,
     "width": 375,
     "x": 0,
     "y": 60
@@ -43,6 +43,10 @@
     {
       "class": "group",
       "id": "51C11288-D7B2-4912-8BCD-7FEE6DE42B2A"
+    },
+    {
+      "class": "text",
+      "id": "0FC1ED32-DFA8-4745-A6AA-B73669D73B59"
     }
   ],
   "name": "Market Header",

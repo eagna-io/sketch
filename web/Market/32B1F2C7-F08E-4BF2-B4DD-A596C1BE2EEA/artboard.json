@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1143,
+    "height": 1121,
     "width": 375,
     "x": 345,
     "y": -334
@@ -59,19 +59,39 @@
     },
     {
       "class": "group",
-      "id": "80169D2A-F71A-4ACC-9E83-3609EC1DD872"
+      "id": "6D7380D6-3513-450A-A7C4-D2F8992C06F0"
+    },
+    {
+      "class": "group",
+      "id": "CBA7AE58-D9F6-41F7-9833-C09839AF57E6"
     },
     {
       "class": "group",
       "id": "F7A6D5EE-8ADD-423C-BC07-1586E03265D3"
     },
     {
-      "class": "group",
-      "id": "2555E0B8-7962-4144-B00E-B2778208DD4B"
+      "class": "text",
+      "id": "5BEAF722-5E57-415A-9F6A-F89E5D251D8E"
+    },
+    {
+      "class": "text",
+      "id": "F4D037BF-E9BA-451C-A021-A4F314BAE0DF"
     },
     {
       "class": "group",
-      "id": "885FCCD0-1F25-4782-87A5-48AC1631BAE6"
+      "id": "616DE257-55DC-4A9D-93C2-C85ADBFF47B6"
+    },
+    {
+      "class": "bitmap",
+      "id": "E93EC882-7BBA-4DA9-B777-03D48CBF2890"
+    },
+    {
+      "class": "rectangle",
+      "id": "641DAFEE-77BE-4B20-A5F0-4AD36BC1EB9E"
+    },
+    {
+      "class": "bitmap",
+      "id": "EFCF63BF-81B4-4413-A69D-31FA2A85F01C"
     }
   ],
   "name": "iPhone 8 Copy",

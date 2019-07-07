@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 906,
+    "height": 1142,
     "width": 375,
     "x": -188,
     "y": -334
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,16 +58,32 @@
       "id": "2E320B0E-65F4-4EAA-910F-074741DA7864"
     },
     {
-      "class": "group",
-      "id": "24779684-4D6E-4D7E-AEC9-675405F2A731"
-    },
-    {
-      "class": "group",
-      "id": "EBD94C7C-1495-495F-A113-07F0705D2069"
+      "class": "text",
+      "id": "A99979C2-5079-4BE9-99A0-F57A2EEB7BAB"
     },
     {
       "class": "group",
       "id": "BC44E0FA-FA26-491C-8918-31C23741A12E"
+    },
+    {
+      "class": "group",
+      "id": "D0CD393F-F961-44C1-81F7-98E7B670B4B2"
+    },
+    {
+      "class": "group",
+      "id": "B187AC86-3ABF-4154-89EE-052AB5A89829"
+    },
+    {
+      "class": "group",
+      "id": "3937DFB8-B4EF-4E67-9F9F-B432E01F96A8"
+    },
+    {
+      "class": "group",
+      "id": "9607E6C5-AEC8-461A-89BE-3536BDC90124"
+    },
+    {
+      "class": "text",
+      "id": "D10C508A-D5DF-4A53-95CE-0696CA5CE07E"
     }
   ],
   "name": "iPhone 8",
