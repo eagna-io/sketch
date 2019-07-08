@@ -60,12 +60,12 @@
         "location": 1
       }
     ],
-    "string": "２. 自分の予想通りにトークンを売買！"
+    "string": "３. 当たったトークンで報酬をGET！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DF7C00C5-71C5-4ABB-B71F-BE0B9C8BA5E1",
+  "do_objectID": "4724BB73-1900-41BF-AAA2-B46C0982D234",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -80,11 +80,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 308,
-    "x": 27,
-    "y": 290
+    "width": 276,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{5, 10}, {281, 23}}",
+  "glyphBounds": "{{5, 10}, {264, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,9 +93,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "２. 自分の予想通りにトークンを売買！",
+  "name": "３. 当たったトークンで報酬をGET！",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -133,5 +133,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

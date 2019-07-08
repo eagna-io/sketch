@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "06B044AF-8D64-49F9-A2F4-9186DE7E05ED",
+  "do_objectID": "40169791-A1B8-44CA-90C9-472642AACF2D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 92,
-    "width": 88,
-    "x": 142,
-    "y": 161
+    "height": 178,
+    "width": 284,
+    "x": 27,
+    "y": 741
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,18 +30,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "9CDC841D-97B9-4C3F-BEF7-305FFAF47382"
+      "class": "text",
+      "id": "4724BB73-1900-41BF-AAA2-B46C0982D234"
     },
     {
-      "class": "bitmap",
-      "id": "394AE72F-9764-492D-89F9-F78C65BAFED2"
+      "class": "group",
+      "id": "2EAD5F34-83B7-4855-88BB-71284601B6C6"
     }
   ],
-  "name": "参加イラスト",
+  "name": "step 3",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

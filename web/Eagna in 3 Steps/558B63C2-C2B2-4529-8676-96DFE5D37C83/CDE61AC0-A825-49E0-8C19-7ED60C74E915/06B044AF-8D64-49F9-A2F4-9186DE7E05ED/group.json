@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2EAD5F34-83B7-4855-88BB-71284601B6C6",
+  "do_objectID": "06B044AF-8D64-49F9-A2F4-9186DE7E05ED",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 117,
-    "width": 249,
-    "x": 62,
-    "y": 581
+    "height": 92,
+    "width": 88,
+    "x": 115,
+    "y": 61
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,30 +30,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "2C2315B9-876E-42E9-BAFE-7C14BE8F0619"
-    },
-    {
-      "class": "shapePath",
-      "id": "08B158B7-2BD7-42E1-8DB1-203688848F21"
+      "class": "group",
+      "id": "9CDC841D-97B9-4C3F-BEF7-305FFAF47382"
     },
     {
       "class": "bitmap",
-      "id": "2AE82DE9-CB79-47CF-A9F8-E9B7A04D2C8B"
-    },
-    {
-      "class": "bitmap",
-      "id": "268A7D55-7B3E-4FEC-B0A7-EB5C698BB177"
-    },
-    {
-      "class": "bitmap",
-      "id": "777D2613-ED6E-4488-80F4-84EBB756E85F"
+      "id": "394AE72F-9764-492D-89F9-F78C65BAFED2"
     }
   ],
-  "name": "報酬イラスト",
+  "name": "参加イラスト",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

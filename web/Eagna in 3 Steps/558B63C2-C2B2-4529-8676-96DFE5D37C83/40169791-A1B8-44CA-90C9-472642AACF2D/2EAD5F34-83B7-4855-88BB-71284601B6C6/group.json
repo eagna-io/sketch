@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1FE02755-5C1E-4019-A098-2DEC5C737656",
+  "do_objectID": "2EAD5F34-83B7-4855-88BB-71284601B6C6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 132,
-    "width": 171,
-    "x": 95,
-    "y": 351
+    "height": 117,
+    "width": 249,
+    "x": 35,
+    "y": 61
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,23 +33,27 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "D02E1B18-B4E0-4920-AD2B-A07AEBE58556"
+      "class": "bitmap",
+      "id": "2C2315B9-876E-42E9-BAFE-7C14BE8F0619"
     },
     {
-      "class": "group",
-      "id": "D76EDD39-BA67-436D-850B-D4BFC7B80DA6"
+      "class": "shapePath",
+      "id": "08B158B7-2BD7-42E1-8DB1-203688848F21"
     },
     {
       "class": "bitmap",
-      "id": "2CC90CB4-907E-40FE-822B-ADBB1C8FAB24"
+      "id": "2AE82DE9-CB79-47CF-A9F8-E9B7A04D2C8B"
     },
     {
       "class": "bitmap",
-      "id": "06D1BD84-8FB5-4CF1-9393-84574D328C59"
+      "id": "268A7D55-7B3E-4FEC-B0A7-EB5C698BB177"
+    },
+    {
+      "class": "bitmap",
+      "id": "777D2613-ED6E-4488-80F4-84EBB756E85F"
     }
   ],
-  "name": "売買イラスト",
+  "name": "報酬イラスト",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
