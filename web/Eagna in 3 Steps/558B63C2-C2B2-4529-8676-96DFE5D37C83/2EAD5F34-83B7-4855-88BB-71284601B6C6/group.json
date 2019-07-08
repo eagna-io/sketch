@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6750E4C6-C457-4C16-9B48-2EE96738EF13",
+  "do_objectID": "2EAD5F34-83B7-4855-88BB-71284601B6C6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 92,
-    "width": 182,
-    "x": 246.2598425196851,
-    "y": 687
+    "height": 117,
+    "width": 249,
+    "x": 62,
+    "y": 581
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,19 +33,27 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "509EACE2-3C3B-4EE1-9F78-B7942A67AD99"
+      "class": "bitmap",
+      "id": "2C2315B9-876E-42E9-BAFE-7C14BE8F0619"
     },
     {
-      "class": "text",
-      "id": "5008860E-D093-4D38-9789-786DDC8F1470"
+      "class": "shapePath",
+      "id": "08B158B7-2BD7-42E1-8DB1-203688848F21"
     },
     {
-      "class": "group",
-      "id": "C0FD7248-8FC0-402B-AE66-1B690F2B7152"
+      "class": "bitmap",
+      "id": "2AE82DE9-CB79-47CF-A9F8-E9B7A04D2C8B"
+    },
+    {
+      "class": "bitmap",
+      "id": "268A7D55-7B3E-4FEC-B0A7-EB5C698BB177"
+    },
+    {
+      "class": "bitmap",
+      "id": "777D2613-ED6E-4488-80F4-84EBB756E85F"
     }
   ],
-  "name": "Own Coin",
+  "name": "報酬イラスト",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

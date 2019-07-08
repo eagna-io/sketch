@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6750E4C6-C457-4C16-9B48-2EE96738EF13",
+  "do_objectID": "9CDC841D-97B9-4C3F-BEF7-305FFAF47382",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 92,
-    "width": 182,
-    "x": 246.2598425196851,
-    "y": 687
+    "height": 35,
+    "width": 88,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,20 +33,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "509EACE2-3C3B-4EE1-9F78-B7942A67AD99"
+      "class": "rectangle",
+      "id": "41D67FDC-F7A2-42B2-863D-476011FA9FF9"
     },
     {
       "class": "text",
-      "id": "5008860E-D093-4D38-9789-786DDC8F1470"
-    },
-    {
-      "class": "group",
-      "id": "C0FD7248-8FC0-402B-AE66-1B690F2B7152"
+      "id": "1A939A21-9572-44B5-A118-B7AB58EBE9FA"
     }
   ],
-  "name": "Own Coin",
-  "nameIsFixed": true,
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

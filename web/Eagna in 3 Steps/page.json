@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6750E4C6-C457-4C16-9B48-2EE96738EF13",
+  "do_objectID": "178AFE08-D9C9-4A30-A8D9-4956B0958612",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,16 +15,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 92,
-    "width": 182,
-    "x": 246.2598425196851,
-    "y": 687
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -738,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,19 +40,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "509EACE2-3C3B-4EE1-9F78-B7942A67AD99"
-    },
-    {
-      "class": "text",
-      "id": "5008860E-D093-4D38-9789-786DDC8F1470"
-    },
-    {
-      "class": "group",
-      "id": "C0FD7248-8FC0-402B-AE66-1B690F2B7152"
+      "class": "artboard",
+      "id": "558B63C2-C2B2-4529-8676-96DFE5D37C83"
     }
   ],
-  "name": "Own Coin",
+  "name": "Eagna in 3 Steps",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -57,5 +56,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -500,
+    "guides": [
+    ]
   }
 }

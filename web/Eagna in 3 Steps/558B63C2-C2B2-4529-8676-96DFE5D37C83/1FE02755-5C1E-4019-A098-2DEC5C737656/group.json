@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6750E4C6-C457-4C16-9B48-2EE96738EF13",
+  "do_objectID": "1FE02755-5C1E-4019-A098-2DEC5C737656",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 92,
-    "width": 182,
-    "x": 246.2598425196851,
-    "y": 687
+    "height": 132,
+    "width": 171,
+    "x": 95,
+    "y": 351
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,19 +33,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "509EACE2-3C3B-4EE1-9F78-B7942A67AD99"
-    },
-    {
-      "class": "text",
-      "id": "5008860E-D093-4D38-9789-786DDC8F1470"
+      "class": "group",
+      "id": "D02E1B18-B4E0-4920-AD2B-A07AEBE58556"
     },
     {
       "class": "group",
-      "id": "C0FD7248-8FC0-402B-AE66-1B690F2B7152"
+      "id": "D76EDD39-BA67-436D-850B-D4BFC7B80DA6"
+    },
+    {
+      "class": "bitmap",
+      "id": "2CC90CB4-907E-40FE-822B-ADBB1C8FAB24"
+    },
+    {
+      "class": "bitmap",
+      "id": "06D1BD84-8FB5-4CF1-9393-84574D328C59"
     }
   ],
-  "name": "Own Coin",
+  "name": "売買イラスト",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

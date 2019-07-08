@@ -1,8 +1,9 @@
 {
-  "_class": "group",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "6750E4C6-C457-4C16-9B48-2EE96738EF13",
+  "do_objectID": "2CC90CB4-907E-40FE-822B-ADBB1C8FAB24",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,41 +13,30 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 92,
-    "width": 182,
-    "x": 246.2598425196851,
-    "y": 687
+    "constrainProportions": true,
+    "height": 53,
+    "width": 53,
+    "x": 61,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/53aea2215fc9b05ee61952684d3a65658db37a16.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "text",
-      "id": "509EACE2-3C3B-4EE1-9F78-B7942A67AD99"
-    },
-    {
-      "class": "text",
-      "id": "5008860E-D093-4D38-9789-786DDC8F1470"
-    },
-    {
-      "class": "group",
-      "id": "C0FD7248-8FC0-402B-AE66-1B690F2B7152"
-    }
-  ],
-  "name": "Own Coin",
-  "nameIsFixed": true,
+  "name": "矢印アイコン",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
