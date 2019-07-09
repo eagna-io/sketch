@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "178AFE08-D9C9-4A30-A8D9-4956B0958612",
+  "do_objectID": "9737019C-AE02-4A36-B23C-87017F53588E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 289,
+    "width": 418,
+    "x": 511,
+    "y": 182
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -738,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,15 +33,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "558B63C2-C2B2-4529-8676-96DFE5D37C83"
+      "class": "group",
+      "id": "FCCEE7B6-B5A5-42EC-9756-444314AB958F"
     },
     {
-      "class": "artboard",
-      "id": "59B6F9D3-B174-4881-ABC6-16C51E3F9D72"
+      "class": "text",
+      "id": "86AE49BF-4588-49DA-99A1-0C4A92F5CF93"
     }
   ],
-  "name": "Eagna in 3 Steps",
+  "name": "Step 1",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,11 +53,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -500,
-    "guides": [
-    ]
   }
 }

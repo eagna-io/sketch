@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB1BF5A9-0C21-455B-897C-5506BD758983",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8CEE70EC-8BBD-49BE-82D8-5AC89CE11E62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "68115886-9C53-4677-AFB8-A9CAE100E752",
+    "height": 136,
+    "width": 290,
+    "x": 64,
+    "y": 132
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E76EBF3D-E43B-49F3-BDC5-FBE22A1C2F71"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "52CF359F-8955-4BCB-B7E7-D92FE91CB996"
+    },
+    {
+      "class": "shapePath",
+      "id": "A75ED9D9-F659-4848-82DF-6675A8BBFBD4"
+    },
+    {
+      "class": "bitmap",
+      "id": "2043D50D-02D6-46EF-8177-610464F3E9AC"
+    },
+    {
+      "class": "bitmap",
+      "id": "BD15930D-DBA4-4871-96E8-F560140E002F"
+    },
+    {
+      "class": "bitmap",
+      "id": "9B56EEDF-AF48-4585-A991-441E97FE2073"
+    }
+  ],
+  "name": "報酬イラスト",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E71ED667-951A-41A6-8E28-F9C0FBBD8B4E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

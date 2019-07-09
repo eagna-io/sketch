@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "178AFE08-D9C9-4A30-A8D9-4956B0958612",
+  "do_objectID": "215A8BD0-D07E-4BA6-8FED-0359CFD1B9D3",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B2C079BD-0152-4DB1-AE42-04A57A7725BE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,23 +16,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "do_objectID": "184E2521-77A5-4EF1-A42A-70C5906582E7",
+    "height": 60,
+    "width": 150,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "4ED37592-AE1E-4013-8A9D-A147E5FC4E2E"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -738,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,31 +36,26 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "558B63C2-C2B2-4529-8676-96DFE5D37C83"
+      "class": "rectangle",
+      "id": "36193A50-441C-46D1-B12C-CBBE731A4493"
     },
     {
-      "class": "artboard",
-      "id": "59B6F9D3-B174-4881-ABC6-16C51E3F9D72"
+      "class": "text",
+      "id": "AADB8FCA-41C5-450B-82A4-7506C875D2A4"
     }
   ],
-  "name": "Eagna in 3 Steps",
-  "nameIsFixed": true,
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "36C46020-EB01-40EA-A330-B161FAEB92EE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -500,
-    "guides": [
-    ]
   }
 }

@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "178AFE08-D9C9-4A30-A8D9-4956B0958612",
+  "do_objectID": "FCCEE7B6-B5A5-42EC-9756-444314AB958F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5E6BE090-4858-4345-8E05-FA305B1F7B0A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,24 +15,19 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "do_objectID": "9BD53931-6B74-4D80-85B2-FFDE052F5F61",
+    "height": 157,
+    "width": 150,
+    "x": 134,
+    "y": 132
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "87BB8C20-4126-43D6-89FD-EC3FF1474512"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -738,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,15 +36,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "558B63C2-C2B2-4529-8676-96DFE5D37C83"
+      "class": "group",
+      "id": "215A8BD0-D07E-4BA6-8FED-0359CFD1B9D3"
     },
     {
-      "class": "artboard",
-      "id": "59B6F9D3-B174-4881-ABC6-16C51E3F9D72"
+      "class": "bitmap",
+      "id": "72647B4E-CE51-453E-9AD7-D51A1865B64E"
     }
   ],
-  "name": "Eagna in 3 Steps",
+  "name": "参加イラスト",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -56,15 +52,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "265B6AF1-D9A0-4B31-849E-2B4F62FC6E4E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -500,
-    "guides": [
-    ]
   }
 }
