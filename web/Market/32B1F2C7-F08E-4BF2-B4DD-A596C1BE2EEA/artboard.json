@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -86,16 +86,12 @@
       "id": "E93EC882-7BBA-4DA9-B777-03D48CBF2890"
     },
     {
-      "class": "rectangle",
-      "id": "641DAFEE-77BE-4B20-A5F0-4AD36BC1EB9E"
-    },
-    {
-      "class": "bitmap",
-      "id": "EFCF63BF-81B4-4413-A69D-31FA2A85F01C"
+      "class": "group",
+      "id": "D12D4CA2-5E8B-4FAD-A53B-57259C194442"
     }
   ],
-  "name": "iPhone 8 Copy",
-  "nameIsFixed": false,
+  "name": "トークン詳細",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,

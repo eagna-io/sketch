@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -86,8 +86,8 @@
       "id": "D10C508A-D5DF-4A53-95CE-0696CA5CE07E"
     }
   ],
-  "name": "iPhone 8",
-  "nameIsFixed": false,
+  "name": "参加中",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,

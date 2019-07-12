@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
+    "height": 1020,
     "width": 375,
     "x": -186,
     "y": -330
@@ -51,19 +51,39 @@
   "layers": [
     {
       "class": "group",
-      "id": "5A7ADAC9-FD04-4194-907B-C1ED2B77C3CC"
-    },
-    {
-      "class": "group",
-      "id": "E22B6E33-BF39-415F-9184-90060F380F16"
-    },
-    {
-      "class": "group",
       "id": "2A5E1168-3C61-4389-9DC7-40CF91D74219"
     },
     {
       "class": "group",
       "id": "F28C08DE-7E8E-4AC1-BC6A-0F0DDE75820D"
+    },
+    {
+      "class": "group",
+      "id": "D64B8781-3924-4595-8EEB-27D8EF77D063"
+    },
+    {
+      "class": "text",
+      "id": "5E4213D0-9983-45FF-9A55-5BB10AA29CA4"
+    },
+    {
+      "class": "text",
+      "id": "914DA3E3-ABAF-48B6-993F-115EB5E7B513"
+    },
+    {
+      "class": "group",
+      "id": "3C357394-D449-4E73-874D-624D6AC68FF5"
+    },
+    {
+      "class": "group",
+      "id": "5567EE05-D8CA-4930-B00B-BF05EDA17724"
+    },
+    {
+      "class": "text",
+      "id": "E011150A-1055-49D2-A0E0-AA03F056F95D"
+    },
+    {
+      "class": "text",
+      "id": "6F1812FC-0144-446B-90DE-6E5F5EED49EB"
     }
   ],
   "name": "iPhone 8",
