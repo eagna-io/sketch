@@ -1,8 +1,9 @@
 {
-  "_class": "group",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "1A132E46-D2E2-4D92-AA59-C7C6FCA9B519",
+  "do_objectID": "E354FE50-60A5-4782-947C-896B1DE7219C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,37 +13,30 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 50,
-    "width": 150,
-    "x": 150,
-    "y": 570
+    "constrainProportions": true,
+    "height": 238,
+    "width": 337,
+    "x": 0,
+    "y": -30
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5a302451e0e45d5e251d7ae7238d01fe192a920f.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "36738E69-9377-49E0-BD8B-B975D541F0D8"
-    },
-    {
-      "class": "text",
-      "id": "ECEB5F0E-AEBE-4548-9320-FE597FA6847B"
-    }
-  ],
-  "name": "参加ボタン",
-  "nameIsFixed": true,
+  "name": "aladdin",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

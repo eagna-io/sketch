@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 83,
     "width": 115.875,
-    "x": 56.6929133858268,
-    "y": 885
+    "x": 56.69291338582684,
+    "y": 895
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",

@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 2,
+        "length": 1,
         "location": 0
       },
       {
@@ -57,7 +57,7 @@
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 1,
-        "location": 2
+        "location": 1
       },
       {
         "_class": "stringAttribute",
@@ -85,10 +85,10 @@
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 1,
-        "location": 3
+        "location": 2
       }
     ],
-    "string": "10 枚"
+    "string": "- 枚"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -108,11 +108,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 45,
-    "width": 53,
-    "x": 155,
+    "width": 29,
+    "x": 179,
     "y": 194
   },
-  "glyphBounds": "{{2, 12}, {50, 25}}",
+  "glyphBounds": "{{1, 23}, {27, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -121,7 +121,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "10 枚",
+  "name": "- 枚",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -2,10 +2,9 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1886DA9E-7C24-424E-B69E-0328E49F919B",
+  "do_objectID": "78CE4914-EFD1-4FED-92AC-BA211BB3292B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "64412144-94C5-4AC5-8014-83751F830E77",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AE7CEFEA-5EEB-474C-8CBA-9F7F0DF5230B",
-    "height": 962,
-    "width": 450,
-    "x": 230,
-    "y": 329
+    "height": 49,
+    "width": 336,
+    "x": 20,
+    "y": 990
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "D18242CC-C36C-4C36-BF26-3DBB6FC37DF9"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,18 +30,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "585BCC1B-2245-4E8C-8061-951F8A7BCEC3"
+      "class": "text",
+      "id": "1FED387D-8491-456B-BF5D-36BCC6F9CA5C"
+    },
+    {
+      "class": "text",
+      "id": "84C576B3-1560-43F6-B119-EC11B44BC46B"
     },
     {
       "class": "group",
-      "id": "1A132E46-D2E2-4D92-AA59-C7C6FCA9B519"
+      "id": "173546B2-BC84-4CD4-97BA-9155AA4B62BD"
     }
   ],
-  "name": "参加コンポーネント",
+  "name": "Coin Asset",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -52,7 +53,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6564AE38-6D90-4BED-8F1B-B4384272E305",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

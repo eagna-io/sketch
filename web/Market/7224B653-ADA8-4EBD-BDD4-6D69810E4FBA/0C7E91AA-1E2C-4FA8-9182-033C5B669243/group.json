@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 995,
     "width": 450,
-    "x": 1290,
-    "y": 329
+    "x": 760,
+    "y": 327
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -71,6 +71,10 @@
     {
       "class": "text",
       "id": "8EA2B861-12F3-4084-AFB1-A1761E6653F4"
+    },
+    {
+      "class": "text",
+      "id": "884AF257-56F6-43BD-8A6B-DF08751D9D95"
     }
   ],
   "name": "Token Spiderman",

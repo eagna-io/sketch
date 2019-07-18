@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 962,
+    "height": 996,
     "width": 450,
-    "x": 760,
-    "y": 329
+    "x": 230,
+    "y": 327
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -71,6 +71,10 @@
     {
       "class": "text",
       "id": "30976739-40CD-4296-B6C8-6DD0D0E4C2D4"
+    },
+    {
+      "class": "text",
+      "id": "9C423079-E5EF-4214-99A3-4E1F8C749E97"
     }
   ],
   "name": "Token Aladdin",

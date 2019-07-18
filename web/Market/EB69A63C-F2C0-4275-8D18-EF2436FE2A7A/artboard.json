@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1142,
+    "height": 1236,
     "width": 375,
     "x": 820,
     "y": -334
@@ -80,10 +80,6 @@
     {
       "class": "group",
       "id": "D2252DBD-01F4-481B-85D3-81F3591AF143"
-    },
-    {
-      "class": "group",
-      "id": "23D56289-B639-46E8-9F77-56A36E4A3F9C"
     }
   ],
   "name": "参加前",
