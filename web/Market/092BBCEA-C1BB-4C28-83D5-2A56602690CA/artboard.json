@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1201,
+    "height": 1078,
     "width": 375,
     "x": 1295,
     "y": -334
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,15 +47,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "C0345C33-253F-4B8C-ADF3-ADCCA4DC6C9B"
+      "id": "CFA940CB-F6B3-45F4-827C-46751A9032E2"
     },
     {
-      "class": "group",
-      "id": "10018C82-99EA-4BE1-8424-85D5B6794A00"
+      "class": "shapePath",
+      "id": "5D229BFF-749A-4EFB-B0B6-7E4D05A80CB8"
     },
     {
       "class": "group",
@@ -92,6 +92,14 @@
     {
       "class": "text",
       "id": "E227A04F-2AA5-469D-82B3-13D758B4CD64"
+    },
+    {
+      "class": "text",
+      "id": "DF42702A-1C04-428A-B091-8F77EBA43C2F"
+    },
+    {
+      "class": "group",
+      "id": "656A2971-91D6-4BCB-ADDA-9A1465161330"
     }
   ],
   "name": "トークン詳細 参加前",

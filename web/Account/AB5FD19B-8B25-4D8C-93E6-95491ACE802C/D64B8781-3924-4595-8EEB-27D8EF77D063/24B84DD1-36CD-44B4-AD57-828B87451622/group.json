@@ -17,14 +17,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "78FBE207-FE48-40CB-A132-4C4B9B034B67",
-    "height": 18.93687707641196,
-    "width": 106.6445182724252,
-    "x": 9.966777408637874,
-    "y": 7.973421926910299
+    "height": 13,
+    "width": 63,
+    "x": 6,
+    "y": 112
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "7B449268-9D3A-4BB1-94F0-6E9A0B9D3378"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",

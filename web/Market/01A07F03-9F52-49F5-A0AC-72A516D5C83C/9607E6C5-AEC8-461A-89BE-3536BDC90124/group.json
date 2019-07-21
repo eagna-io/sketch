@@ -18,7 +18,7 @@
     "height": 181,
     "width": 322,
     "x": 20,
-    "y": 620
+    "y": 670
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -43,6 +43,14 @@
     {
       "class": "shapePath",
       "id": "4DC73E1A-CDF4-43B4-8B08-B33975235A54"
+    },
+    {
+      "class": "text",
+      "id": "CDCE51BE-B3CC-42EE-872B-4A73E7ED2662"
+    },
+    {
+      "class": "text",
+      "id": "913656F9-8669-4B11-A15B-82C76127E4F5"
     },
     {
       "class": "text",

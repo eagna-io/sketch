@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 27,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "アラジンvsスパイダーマン・ファー・\nフローム・ホーム"
+    "string": "アラジンvsスパイダーマン・ファー・フローム・ホーム"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "89759E0E-9C68-402E-A7DC-240EAE3FD94D",
     "height": 48,
-    "width": 274,
-    "x": 13,
-    "y": 252
+    "width": 226.5757575757576,
+    "x": 10,
+    "y": 187
   },
-  "glyphBounds": "{{1, 5}, {267, 39}}",
+  "glyphBounds": "{{1, 5}, {224, 40}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "アラジンvsスパイダーマン・ファー・ フ",
+  "name": "アラジンvsスパイダーマン・ファー・フロ",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -109,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

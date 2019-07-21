@@ -23,8 +23,7 @@
     "y": 14
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "A47AAE1A-FD4F-4144-90AB-8E5C3BDCC936"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,

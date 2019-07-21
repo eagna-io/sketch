@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1284,
+    "height": 2144,
     "width": 375,
     "x": 1292,
     "y": -314
@@ -73,6 +73,38 @@
     {
       "class": "group",
       "id": "493B0F6F-B238-4211-A7F1-DBDA689A978D"
+    },
+    {
+      "class": "text",
+      "id": "F41752E5-A46D-4F1F-B374-CBE8F5264A2F"
+    },
+    {
+      "class": "group",
+      "id": "37581513-8EAC-43CA-8A40-1391BECFC300"
+    },
+    {
+      "class": "group",
+      "id": "4D56E5AD-46E1-4A6F-AABD-ADFF874563ED"
+    },
+    {
+      "class": "group",
+      "id": "A89B29B6-58D7-4AD8-A959-3214385646C0"
+    },
+    {
+      "class": "group",
+      "id": "39CCA678-097F-437C-8611-F0098AA86468"
+    },
+    {
+      "class": "text",
+      "id": "9E5578D8-97FF-4265-B042-8BDEE6B453A6"
+    },
+    {
+      "class": "text",
+      "id": "ED76C46C-4132-4504-B34B-EE13A752E84E"
+    },
+    {
+      "class": "text",
+      "id": "7C385228-45D2-40E2-8CBD-3671B427864C"
     }
   ],
   "name": "iPhone 8",

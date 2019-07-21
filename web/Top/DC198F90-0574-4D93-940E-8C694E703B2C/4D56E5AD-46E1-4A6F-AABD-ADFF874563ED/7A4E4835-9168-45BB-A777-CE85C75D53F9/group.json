@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A4E4835-9168-45BB-A777-CE85C75D53F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B530415B-3FA9-4CD9-A74D-0E95BC10B021",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AA7ACF8-D67F-4962-9704-246292E48FA6",
+    "height": 84,
+    "width": 98,
+    "x": 31,
+    "y": 64
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9C209E02-4B7C-45A2-B2AF-4EDA1B71B486"
+    },
+    {
+      "class": "group",
+      "id": "EFA5A888-C843-4984-9C08-E0CF53A3B401"
+    },
+    {
+      "class": "bitmap",
+      "id": "BD4F94D9-9BB7-4A6A-9320-0D056316BE5C"
+    },
+    {
+      "class": "bitmap",
+      "id": "1FB53FF7-355C-41EC-90CC-324D221A901C"
+    }
+  ],
+  "name": "売買イラスト",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18CC9FAA-8505-42E3-9747-9BF78D9DA8E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

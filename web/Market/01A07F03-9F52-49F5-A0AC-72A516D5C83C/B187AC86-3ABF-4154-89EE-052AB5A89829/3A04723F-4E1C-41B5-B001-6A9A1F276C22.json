@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 30
+              "size": 16
             }
           },
           "kerning": 0,
@@ -73,7 +73,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Regular",
-              "size": 14
+              "size": 9
             }
           },
           "kerning": 0,
@@ -84,11 +84,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 1,
+        "length": 8,
         "location": 3
       }
     ],
-    "string": "10 枚"
+    "string": "10 枚\nもっています"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -107,12 +107,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 45,
-    "width": 53,
-    "x": 155,
-    "y": 194
+    "height": 37,
+    "width": 55,
+    "x": 93,
+    "y": 123
   },
-  "glyphBounds": "{{2, 12}, {50, 25}}",
+  "glyphBounds": "{{1, 6}, {54, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -121,7 +121,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "10 枚",
+  "name": "10 枚 もっています",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -146,7 +146,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
-            "size": 30
+            "size": 16
           }
         },
         "kerning": 0,
@@ -161,5 +161,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

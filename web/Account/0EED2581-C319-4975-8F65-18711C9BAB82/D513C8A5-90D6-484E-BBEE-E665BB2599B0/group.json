@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D513C8A5-90D6-484E-BBEE-E665BB2599B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 204,
+    "width": 168,
+    "x": 12,
+    "y": 687
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4357AD4D-AE02-458F-B5A7-ECC44208B472"
+    },
+    {
+      "class": "group",
+      "id": "3A782E9A-E8E6-4179-BCA3-253A8C1D2524"
+    },
+    {
+      "class": "group",
+      "id": "71108BEC-1308-42B2-8B46-D1304D27A587"
+    },
+    {
+      "class": "text",
+      "id": "6878D84D-9BB9-41F1-959A-A7AB6824C561"
+    }
+  ],
+  "name": "参加マーケットコンポーネント",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

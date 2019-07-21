@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansJP-Black",
-              "size": 14
+              "name": "NotoSansJP-Regular",
+              "size": 10
             }
           },
           "kerning": 0,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F0940658-EBE5-4567-A2C4-2ED225C75477",
-    "height": 18.93687707641201,
-    "width": 106.6445182724251,
+    "height": 12.95681063122927,
+    "width": 61.94217473287233,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{35, 5}, {37, 14}}",
+  "glyphBounds": "{{18, 4}, {25, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,8 +93,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansJP-Black",
-            "size": 14
+            "name": "NotoSansJP-Regular",
+            "size": 10
           }
         },
         "kerning": 0,

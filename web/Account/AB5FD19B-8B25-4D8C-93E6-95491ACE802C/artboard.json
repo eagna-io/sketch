@@ -78,12 +78,8 @@
       "id": "5567EE05-D8CA-4930-B00B-BF05EDA17724"
     },
     {
-      "class": "text",
-      "id": "E011150A-1055-49D2-A0E0-AA03F056F95D"
-    },
-    {
-      "class": "text",
-      "id": "6F1812FC-0144-446B-90DE-6E5F5EED49EB"
+      "class": "group",
+      "id": "E304CA9E-A8E4-4F6D-BD8C-3528AADB37B3"
     }
   ],
   "name": "iPhone 8",

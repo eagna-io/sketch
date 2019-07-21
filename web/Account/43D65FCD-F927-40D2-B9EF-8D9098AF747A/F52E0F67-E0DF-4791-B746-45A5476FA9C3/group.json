@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 400,
-    "width": 330,
+    "constrainProportions": true,
+    "height": 303,
+    "width": 250,
     "x": 230,
-    "y": 369
+    "y": 368
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -47,14 +47,6 @@
     {
       "class": "text",
       "id": "27D7A151-2AF5-4BF7-B42C-9FC1A2AF00D5"
-    },
-    {
-      "class": "text",
-      "id": "493EE7A3-8983-43A9-8319-009EC2421F74"
-    },
-    {
-      "class": "group",
-      "id": "68E9D6AB-3C8D-44FD-A007-14F1B828281D"
     }
   ],
   "name": "参加マーケットコンポーネント",

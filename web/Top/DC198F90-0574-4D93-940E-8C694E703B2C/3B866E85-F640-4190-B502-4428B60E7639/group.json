@@ -20,11 +20,10 @@
     "height": 636,
     "width": 375,
     "x": 0,
-    "y": 558
+    "y": 1419
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "8AD5423C-8D22-4B53-812D-A5D5E8CB8A57"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,

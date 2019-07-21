@@ -17,14 +17,13 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "90F577F9-84EA-4F9B-805E-FE975D8CA384",
-    "height": 300,
-    "width": 248,
-    "x": 290,
-    "y": 683
+    "height": 204,
+    "width": 169,
+    "x": 194,
+    "y": 622
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "962D8EE3-E9F6-4168-A952-BDFB27012161"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -48,20 +47,8 @@
       "id": "42EE9BC5-AC72-4533-95A1-7D3BBDE86CB7"
     },
     {
-      "class": "text",
-      "id": "01465B0F-5283-4C6A-8221-395001F32ADA"
-    },
-    {
       "class": "group",
-      "id": "D7308DB2-AC9F-4310-9069-7950CE634EF4"
-    },
-    {
-      "class": "bitmap",
-      "id": "AC9CE11B-2B68-4C70-935D-9897D8F11F2E"
-    },
-    {
-      "class": "bitmap",
-      "id": "4A99B073-BA3E-464D-9DE9-0BC2DC6A846E"
+      "id": "F3710A85-EC9D-4E41-947C-73B18688FADD"
     }
   ],
   "name": "２注目マーケットコンポーネント",

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansJP-Regular",
+              "name": "NotoSansJP-Bold",
               "size": 16
             }
           },
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansJP-Regular",
+            "name": "NotoSansJP-Bold",
             "size": 16
           }
         },

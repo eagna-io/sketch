@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1236,
+    "height": 1382,
     "width": 375,
     "x": 820,
     "y": -334
@@ -55,6 +55,10 @@
     },
     {
       "class": "group",
+      "id": "BA0F33DA-FB09-4B1E-BD07-2406A6903E80"
+    },
+    {
+      "class": "group",
       "id": "D2270121-3FA1-458D-851B-EB93CE1D32D8"
     },
     {
@@ -70,16 +74,36 @@
       "id": "97E592C3-860B-4331-BB8F-B1305572CE6B"
     },
     {
-      "class": "group",
-      "id": "5E70F9F8-A65F-4908-8F99-FE6B7088AE78"
-    },
-    {
       "class": "shapePath",
       "id": "EBDFB7AF-1614-4646-B4B0-A1859BD0B88D"
     },
     {
+      "class": "shapePath",
+      "id": "33244E9C-597D-4806-A2C1-5707350D0705"
+    },
+    {
       "class": "group",
       "id": "D2252DBD-01F4-481B-85D3-81F3591AF143"
+    },
+    {
+      "class": "group",
+      "id": "EB40B623-F771-4BC4-8C05-4B3F8AF9E937"
+    },
+    {
+      "class": "group",
+      "id": "21940A4E-8808-4C48-AAD6-C20B8B2A0B3E"
+    },
+    {
+      "class": "text",
+      "id": "F3030B55-560C-49BB-95A1-2BDE85AA0093"
+    },
+    {
+      "class": "text",
+      "id": "9F92BF42-48CE-4E2E-9CA0-50EB18787A37"
+    },
+    {
+      "class": "text",
+      "id": "64AFCFC6-57EF-4322-B6A5-E29D1822EA57"
     }
   ],
   "name": "参加前",
