@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B31F30CA-00D2-4765-A181-0699940D53F1",
+  "do_objectID": "3937DFB8-B4EF-4E67-9F9F-B432E01F96A8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "78D5F48B-94E1-4044-B4F9-04A4B4F0AA1E",
+    "do_objectID": "6F0CD552-801C-458C-8703-6F972071194B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +15,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "37CC1E4D-6AC4-4F24-A778-E19D2295E96F",
-    "height": 100,
-    "width": 326,
-    "x": 21,
-    "y": 557
+    "constrainProportions": true,
+    "do_objectID": "CBD0A5DD-7CA1-4B6B-9A57-A3A94E19BBA7",
+    "height": 159,
+    "width": 152,
+    "x": 183,
+    "y": 69
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -35,23 +35,27 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "62B88CA0-8276-4979-88C6-EF8D612BFF97"
+      "class": "rectangle",
+      "id": "4855B893-D5BD-4CB8-A12A-0CAB1E412835"
     },
     {
       "class": "text",
-      "id": "F37BAAD4-AC6C-4EA0-8004-677FDD8DA788"
+      "id": "2E1BC36D-9C7E-49AE-902D-471EADAF69C2"
     },
     {
       "class": "group",
-      "id": "30CEA9B4-DC0D-4A7D-BD4B-18C7EC06B26B"
+      "id": "78909FBB-94D1-44AB-B576-120BF37506E4"
     },
     {
-      "class": "shapePath",
-      "id": "E12516FE-A12F-42D9-94E3-D3A1AAD69AAC"
+      "class": "text",
+      "id": "F79E2B06-E88F-4BEE-95B6-CAAF7951B681"
+    },
+    {
+      "class": "text",
+      "id": "04373900-EDAA-487E-B742-865519A52F05"
     }
   ],
-  "name": "Coin Asset",
+  "name": "Spiderman",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -59,7 +63,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9266DD46-6525-4CA2-AD96-B18D811A36E1",
+    "do_objectID": "9F80E564-51C4-4BAA-BFEE-8DA70B6630D1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

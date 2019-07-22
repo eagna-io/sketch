@@ -24,11 +24,13 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 17,
+            "minimumLineHeight": 17
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 1,
+        "length": 3,
         "location": 0
       },
       {
@@ -44,20 +46,22 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansJP-Regular",
-              "size": 13
+              "name": "NotoSansJP-Bold",
+              "size": 24
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 17,
+            "minimumLineHeight": 17
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 1,
-        "location": 1
+        "length": 2,
+        "location": 3
       },
       {
         "_class": "stringAttribute",
@@ -80,24 +84,26 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 17,
+            "minimumLineHeight": 17
           },
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 8,
-        "location": 2
+        "location": 5
       }
     ],
-    "string": "0 枚\nもっています"
+    "string": "541  coin / 枚"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F79E2B06-E88F-4BEE-95B6-CAAF7951B681",
+  "do_objectID": "04373900-EDAA-487E-B742-865519A52F05",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "17CAE340-BC8D-4421-AADE-44E0D05EBF40",
+    "do_objectID": "BA798411-5360-48B8-8E45-CAB7C6AB9255",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -108,13 +114,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0336165B-91A0-4BF5-A9FA-909BB0BE22D4",
-    "height": 37,
-    "width": 58,
-    "x": 96,
-    "y": 123
+    "do_objectID": "4E12A105-4112-4BD0-808C-E75A4714EECA",
+    "height": 34,
+    "width": 44.91017964071856,
+    "x": 13.5748502994012,
+    "y": 110.5449101796407
   },
-  "glyphBounds": "{{4, 6}, {54, 29}}",
+  "glyphBounds": "{{10, 5}, {35, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -123,7 +129,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "0 枚 もっています",
+  "name": "541 coin / 枚",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -131,13 +137,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "443B3124-6EB4-4AD4-B46D-066CC269152A",
+    "do_objectID": "0C2F685E-5479-4AB0-BBCC-AEB5573ADC2D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "0DA6091C-B101-49A9-A03C-08293E6EC70F",
+      "do_objectID": "7A844AC2-A06E-43CD-AADC-3868FDA4E9CE",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -157,7 +163,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 1,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 17,
+          "minimumLineHeight": 17
         },
         "textStyleVerticalAlignmentKey": 1
       },

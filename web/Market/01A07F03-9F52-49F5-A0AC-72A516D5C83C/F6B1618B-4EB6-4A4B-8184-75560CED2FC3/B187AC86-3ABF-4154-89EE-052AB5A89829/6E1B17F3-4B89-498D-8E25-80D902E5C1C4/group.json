@@ -2,10 +2,9 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3937DFB8-B4EF-4E67-9F9F-B432E01F96A8",
+  "do_objectID": "6E1B17F3-4B89-498D-8E25-80D902E5C1C4",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6F0CD552-801C-458C-8703-6F972071194B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "CBD0A5DD-7CA1-4B6B-9A57-A3A94E19BBA7",
-    "height": 176,
-    "width": 167,
-    "x": 197,
-    "y": 431
+    "constrainProportions": false,
+    "height": 61,
+    "width": 150,
+    "x": 0,
+    "y": 35.16436514725649
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -36,34 +34,21 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "4855B893-D5BD-4CB8-A12A-0CAB1E412835"
+      "id": "FD204D6C-6508-40B4-95E5-F04F65FAD782"
     },
     {
-      "class": "text",
-      "id": "2E1BC36D-9C7E-49AE-902D-471EADAF69C2"
-    },
-    {
-      "class": "group",
-      "id": "78909FBB-94D1-44AB-B576-120BF37506E4"
-    },
-    {
-      "class": "text",
-      "id": "F79E2B06-E88F-4BEE-95B6-CAAF7951B681"
-    },
-    {
-      "class": "text",
-      "id": "04373900-EDAA-487E-B742-865519A52F05"
+      "class": "bitmap",
+      "id": "48B32018-2A3A-472E-A1A4-688612D9C5A2"
     }
   ],
-  "name": "Spiderman",
-  "nameIsFixed": true,
+  "name": "aladdin",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9F80E564-51C4-4BAA-BFEE-8DA70B6630D1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

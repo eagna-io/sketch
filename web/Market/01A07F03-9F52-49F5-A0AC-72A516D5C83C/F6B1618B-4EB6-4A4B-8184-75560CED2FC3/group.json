@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B187AC86-3ABF-4154-89EE-052AB5A89829",
+  "do_objectID": "F6B1618B-4EB6-4A4B-8184-75560CED2FC3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 176,
-    "width": 167,
+    "constrainProportions": false,
+    "height": 274,
+    "width": 335,
     "x": 20,
-    "y": 431
+    "y": 242
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,30 +30,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A7938851-B82A-4684-956E-F7713AE897E3"
-    },
-    {
       "class": "text",
-      "id": "94AAA55B-D6AE-400E-A85D-848B419FA345"
+      "id": "A99979C2-5079-4BE9-99A0-F57A2EEB7BAB"
     },
     {
       "class": "group",
-      "id": "6E1B17F3-4B89-498D-8E25-80D902E5C1C4"
+      "id": "3937DFB8-B4EF-4E67-9F9F-B432E01F96A8"
     },
     {
-      "class": "text",
-      "id": "3A04723F-4E1C-41B5-B001-6A9A1F276C22"
+      "class": "group",
+      "id": "B187AC86-3ABF-4154-89EE-052AB5A89829"
     },
     {
-      "class": "text",
-      "id": "99CBEE48-A793-416A-AD7C-98B403144458"
+      "class": "shapePath",
+      "id": "67D48662-9385-4F2E-AA20-CD476B57F840"
     }
   ],
-  "name": "Aladdin",
+  "name": "Tokens",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
