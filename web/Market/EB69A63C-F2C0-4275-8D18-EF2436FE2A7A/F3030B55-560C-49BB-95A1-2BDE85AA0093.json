@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 34,
+        "length": 36,
         "location": 0
       }
     ],
-    "string": "参加ボタンを押すことでコインが\n配布され取引をできるようになります."
+    "string": "「参加する」ボタンを押すことでコインが配布され取引をできるようになります"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 174,
-    "x": 160,
-    "y": 280
+    "width": 180,
+    "x": 158,
+    "y": 272
   },
-  "glyphBounds": "{{0, 3}, {173, 25}}",
+  "glyphBounds": "{{0, 3}, {180, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "参加ボタンを押すことでコインが 配布され",
+  "name": "「参加する」ボタンを押すことでコインが配",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -105,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

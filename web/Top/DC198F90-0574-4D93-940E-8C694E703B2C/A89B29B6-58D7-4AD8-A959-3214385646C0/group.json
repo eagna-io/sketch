@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "22367CE0-95B8-4B45-8C72-647DCB067E21",
     "height": 143,
-    "width": 211,
+    "width": 315,
     "x": 34,
     "y": 1093
   },
@@ -41,6 +41,10 @@
     {
       "class": "group",
       "id": "CFD47A48-D2C8-4AF9-98D5-ABF24CF9749C"
+    },
+    {
+      "class": "text",
+      "id": "7C385228-45D2-40E2-8CBD-3671B427864C"
     }
   ],
   "name": "step 3",

@@ -23,16 +23,16 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 22,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "参加ボタンを押すと取引ができるようになります"
+    "string": "「参加する」ボタンを押すと取引ができるようになります"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 264,
-    "x": 36,
+    "width": 312,
+    "x": 28,
     "y": 804
   },
-  "glyphBounds": "{{0, 3}, {264, 12}}",
+  "glyphBounds": "{{7, 3}, {305, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "参加ボタンを押すと取引ができるようになり",
+  "name": "「参加する」ボタンを押すと取引ができるよ",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -96,7 +96,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 1

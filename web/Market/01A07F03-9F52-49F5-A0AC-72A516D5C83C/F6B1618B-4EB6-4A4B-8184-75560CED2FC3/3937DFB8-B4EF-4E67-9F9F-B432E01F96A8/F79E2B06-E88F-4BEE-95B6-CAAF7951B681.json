@@ -24,7 +24,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 17,
+            "minimumLineHeight": 17
           },
           "textStyleVerticalAlignmentKey": 1
         },
@@ -52,7 +54,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 17,
+            "minimumLineHeight": 17
           },
           "textStyleVerticalAlignmentKey": 1
         },
@@ -80,7 +84,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 17,
+            "minimumLineHeight": 17
           },
           "textStyleVerticalAlignmentKey": 1
         },
@@ -108,7 +114,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 17,
+            "minimumLineHeight": 17
           },
           "textStyleVerticalAlignmentKey": 1
         },
@@ -116,7 +124,7 @@
         "location": 4
       }
     ],
-    "string": "0 枚\nもっています"
+    "string": "0 枚\n持っています"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -137,12 +145,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0336165B-91A0-4BF5-A9FA-909BB0BE22D4",
-    "height": 36,
+    "height": 34,
     "width": 52.09580838323357,
-    "x": 87.22754491017965,
-    "y": 108.3861309638786
+    "x": 87.22754491017966,
+    "y": 112.3861309638786
   },
-  "glyphBounds": "{{4, 6}, {48, 28}}",
+  "glyphBounds": "{{4, 2}, {48, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -151,7 +159,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "0 枚 もっています",
+  "name": "0 枚 持っています",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -185,7 +193,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 1,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 17,
+          "minimumLineHeight": 17
         },
         "textStyleVerticalAlignmentKey": 1
       },

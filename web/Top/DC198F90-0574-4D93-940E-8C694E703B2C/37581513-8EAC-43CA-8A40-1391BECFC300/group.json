@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "BCBD1AAA-77D9-4BF3-9C2E-779C35431623",
     "height": 153,
-    "width": 266,
+    "width": 295,
     "x": 34,
     "y": 685
   },
@@ -41,6 +41,10 @@
     {
       "class": "text",
       "id": "9DF231E7-CDD0-4C90-B414-077DB2DCA207"
+    },
+    {
+      "class": "text",
+      "id": "9E5578D8-97FF-4265-B042-8BDEE6B453A6"
     }
   ],
   "name": "step 1",
