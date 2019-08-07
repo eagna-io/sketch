@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 281,
-    "width": 661,
-    "x": 230,
-    "y": 2094
+    "height": 426,
+    "width": 982,
+    "x": 229,
+    "y": 1626
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -39,6 +39,14 @@
     {
       "class": "bitmap",
       "id": "432E475E-AE05-4ED2-9C9E-472C524ED799"
+    },
+    {
+      "class": "text",
+      "id": "6C991AC6-382F-4A1F-B339-0A34C2EF3B47"
+    },
+    {
+      "class": "shapePath",
+      "id": "34743BE0-FA91-4B7B-9C67-4C3EF37CA9E7"
     }
   ],
   "name": "Market Creater",

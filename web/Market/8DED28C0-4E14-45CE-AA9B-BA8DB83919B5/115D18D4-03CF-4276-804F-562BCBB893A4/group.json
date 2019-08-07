@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 281,
-    "width": 661,
-    "x": 230,
-    "y": 1924
+    "height": 407,
+    "width": 982,
+    "x": 229,
+    "y": 1456
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -39,6 +39,10 @@
     {
       "class": "bitmap",
       "id": "25A6F9E6-28A7-49A1-BB47-C57221775373"
+    },
+    {
+      "class": "shapePath",
+      "id": "8766C964-ED6F-4047-BA8B-F9DB94CF1633"
     }
   ],
   "name": "Market Creater",

@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 166,
+    "height": 190,
     "width": 1440,
     "x": 0,
     "y": 60
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -43,6 +43,14 @@
     {
       "class": "group",
       "id": "FD21EB76-E275-4B0B-8FEA-E3EB86CB4788"
+    },
+    {
+      "class": "text",
+      "id": "830DDD4B-275E-45DD-ADC0-E46F16C41BFE"
+    },
+    {
+      "class": "text",
+      "id": "4FC4AB8B-6D15-4716-BD6B-E01732434078"
     }
   ],
   "name": "Market Header",

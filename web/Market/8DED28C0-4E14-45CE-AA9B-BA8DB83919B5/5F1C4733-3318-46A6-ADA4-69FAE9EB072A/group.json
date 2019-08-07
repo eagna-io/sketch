@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 302,
-    "width": 693,
-    "x": 230,
-    "y": 1472
+    "height": 403,
+    "width": 982,
+    "x": 228.5,
+    "y": 1896
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -55,6 +55,10 @@
     {
       "class": "text",
       "id": "A45AFFC9-15EF-4989-845D-01D3D0252EB2"
+    },
+    {
+      "class": "shapePath",
+      "id": "637B3690-F71F-431A-8A90-C408B2180D01"
     }
   ],
   "name": "Reward",

@@ -63,27 +63,11 @@
     },
     {
       "class": "group",
-      "id": "B654A316-D550-422C-89A4-A4FC3E530A60"
-    },
-    {
-      "class": "shapePath",
-      "id": "F1EC928C-3AA8-4371-A0AB-E0F6D733E021"
-    },
-    {
-      "class": "shapePath",
-      "id": "9E709B40-DFC1-4EE5-A542-3C6DD5A61D87"
+      "id": "A24B1DA1-53D9-4071-9474-82AF1C6B75B4"
     },
     {
       "class": "group",
       "id": "716B9E11-CCF4-41D3-9197-3C82EFF667EF"
-    },
-    {
-      "class": "shapePath",
-      "id": "34743BE0-FA91-4B7B-9C67-4C3EF37CA9E7"
-    },
-    {
-      "class": "shapePath",
-      "id": "30E7F4D0-8711-46D3-9F2C-702704C04E4A"
     },
     {
       "class": "group",
@@ -91,19 +75,7 @@
     },
     {
       "class": "group",
-      "id": "0C7E91AA-1E2C-4FA8-9182-033C5B669243"
-    },
-    {
-      "class": "group",
       "id": "92323645-D7F2-45DC-A19E-7E84CB2F2059"
-    },
-    {
-      "class": "text",
-      "id": "07ACAF64-8FEB-4F9B-908B-3D2B8D5734DF"
-    },
-    {
-      "class": "text",
-      "id": "A7806392-66A3-4294-80D6-152420DE1570"
     }
   ],
   "name": "PC 参加前",

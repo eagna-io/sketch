@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 60,
+    "height": 191,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -43,6 +43,10 @@
     {
       "class": "group",
       "id": "2B73AE5D-3B94-4891-B7CF-FAB9F78780EC"
+    },
+    {
+      "class": "text",
+      "id": "A7806392-66A3-4294-80D6-152420DE1570"
     }
   ],
   "name": "Header",

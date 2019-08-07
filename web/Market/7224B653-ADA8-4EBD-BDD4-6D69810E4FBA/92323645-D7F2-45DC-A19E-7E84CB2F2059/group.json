@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "CA2F1C3D-5E67-4C32-BA92-D17F6D4AD64A",
-    "height": 40,
-    "width": 100,
+    "height": 100,
+    "width": 980,
     "x": 230,
     "y": 326
   },
@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -42,6 +42,14 @@
     {
       "class": "text",
       "id": "B408B8E8-8A51-439C-87B8-BDEA824FF6D1"
+    },
+    {
+      "class": "text",
+      "id": "07ACAF64-8FEB-4F9B-908B-3D2B8D5734DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "9E709B40-DFC1-4EE5-A542-3C6DD5A61D87"
     }
   ],
   "name": "参加ボタン",

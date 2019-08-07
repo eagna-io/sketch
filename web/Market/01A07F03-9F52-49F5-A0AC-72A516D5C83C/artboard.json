@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1362,
+    "height": 1455,
     "width": 375,
     "x": -188,
     "y": -334
@@ -63,23 +63,31 @@
     },
     {
       "class": "group",
-      "id": "D0CD393F-F961-44C1-81F7-98E7B670B4B2"
+      "id": "42B77127-94DD-4889-AC21-240E9FF9569C"
     },
     {
       "class": "group",
-      "id": "F6B1618B-4EB6-4A4B-8184-75560CED2FC3"
+      "id": "D195F575-50AC-4113-8492-D941F5EA80E1"
     },
     {
       "class": "group",
       "id": "9607E6C5-AEC8-461A-89BE-3536BDC90124"
     },
     {
-      "class": "text",
-      "id": "D10C508A-D5DF-4A53-95CE-0696CA5CE07E"
+      "class": "group",
+      "id": "B1E5758E-5F2C-4B07-8396-CAD4B5AD9CD8"
     },
     {
       "class": "group",
-      "id": "B31F30CA-00D2-4765-A181-0699940D53F1"
+      "id": "30CEA9B4-DC0D-4A7D-BD4B-18C7EC06B26B"
+    },
+    {
+      "class": "text",
+      "id": "181B8008-F4BF-496A-85A7-1F9792D74CBA"
+    },
+    {
+      "class": "text",
+      "id": "626A889D-B9E3-485B-A6D0-442451F87AF3"
     }
   ],
   "name": "参加中",

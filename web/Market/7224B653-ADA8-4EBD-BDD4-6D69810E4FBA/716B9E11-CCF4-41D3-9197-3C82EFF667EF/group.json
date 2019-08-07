@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 302,
-    "width": 693,
-    "x": 230,
-    "y": 1642
+    "height": 403,
+    "width": 982,
+    "x": 229.5,
+    "y": 2080
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -55,6 +55,10 @@
     {
       "class": "text",
       "id": "CC719500-2FC0-4EE2-9279-CA8BC4876804"
+    },
+    {
+      "class": "shapePath",
+      "id": "30E7F4D0-8711-46D3-9F2C-702704C04E4A"
     }
   ],
   "name": "Reward",
