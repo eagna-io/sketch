@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 100,
     "width": 326,
-    "x": 21,
-    "y": 801
+    "x": 24,
+    "y": 280
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -43,6 +43,10 @@
     {
       "class": "shapePath",
       "id": "E12516FE-A12F-42D9-94E3-D3A1AAD69AAC"
+    },
+    {
+      "class": "group",
+      "id": "30CEA9B4-DC0D-4A7D-BD4B-18C7EC06B26B"
     }
   ],
   "name": "所持コイン",

@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "996EC5DB-A1A3-4E32-BCAD-8F890A4CD65C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 159,
+    "width": 150,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "98D872A7-CB5A-476F-A0C2-3F6EFF59E10E"
+    },
+    {
+      "class": "text",
+      "id": "5613EBEF-E0F2-44AC-B0E4-4A5BCE031AA3"
+    },
+    {
+      "class": "group",
+      "id": "AB58702F-F86A-4BBA-8FF3-8A4949B2976C"
+    },
+    {
+      "class": "text",
+      "id": "011A4B04-AD32-4BFE-9C6A-5DBE88DBE6E8"
+    },
+    {
+      "class": "text",
+      "id": "9BD658B6-D092-4832-B73E-3237C758544A"
+    }
+  ],
+  "name": "Aladdin",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
