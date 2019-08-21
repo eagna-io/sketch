@@ -24,14 +24,14 @@
     "constrainProportions": false,
     "height": 1455,
     "width": 375,
-    "x": 1770,
-    "y": -334
+    "x": -380,
+    "y": -432
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -84,9 +84,13 @@
     {
       "class": "text",
       "id": "5E18B79D-39FA-4484-9F58-8D3B8D33D3D1"
+    },
+    {
+      "class": "text",
+      "id": "E60110B4-0CC2-4B15-9693-88C09C99EC9A"
     }
   ],
-  "name": "保有コイン量改善案",
+  "name": "参加中",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
