@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Light",
-              "size": 16
+              "size": 24
             }
           },
           "kerning": 0,
@@ -28,20 +28,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "今すぐ予測市場を体験しましょう"
+    "string": "どなたでも無料で利用できます"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A68AC4C8-0372-416F-9646-859C48223BC7",
+  "do_objectID": "F86CECD9-B2E7-47C1-8CED-B2844C555917",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F8EB9292-6435-426D-A5A3-BEC9254414A5",
+    "do_objectID": "ED315F7D-A8B8-43F7-B726-E7B6DBFBF4B4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3ECB3FAC-1640-47F3-9C99-984E7C1FAF4E",
-    "height": 24,
-    "width": 241,
-    "x": 67,
-    "y": 104
+    "do_objectID": "23FBBF14-55E1-45FF-9E45-DC91578D2551",
+    "height": 36,
+    "width": 336,
+    "x": 548.5,
+    "y": 321
   },
-  "glyphBounds": "{{1, 5}, {237, 16}}",
+  "glyphBounds": "{{4, 8}, {331, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "今すぐ予測市場を体験しましょう",
+  "name": "どなたでも無料で利用できます",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,13 +75,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4E1B0DF1-3CB5-4579-9CC6-55A6D7E05E20",
+    "do_objectID": "1D1A8066-3F6E-4712-86E9-F4B3A054A9BF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "68766681-1986-4B14-828E-D84137E7405E",
+      "do_objectID": "009B3407-B0FA-413B-AFC5-2E147DE034E2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -94,7 +94,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Light",
-            "size": 16
+            "size": 24
           }
         },
         "kerning": 0,
@@ -109,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
