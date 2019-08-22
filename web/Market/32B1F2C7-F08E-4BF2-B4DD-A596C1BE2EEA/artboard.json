@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 918,
+    "height": 991,
     "width": 375,
     "x": 95,
     "y": -432
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -84,6 +84,14 @@
     {
       "class": "group",
       "id": "03940F3F-729E-4A45-9DF6-C5C0520D6CB6"
+    },
+    {
+      "class": "text",
+      "id": "89E8F10E-6F03-452E-9401-0296FB38BB8C"
+    },
+    {
+      "class": "text",
+      "id": "B6FA93E4-559B-4E1D-83E2-39F93D12BD3F"
     }
   ],
   "name": "トークン詳細",
