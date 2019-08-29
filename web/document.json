@@ -168,14 +168,13 @@
     ]
   },
   "meta": {
-    "appVersion": "57.1",
-    "build": 83088,
+    "appVersion": "56.3",
+    "build": 81716,
     "version": 119
   },
   "pages": [
     "Top",
     "Account",
-    "Market",
-    "Eagna in 3 Steps"
+    "Market"
   ]
 }
