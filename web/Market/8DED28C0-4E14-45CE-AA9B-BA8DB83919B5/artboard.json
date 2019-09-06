@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2400,
+    "height": 3545,
     "width": 1440,
-    "x": -188,
-    "y": 1518
+    "x": -380,
+    "y": 1237
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -47,12 +47,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "bitmap",
-      "id": "6D0E5D60-C7FE-4A24-8EDD-0BEFABCDCBC5"
-    },
     {
       "class": "group",
       "id": "6E908065-DF54-41AF-9CD5-481DC9A37946"
@@ -63,27 +59,27 @@
     },
     {
       "class": "group",
-      "id": "ED66ABC8-E825-4196-B6A7-E3ACEC55691C"
+      "id": "EF47284E-49F6-4361-A461-CF72EF562F59"
     },
     {
       "class": "group",
-      "id": "F75C6D84-6FF6-47EF-93C6-D14DFD9E82D6"
+      "id": "54AA2EA7-AA1B-44CF-895F-D67A153DDF85"
     },
     {
       "class": "group",
-      "id": "D20960AC-2B1C-4520-AD14-F3909CDADF6A"
+      "id": "5F1C4733-3318-46A6-ADA4-69FAE9EB072A"
     },
     {
       "class": "group",
-      "id": "FA630304-0134-4053-8488-5FAAD1CFD7B4"
+      "id": "115D18D4-03CF-4276-804F-562BCBB893A4"
     },
     {
-      "class": "group",
-      "id": "27C705FF-5826-4F08-8ACD-37EF27D40696"
+      "class": "text",
+      "id": "B85C58AD-ACE3-4AC5-A809-0068AF672587"
     }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "PC",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

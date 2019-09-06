@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HiraginoSans-W4",
+              "name": "NotoSansJP-Regular",
               "size": 11
             }
           },
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 21,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "marketrohan@gmail.com"
+    "string": "info@eagna.io"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A63A2E57-D278-4B0F-BC29-F17C5D044CE6",
-    "height": 11,
+    "height": 17,
     "width": 152,
     "x": 195,
-    "y": 50.98229445553034
+    "y": 47.98229445553034
   },
-  "glyphBounds": "{{14, 1}, {138, 12}}",
+  "glyphBounds": "{{78, 4}, {74, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "marketrohan@gmail.co",
+  "name": "info@eagna.io",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -93,7 +93,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HiraginoSans-W4",
+            "name": "NotoSansJP-Regular",
             "size": 11
           }
         },

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A29CD336-B110-435E-A23A-259328DD4D17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 426,
+    "width": 982,
+    "x": 229,
+    "y": 1626
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9865CC3B-5AAB-4EAD-A06B-3377B48A09E6"
+    },
+    {
+      "class": "bitmap",
+      "id": "432E475E-AE05-4ED2-9C9E-472C524ED799"
+    },
+    {
+      "class": "text",
+      "id": "6C991AC6-382F-4A1F-B339-0A34C2EF3B47"
+    },
+    {
+      "class": "shapePath",
+      "id": "34743BE0-FA91-4B7B-9C67-4C3EF37CA9E7"
+    }
+  ],
+  "name": "Market Creater",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

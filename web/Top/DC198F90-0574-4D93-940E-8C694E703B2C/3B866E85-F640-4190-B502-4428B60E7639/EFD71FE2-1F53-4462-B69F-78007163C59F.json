@@ -92,12 +92,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9450980392156862,
-          "green": 0.9450980392156862,
-          "red": 0.9450980392156862
+          "blue": 0.9725490196078431,
+          "green": 0.9725490196078431,
+          "red": 0.9725490196078431
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

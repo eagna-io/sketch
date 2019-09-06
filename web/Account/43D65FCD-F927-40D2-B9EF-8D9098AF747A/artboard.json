@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 1480,
     "width": 1440,
     "x": 289,
     "y": -330
@@ -59,11 +59,27 @@
     },
     {
       "class": "group",
-      "id": "C61C7185-4F21-4A2D-98BE-60596DC62F94"
+      "id": "F52E0F67-E0DF-4791-B746-45A5476FA9C3"
+    },
+    {
+      "class": "text",
+      "id": "D2FF216D-84CE-4448-9039-6AAF3366F21C"
+    },
+    {
+      "class": "text",
+      "id": "96B8BFA6-175D-4947-9488-BEAAC44C715F"
     },
     {
       "class": "group",
-      "id": "3788FDE4-FAF1-41A2-B3AE-1B9B360B896C"
+      "id": "9DA78F1C-8732-4ADB-9E04-1E8261DE18CB"
+    },
+    {
+      "class": "group",
+      "id": "B3C4E978-0E97-4A62-B75E-26F21194D709"
+    },
+    {
+      "class": "group",
+      "id": "99768FCB-9DEA-4A9B-BC1C-4111D4F11A8A"
     }
   ],
   "name": "Desktop HD",

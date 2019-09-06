@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F17CCBD-9E64-477C-BB4D-856AA4811AAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE79CD31-B2A0-4C42-AD08-8BC585B7C3B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8A7D093F-5BD9-4941-9C7E-5F3072613C35",
+    "height": 70,
+    "width": 280,
+    "x": 580,
+    "y": 2163
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "86D958EF-C407-4D82-A1DF-07273619220D"
+    },
+    {
+      "class": "text",
+      "id": "45D67A73-4207-4AD7-8223-2C54327C484B"
+    }
+  ],
+  "name": "Trade!",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A073C1D-9BDD-45FD-8FEF-C1595D322339",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

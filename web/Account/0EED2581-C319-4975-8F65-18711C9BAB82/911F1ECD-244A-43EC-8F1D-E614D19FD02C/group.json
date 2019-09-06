@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "911F1ECD-244A-43EC-8F1D-E614D19FD02C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "990064D3-0FED-436B-8B92-274B455579F7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "89FDC093-C39D-4F13-9B4A-7DAB3CAA059A",
+    "height": 35,
+    "width": 351,
+    "x": 12,
+    "y": 921
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AD320460-2C05-47C7-814D-5BE1E4EDB810"
+    },
+    {
+      "class": "text",
+      "id": "B0FEADFA-C391-4326-ABB9-90712F128F67"
+    }
+  ],
+  "name": " Read More",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67D000A2-AF21-466D-A719-B28E24E3C940",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

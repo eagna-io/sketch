@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E304CA9E-A8E4-4F6D-BD8C-3528AADB37B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C6A4AF0-ACE7-4A64-998E-802D9815BD26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "10FE732C-3B7B-4A89-A69B-280A817A61BF",
+    "height": 204,
+    "width": 169,
+    "x": 194,
+    "y": 306
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DF4A7F45-68C1-4561-9BDE-C9E34FEECCAF"
+    },
+    {
+      "class": "group",
+      "id": "8CBEADDA-260C-4351-95D1-96BEB19360F6"
+    },
+    {
+      "class": "text",
+      "id": "0C365E3C-E03C-4E1B-AA86-B7383B75355D"
+    },
+    {
+      "class": "bitmap",
+      "id": "A12EFC5B-10CB-4EFA-8BC0-BFC71A8FC3EF"
+    },
+    {
+      "class": "bitmap",
+      "id": "C321576A-43EA-40F4-A072-FA7B4B3796A2"
+    }
+  ],
+  "name": "２注目マーケットコンポーネント",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CBC0EE06-F2CE-4E73-B75E-AE67C0B30C65",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

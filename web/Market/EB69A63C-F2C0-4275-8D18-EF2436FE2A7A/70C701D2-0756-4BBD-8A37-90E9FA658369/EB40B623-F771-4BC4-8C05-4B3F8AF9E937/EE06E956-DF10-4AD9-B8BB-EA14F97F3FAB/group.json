@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE06E956-DF10-4AD9-B8BB-EA14F97F3FAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1BBBC65-21BB-42F0-8815-28B49F5647E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9FBF3D3A-070C-4FC1-935B-822200564FE6",
+    "height": 67,
+    "width": 166,
+    "x": 1,
+    "y": 38
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "514645EB-AD55-409C-A0DE-908C36E65512"
+    },
+    {
+      "class": "bitmap",
+      "id": "CBB8EEA4-8872-4777-BDB8-D746C6C92EF5"
+    }
+  ],
+  "name": "aladdin",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2CA0A293-A587-44E5-8D0F-6C84FFE5BD53",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
