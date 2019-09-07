@@ -35,7 +35,7 @@
     "do_objectID": "5CB5A074-E6D0-4D8E-BAD3-1B8F50467446"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -95,7 +95,7 @@
       "id": "A81CA6A5-A30D-48D2-97DC-5842689A9DC2"
     }
   ],
-  "name": "トークン詳細 Close時",
+  "name": "トークン詳細 Upcoming時",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
