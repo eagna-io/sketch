@@ -30,7 +30,7 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 1,
+        "length": 3,
         "location": 0
       },
       {
@@ -61,7 +61,7 @@
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 1,
-        "location": 1
+        "location": 3
       },
       {
         "_class": "stringAttribute",
@@ -91,10 +91,10 @@
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 8,
-        "location": 2
+        "location": 4
       }
     ],
-    "string": "- coin / 枚"
+    "string": "461 coin / 枚"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -120,7 +120,7 @@
     "x": 17.34693877551021,
     "y": 112.0419161676646
   },
-  "glyphBounds": "{{4, 11}, {35, 25}}",
+  "glyphBounds": "{{4, 4}, {35, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -129,7 +129,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "- coin / 枚",
+  "name": "461 coin / 枚",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
