@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3EF5418-DCAA-45CA-A9D5-DDA745CADFC0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A935C17-85F2-42F9-ABF0-EFC3F36E01B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFE0E90A-2C2C-4006-9B68-44E476EFDFAC",
+    "height": 50,
+    "width": 130,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5C4813F3-87E5-4C83-8553-9831475FECCA"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7A1FD264-A0EF-4E05-AE35-089B93FA6C94"
+    },
+    {
+      "class": "text",
+      "id": "4DFD2942-71A7-4711-8936-62920F5E6749"
+    }
+  ],
+  "name": "Buy Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8EFBF90B-42C6-4D18-B98D-6304B6A5A31B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
