@@ -94,7 +94,7 @@
         "location": 3
       }
     ],
-    "string": "0枚\n持っています"
+    "string": "-枚\n持っています"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -120,7 +120,7 @@
     "x": 83.67346938775512,
     "y": 114.1643651472565
   },
-  "glyphBounds": "{{1, 2}, {48, 31}}",
+  "glyphBounds": "{{1, 7}, {48, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -129,7 +129,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "0枚 持っています",
+  "name": "-枚 持っています",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

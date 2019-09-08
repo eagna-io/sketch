@@ -88,7 +88,7 @@
         "location": 2
       }
     ],
-    "string": "0 coin"
+    "string": "- coin"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -114,7 +114,7 @@
     "x": 54.11515748031487,
     "y": 51
   },
-  "glyphBounds": "{{74, 10}, {53, 23}}",
+  "glyphBounds": "{{81, 19}, {46, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -123,7 +123,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "0 coin",
+  "name": "- coin",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
