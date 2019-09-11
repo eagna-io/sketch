@@ -3,10 +3,10 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "0A49DDEE-7EBC-46A9-B11D-944A03C45604",
+  "do_objectID": "CF24A1A7-6508-4EF9-B536-10547C4EA6BB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F0B22AC5-C9AD-4CEF-BE2B-D59FB4E3D6BB",
+    "do_objectID": "E3EB1A61-15AB-4B8C-9D64-50BC7082F238",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,16 +18,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "CF85FE9C-E143-499A-8228-E64F43539133",
-    "height": 65,
-    "width": 130,
-    "x": 23,
-    "y": 10
+    "do_objectID": "3CDD7C4B-CDFA-4149-81EF-6B91E8470753",
+    "height": 652,
+    "width": 372,
+    "x": 0,
+    "y": 42
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/aa30aad437d48ffa5986e05407cbda855e23d948.png",
+    "_ref": "images/b24df98f3f274ffe28481021b1a42f08a5ba2ebf.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -37,7 +37,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon",
+  "name": "iPhone 8",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,7 +45,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A0FA78C9-140A-4EFA-8601-A4C848D4D5D7",
+    "do_objectID": "63DA725E-3853-49CC-8EA1-0D2A5C85216C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

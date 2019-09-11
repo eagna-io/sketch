@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "37581513-8EAC-43CA-8A40-1391BECFC300",
+  "do_objectID": "37407421-B866-4AE0-BF48-B24DAA745C70",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "49BAF4F9-A2CD-434A-8374-DE75A364D4EE",
+    "do_objectID": "C5BE1CDB-9AC9-4501-857D-605BC6F32C99",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,14 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BCBD1AAA-77D9-4BF3-9C2E-779C35431623",
-    "height": 153,
-    "width": 295,
-    "x": 34,
-    "y": 706
+    "do_objectID": "F4008E57-5C16-447A-ACC4-566F558D63AF",
+    "height": 694,
+    "width": 372,
+    "x": 4,
+    "y": 1026
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7B07C0C0-4AB9-4FD6-955D-F8B3CA0CC14C"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,22 +33,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "83FC3997-40F0-42B8-A169-962595605397"
+      "class": "text",
+      "id": "AD4933DA-8C79-42C1-94B5-8A3B69EA6615"
     },
     {
-      "class": "text",
-      "id": "9DF231E7-CDD0-4C90-B414-077DB2DCA207"
-    },
-    {
-      "class": "text",
-      "id": "9E5578D8-97FF-4265-B042-8BDEE6B453A6"
+      "class": "bitmap",
+      "id": "CF24A1A7-6508-4EF9-B536-10547C4EA6BB"
     }
   ],
-  "name": "step 1",
+  "name": "News",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -55,7 +52,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "26B561F3-C588-4CCA-A440-7F10BBBD3C6E",
+    "do_objectID": "68AFCE59-61D3-4E45-927E-BB64AD537AE5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

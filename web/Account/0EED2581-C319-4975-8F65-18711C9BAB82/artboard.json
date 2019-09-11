@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1020,
+    "height": 1747,
     "width": 375,
     "x": 1829,
     "y": -330
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -88,6 +88,10 @@
     {
       "class": "group",
       "id": "911F1ECD-244A-43EC-8F1D-E614D19FD02C"
+    },
+    {
+      "class": "group",
+      "id": "37407421-B866-4AE0-BF48-B24DAA745C70"
     }
   ],
   "name": "iPhone 8 Copy",

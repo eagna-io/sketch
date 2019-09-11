@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1480,
+    "height": 2038,
     "width": 1440,
     "x": 289,
     "y": -330
@@ -80,6 +80,14 @@
     {
       "class": "group",
       "id": "99768FCB-9DEA-4A9B-BC1C-4111D4F11A8A"
+    },
+    {
+      "class": "text",
+      "id": "DFCC8045-9F4C-4A05-85E0-527B27F0C902"
+    },
+    {
+      "class": "bitmap",
+      "id": "76E40299-ED78-4A76-A8E8-9EACEEE9510D"
     }
   ],
   "name": "Desktop HD",
