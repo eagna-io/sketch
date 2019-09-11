@@ -34,7 +34,7 @@
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "06AA283A-ADAD-4F0C-A07F-EF2E15261D35"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -93,6 +93,10 @@
     {
       "class": "text",
       "id": "D96B3A4E-30F8-4B82-BCD0-F9FA70D93903"
+    },
+    {
+      "class": "group",
+      "id": "EC438C6F-DE1F-4A68-A932-8442693375E4"
     }
   ],
   "name": "Resolve時",

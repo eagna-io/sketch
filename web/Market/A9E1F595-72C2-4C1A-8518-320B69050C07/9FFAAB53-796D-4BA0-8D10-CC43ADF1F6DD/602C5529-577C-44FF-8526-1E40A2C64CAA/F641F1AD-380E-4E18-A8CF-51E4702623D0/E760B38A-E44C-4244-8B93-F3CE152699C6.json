@@ -2,11 +2,10 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1D48A753-B114-469A-BA11-788A6D2301B1",
+  "do_objectID": "E760B38A-E44C-4244-8B93-F3CE152699C6",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "85AC01CC-BA2D-444D-B97A-4051D0B8D863",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,10 +16,9 @@
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "EA975706-80E2-4CE2-82BD-816F7FD6F029",
-    "height": 39.77272727272727,
-    "width": 100,
+    "constrainProportions": false,
+    "height": 29,
+    "width": 21,
     "x": 0,
     "y": 0
   },
@@ -84,23 +82,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
-    "do_objectID": "A932A6A0-D9D3-459D-A549-038542880087",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,9 +89,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3058823529411765,
-          "green": 0.2196078431372549,
-          "red": 0.1098039215686274
+          "blue": 0.4588235294117649,
+          "green": 0.1294117647058823,
+          "red": 0.6470588235294118
         },
         "fillType": 0,
         "isEnabled": true,
@@ -121,28 +102,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 2,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 1,
-        "offsetY": 1,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

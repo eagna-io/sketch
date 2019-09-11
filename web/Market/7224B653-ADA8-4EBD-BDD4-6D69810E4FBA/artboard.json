@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -76,6 +76,10 @@
     {
       "class": "group",
       "id": "92323645-D7F2-45DC-A19E-7E84CB2F2059"
+    },
+    {
+      "class": "group",
+      "id": "587D0148-8881-4035-9DA1-BBE004C0BB5C"
     }
   ],
   "name": "PC 参加前",
