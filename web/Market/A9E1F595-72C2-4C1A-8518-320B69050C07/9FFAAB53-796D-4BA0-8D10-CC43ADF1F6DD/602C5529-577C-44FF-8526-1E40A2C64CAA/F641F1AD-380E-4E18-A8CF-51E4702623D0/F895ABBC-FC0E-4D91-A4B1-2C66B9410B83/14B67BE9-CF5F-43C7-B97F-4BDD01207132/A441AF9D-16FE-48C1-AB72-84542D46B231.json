@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BFB8FC5D-0903-4047-9351-2DE16336EED8",
+  "do_objectID": "A441AF9D-16FE-48C1-AB72-84542D46B231",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,8 +16,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14.99999999999998,
-    "width": 14.99999999999996,
+    "height": 13.06666666666668,
+    "width": 13.06666666666663,
     "x": 0,
     "y": 0
   },

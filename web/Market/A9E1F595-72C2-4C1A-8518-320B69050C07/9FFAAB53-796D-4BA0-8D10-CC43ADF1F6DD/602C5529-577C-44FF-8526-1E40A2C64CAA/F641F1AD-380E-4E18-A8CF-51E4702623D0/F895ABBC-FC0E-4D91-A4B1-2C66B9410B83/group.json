@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F895ABBC-FC0E-4D91-A4B1-2C66B9410B83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18.66666666666667,
+    "width": 14,
+    "x": 3.5,
+    "y": 5.000000000000002
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "944D3D81-3892-43E5-87D6-B9D73CF4B818"
+    },
+    {
+      "class": "shapePath",
+      "id": "394B4387-F7B0-4C9A-8D06-ECB7D8718123"
+    },
+    {
+      "class": "shapePath",
+      "id": "AE05F1D1-DC24-4000-A5B8-9C2829E785FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "14B67BE9-CF5F-43C7-B97F-4BDD01207132"
+    }
+  ],
+  "name": "勲章アイコン",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

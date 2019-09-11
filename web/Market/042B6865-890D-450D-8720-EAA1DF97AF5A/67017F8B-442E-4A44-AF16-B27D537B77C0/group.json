@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8182FFDE-C2FD-4339-99BB-F5F8B74CD674",
+  "do_objectID": "67017F8B-442E-4A44-AF16-B27D537B77C0",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4448C1D0-9ACD-48B6-8F7E-B92806515E94",
+    "do_objectID": "75A0DF54-A459-4575-9734-25A093BB24F9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "214CD878-6E84-4132-90C7-2056485D5EB3",
+    "do_objectID": "46FD0824-0321-444E-B157-AD899C5F607A",
     "height": 60,
     "width": 375,
     "x": 0,
@@ -24,7 +24,7 @@
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "B62DF893-51C2-41CF-BACC-511D60A4AC2C"
+    "do_objectID": "EA17EB08-A04C-43C0-96C3-7A61E3746C28"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -37,11 +37,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "863D411C-09AA-4FBF-8035-30A951620B4A"
+      "id": "C958C08F-316D-4B3E-BB9E-079BB8BEB4A3"
     },
     {
       "class": "text",
-      "id": "1E5A8FDD-02CC-4F15-99C1-FEF1A33D06CF"
+      "id": "B8EE04C5-469A-445F-B8FE-875B15838592"
     }
   ],
   "name": "メッセージ",
@@ -52,7 +52,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AA80C2B9-30EB-4000-BD05-EBB3AC19E37F",
+    "do_objectID": "FA4E34D5-4E8B-4121-9685-A8E2CBCE8BFF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

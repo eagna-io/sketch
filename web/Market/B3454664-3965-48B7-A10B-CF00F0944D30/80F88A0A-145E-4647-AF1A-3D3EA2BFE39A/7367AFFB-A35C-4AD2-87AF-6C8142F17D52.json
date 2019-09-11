@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 11
+              "size": 12
             }
           },
           "kerning": 0,
@@ -30,20 +30,20 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 20,
+        "length": 41,
         "location": 0
       }
     ],
-    "string": "マーケットはすでにCloseしています。"
+    "string": "マーケットがOpenすると取引を行えるようになります。Openまでお待ちください。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1E5A8FDD-02CC-4F15-99C1-FEF1A33D06CF",
+  "do_objectID": "7367AFFB-A35C-4AD2-87AF-6C8142F17D52",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "020FF78D-9468-4BF9-9EE4-BD68ADC67375",
+    "do_objectID": "4A67A984-1A98-4743-948A-58138F9AACAA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "35BCC4DA-7817-4EC0-A7C7-3582A7751069",
+    "do_objectID": "DF823B73-B2FA-4343-97BC-1B5E2AA03846",
     "height": 55,
-    "width": 319,
-    "x": 30,
+    "width": 981,
+    "x": 230,
     "y": 2
   },
-  "glyphBounds": "{{0, 7}, {188, 11}}",
+  "glyphBounds": "{{1, 5}, {451, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "マーケットはすでにCloseしています。",
+  "name": "マーケットがOpenすると取引を行えるよ",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,13 +77,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B5E61C83-6508-4F9F-839A-0CB4246F235C",
+    "do_objectID": "233F6FA1-EBEE-4994-8D2F-EF4D02E7251D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5DC560F4-0E13-4AC1-9475-0EE18FFA0420",
+      "do_objectID": "FE3B5593-EB98-457B-B5D4-3DCDE0712CFD",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -96,7 +96,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
-            "size": 11
+            "size": 12
           }
         },
         "kerning": 0,

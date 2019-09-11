@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3CDC899A-B9AF-47E6-A19D-EDCD80A68045",
+  "do_objectID": "F641F1AD-380E-4E18-A8CF-51E4702623D0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 21,
-    "width": 15,
-    "x": 142,
-    "y": 482
+    "constrainProportions": false,
+    "height": 29,
+    "width": 21,
+    "x": 114,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,24 +33,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "52BBC891-C534-4189-8889-E73286D4B16B"
+      "class": "rectangle",
+      "id": "E760B38A-E44C-4244-8B93-F3CE152699C6"
     },
     {
-      "class": "shapePath",
-      "id": "02833AD6-715A-4B7B-97A9-E7C8FF35E0F1"
-    },
-    {
-      "class": "shapePath",
-      "id": "E52B5BC1-CF4F-4702-8F81-08CF0481548A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "28A0987D-8E13-45C1-AF58-426FC749B4D0"
+      "class": "group",
+      "id": "F895ABBC-FC0E-4D91-A4B1-2C66B9410B83"
     }
   ],
-  "name": "勲章アイコン",
-  "nameIsFixed": false,
+  "name": "ResolvedMark",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

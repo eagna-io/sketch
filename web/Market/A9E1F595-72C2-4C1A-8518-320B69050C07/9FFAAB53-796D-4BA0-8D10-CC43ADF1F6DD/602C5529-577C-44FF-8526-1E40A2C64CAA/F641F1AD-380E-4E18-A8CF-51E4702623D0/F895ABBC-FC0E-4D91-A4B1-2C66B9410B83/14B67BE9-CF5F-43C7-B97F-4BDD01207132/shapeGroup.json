@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "28A0987D-8E13-45C1-AF58-426FC749B4D0",
+  "do_objectID": "14B67BE9-CF5F-43C7-B97F-4BDD01207132",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 15,
-    "x": 0,
+    "height": 13.06666666666667,
+    "width": 13.06666666666667,
+    "x": 0.05540334855407612,
     "y": 0
   },
   "groupLayout": {
@@ -34,11 +34,11 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "BFB8FC5D-0903-4047-9351-2DE16336EED8"
+      "id": "A441AF9D-16FE-48C1-AB72-84542D46B231"
     },
     {
       "class": "shapePath",
-      "id": "053AD708-241A-47A6-A1F3-18A37FCB8D51"
+      "id": "8E220605-4BF9-4C41-9D60-1A0CB8C8F4E7"
     }
   ],
   "name": "Shape",

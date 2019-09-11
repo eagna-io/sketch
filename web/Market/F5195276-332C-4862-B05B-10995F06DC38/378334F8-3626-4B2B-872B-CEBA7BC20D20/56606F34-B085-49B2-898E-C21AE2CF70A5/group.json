@@ -78,6 +78,10 @@
     {
       "class": "text",
       "id": "AA8C1BA3-1C05-49DE-A5F0-412D4EA05F45"
+    },
+    {
+      "class": "group",
+      "id": "8AEA154C-8DD3-4AAE-AD46-7814421E35B1"
     }
   ],
   "name": "Token Aladdin",
