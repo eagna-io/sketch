@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "2E6503A0-D472-406C-9084-86BEAD2B1251",
-    "height": 109,
+    "height": 130,
     "width": 375,
     "x": 0,
     "y": 0
@@ -32,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -53,6 +53,10 @@
     {
       "class": "bitmap",
       "id": "0A49DDEE-7EBC-46A9-B11D-944A03C45604"
+    },
+    {
+      "class": "group",
+      "id": "F07859A9-6353-4205-84C2-3F24E41A5AA4"
     }
   ],
   "name": "Header",
