@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D2252DBD-01F4-481B-85D3-81F3591AF143",
+  "do_objectID": "130421B2-296C-4198-87CF-45AF88971001",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C045BB6F-F5B0-4484-B47A-59B31EA800B5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 181,
-    "width": 322,
-    "x": 16,
-    "y": 1005
+    "do_objectID": "CEC0CF71-47E7-4BE0-A0D0-DFD7F095889B",
+    "height": 60,
+    "width": 375,
+    "x": 0,
+    "y": 60
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D1AF9C07-EC6A-4B4E-8282-83716B5EC104"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,34 +33,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "A65B7F0D-F33B-4258-AD5A-7FAA18F2742E"
-    },
-    {
-      "class": "bitmap",
-      "id": "CBDB7EC3-5ADD-40EA-BDF1-11D68A3211E3"
-    },
-    {
-      "class": "shapePath",
-      "id": "E47520EC-1E9D-47BC-914A-2CF952D933B9"
+      "class": "rectangle",
+      "id": "BE8ACFED-8C45-4D7B-9A71-ED2FDCD2969F"
     },
     {
       "class": "text",
-      "id": "B4BD68FB-9B0A-483A-A6A7-970B4E95BC46"
-    },
-    {
-      "class": "text",
-      "id": "D6D7C66C-C37E-4B65-B0E0-5F0F7DE820AC"
-    },
-    {
-      "class": "text",
-      "id": "496F0509-0CA3-47BB-8C14-9018C4BA74B8"
+      "id": "47FF2CE0-0899-449C-8958-A582321DFAF1"
     }
   ],
-  "name": "Reward",
+  "name": "メッセージ",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -65,6 +52,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "01ED6822-71D5-488F-AA84-791BF20178DE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

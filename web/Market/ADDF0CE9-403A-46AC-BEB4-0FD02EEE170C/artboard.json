@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "A57C9DC0-7983-4D94-9609-FC6CB9BA4712",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -34,7 +43,7 @@
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "70DF030B-7149-4B3D-9F90-B0382378BD49"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -52,7 +61,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -93,6 +102,10 @@
     {
       "class": "text",
       "id": "FD986648-0607-469B-99A7-144A3C322EE9"
+    },
+    {
+      "class": "group",
+      "id": "B6056967-72F9-47CD-8FFA-DE073488A126"
     }
   ],
   "name": "Close時",

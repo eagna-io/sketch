@@ -9,38 +9,41 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3058823529411765,
-            "green": 0.2196078431372549,
-            "red": 0.1098039215686274
+            "blue": 0.9764705882352941,
+            "green": 0.9764705882352941,
+            "red": 0.9764705882352941
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 10
+              "size": 11
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 3,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 36,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "「参加する」ボタンを押すことでコインが配布され取引をできるようになります"
+    "string": "マーケットはすでにCloseしています。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F3030B55-560C-49BB-95A1-2BDE85AA0093",
+  "do_objectID": "1E5A8FDD-02CC-4F15-99C1-FEF1A33D06CF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "020FF78D-9468-4BF9-9EE4-BD68ADC67375",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,12 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 180,
-    "x": 130,
-    "y": 0
+    "do_objectID": "35BCC4DA-7817-4EC0-A7C7-3582A7751069",
+    "height": 55,
+    "width": 319,
+    "x": 30,
+    "y": 2
   },
-  "glyphBounds": "{{0, 3}, {180, 25}}",
+  "glyphBounds": "{{0, 7}, {188, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,39 +69,43 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "「参加する」ボタンを押すことでコインが配",
+  "name": "マーケットはすでにCloseしています。",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B5E61C83-6508-4F9F-839A-0CB4246F235C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "5DC560F4-0E13-4AC1-9475-0EE18FFA0420",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3058823529411765,
-          "green": 0.2196078431372549,
-          "red": 0.1098039215686274
+          "blue": 0.9764705882352941,
+          "green": 0.9764705882352941,
+          "red": 0.9764705882352941
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
-            "size": 10
+            "size": 11
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 3,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         },
         "textStyleVerticalAlignmentKey": 1
       },
@@ -105,5 +113,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

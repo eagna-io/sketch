@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D2252DBD-01F4-481B-85D3-81F3591AF143",
+  "do_objectID": "B6056967-72F9-47CD-8FFA-DE073488A126",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 181,
-    "width": 322,
-    "x": 16,
-    "y": 1005
+    "height": 60,
+    "width": 375,
+    "x": 0,
+    "y": 60
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,34 +30,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "A65B7F0D-F33B-4258-AD5A-7FAA18F2742E"
-    },
-    {
-      "class": "bitmap",
-      "id": "CBDB7EC3-5ADD-40EA-BDF1-11D68A3211E3"
-    },
-    {
-      "class": "shapePath",
-      "id": "E47520EC-1E9D-47BC-914A-2CF952D933B9"
+      "class": "rectangle",
+      "id": "DBD945FE-B57B-4CBA-BB97-E3CB5BC95A0B"
     },
     {
       "class": "text",
-      "id": "B4BD68FB-9B0A-483A-A6A7-970B4E95BC46"
-    },
-    {
-      "class": "text",
-      "id": "D6D7C66C-C37E-4B65-B0E0-5F0F7DE820AC"
-    },
-    {
-      "class": "text",
-      "id": "496F0509-0CA3-47BB-8C14-9018C4BA74B8"
+      "id": "73211DBC-71A4-4910-92BC-AAAE2F354C7A"
     }
   ],
-  "name": "Reward",
+  "name": "メッセージ",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
