@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1020,
+    "height": 1622,
     "width": 375,
     "x": -186,
     "y": -330
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -80,6 +80,10 @@
     {
       "class": "group",
       "id": "E304CA9E-A8E4-4F6D-BD8C-3528AADB37B3"
+    },
+    {
+      "class": "group",
+      "id": "B1E6F232-53F8-4406-B870-7658B5593BCA"
     }
   ],
   "name": "iPhone 8",
