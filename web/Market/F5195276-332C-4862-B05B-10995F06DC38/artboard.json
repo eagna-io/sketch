@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3675A7F8-C66A-40BA-83D9-A6723455A435",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F5195276-332C-4862-B05B-10995F06DC38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E959B01-7BC1-42EA-BB6A-6A8531C3EC2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEBCD93A-CEF0-410C-B534-280AC21D153A",
+    "height": 3545,
+    "width": 1440,
+    "x": 4240,
+    "y": 1237
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9FFEC471-CBEA-45D7-80D5-E878896E4A01"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "522037F4-AD75-4FC9-B543-83DB75E46314",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D2B9FAD1-DBCD-47B3-82FC-C5CB9E4C8922"
+    },
+    {
+      "class": "group",
+      "id": "2FB3C8BB-664F-4D99-B469-0EB04EA36CAD"
+    },
+    {
+      "class": "group",
+      "id": "D05B449C-DF80-4F07-B186-6ECDCB118FEE"
+    },
+    {
+      "class": "group",
+      "id": "378334F8-3626-4B2B-872B-CEBA7BC20D20"
+    },
+    {
+      "class": "group",
+      "id": "485F4F23-EB2D-48C8-915E-2A45AD3DBD5D"
+    },
+    {
+      "class": "group",
+      "id": "92081C12-D559-4C55-BCA1-F0AB9B3A22F6"
+    },
+    {
+      "class": "group",
+      "id": "72418847-C5F0-4AE3-AC27-1D4AA585C75A"
+    }
+  ],
+  "name": "PC Resolve時",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CF2E48E8-8A1B-42D2-AB90-B1F2421641A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BDFE670B-53E5-4A49-A21B-6873460E3E92",
+    "guides": [
+    ]
+  }
+}

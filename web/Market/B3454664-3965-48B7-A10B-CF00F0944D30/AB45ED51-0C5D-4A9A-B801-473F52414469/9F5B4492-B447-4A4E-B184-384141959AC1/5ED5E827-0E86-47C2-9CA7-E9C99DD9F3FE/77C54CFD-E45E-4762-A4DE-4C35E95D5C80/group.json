@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77C54CFD-E45E-4762-A4DE-4C35E95D5C80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E938521A-90BA-435A-8D9E-44AB15AD9212",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F22A6F5F-CBAB-4591-AED8-16A6132314DF",
+    "height": 30,
+    "width": 29.25,
+    "x": 7.990157480314863,
+    "y": 53
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F217702F-DB25-4318-9D12-A28963616621"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A09DB62C-792F-4BB5-8D80-60C074CE89C2"
+    },
+    {
+      "class": "shapePath",
+      "id": "411C2B00-0CA6-462E-A4F3-4B30A24D576B"
+    },
+    {
+      "class": "shapePath",
+      "id": "CC222C01-C17D-47F7-9B6D-81143FB2F793"
+    },
+    {
+      "class": "shapePath",
+      "id": "45E1D424-EDD3-40B4-A5A2-0F6F9AA6B34E"
+    },
+    {
+      "class": "shapePath",
+      "id": "0606041A-7720-46FE-AF8D-E4C64B455276"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A27F06B-A32B-4E66-BC97-5510F38BF005"
+    },
+    {
+      "class": "shapePath",
+      "id": "8F0CF581-021E-424E-B7A0-93DB164B24C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "78C18C46-966E-4846-9DD0-9A4788AB3E07"
+    },
+    {
+      "class": "shapePath",
+      "id": "892A3A60-69CD-4DBC-A504-F3737FED90C0"
+    },
+    {
+      "class": "shapePath",
+      "id": "F2388DCE-D00D-40B5-B8DD-1A069B807DD1"
+    },
+    {
+      "class": "shapePath",
+      "id": "3FE72BE0-74B4-49F7-8102-4298B37E1727"
+    },
+    {
+      "class": "shapePath",
+      "id": "9EF6D6B2-91C6-461E-8BED-4668D9E4FE23"
+    },
+    {
+      "class": "shapePath",
+      "id": "92A01C2E-6553-448E-8377-25B32A6A19D7"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD8BF56B-D1C5-4628-BCA8-8D9BB5754993"
+    },
+    {
+      "class": "shapePath",
+      "id": "17E78BA0-0B7D-433F-BDD2-F66999EADF22"
+    },
+    {
+      "class": "shapePath",
+      "id": "79CC753A-7E96-4828-8908-5D23966578C2"
+    }
+  ],
+  "name": "コインのフリーアイコン",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9A29AC3-8B34-423C-AC6D-28BCE1F26A10",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
