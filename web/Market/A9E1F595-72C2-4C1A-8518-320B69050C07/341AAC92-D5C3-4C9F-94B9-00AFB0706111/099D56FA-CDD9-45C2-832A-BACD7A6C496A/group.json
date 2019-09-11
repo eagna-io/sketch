@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "099D56FA-CDD9-45C2-832A-BACD7A6C496A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44810DE8-9EB5-4D2C-90E9-44D5E2F402CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB5F802C-E655-453F-840D-BC89AA0671FE",
+    "height": 30,
+    "width": 70,
+    "x": 19,
+    "y": 20
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7A32E119-5B38-4120-9018-BB491FEEAB1B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F453E10A-15E6-4746-AD21-D845802C48C1"
+    },
+    {
+      "class": "text",
+      "id": "23295B7C-1CD2-4428-B2F4-39614B3FF954"
+    }
+  ],
+  "name": "StatusBadge",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D6D18E09-709B-488A-9482-C439D036AB57",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
