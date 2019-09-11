@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HiraginoSans-W3",
+              "name": "HiraginoSans-W2",
               "size": 20
             }
           },
@@ -56,7 +56,7 @@
     "x": 10,
     "y": 15
   },
-  "glyphBounds": "{{3, 0}, {76, 19}}",
+  "glyphBounds": "{{3, 0}, {75, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HiraginoSans-W3",
+            "name": "HiraginoSans-W2",
             "size": 20
           }
         },
