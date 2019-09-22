@@ -10,14 +10,14 @@
             "_class": "color",
             "alpha": 1,
             "blue": 0.3058823529411765,
-            "green": 0.2196078431372548,
-            "red": 0.1098039215686274
+            "green": 0.2196078431372549,
+            "red": 0.1058823529411765
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansJP-Bold",
-              "size": 15
+              "name": "NotoSansJP-Light",
+              "size": 10
             }
           },
           "kerning": 0,
@@ -28,20 +28,20 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 8,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "注目のマーケット"
+    "string": "ポイント獲得・使用履歴を確認する"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "914DA3E3-ABAF-48B6-993F-115EB5E7B513",
+  "do_objectID": "6CD9D1DC-95F0-4FF7-86C7-611A412D3A23",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "03707CE4-2FE0-4EC5-9F61-98F38381E6A3",
+    "do_objectID": "63900E35-936D-4252-A666-84AD948BD4A4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5FA7D379-ECA8-4F24-907A-A573A750E9D5",
-    "height": 22,
-    "width": 120,
-    "x": 14,
-    "y": 738
+    "do_objectID": "85B4901E-01BB-4D4C-B69E-E23A67FEDFDB",
+    "height": 15,
+    "width": 160,
+    "x": 11,
+    "y": 117
   },
-  "glyphBounds": "{{0, 4}, {119, 15}}",
+  "glyphBounds": "{{0, 3}, {159, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "注目のマーケット",
+  "name": "ポイント獲得・使用履歴を確認する",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,26 +75,26 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4429CE45-8D2B-47B1-9002-58678FE28292",
+    "do_objectID": "4D688A43-7AC5-420D-80A1-23B59B88DA0C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "9DD8CDD0-46F4-4366-A58F-03C918FBEED8",
+      "do_objectID": "10CCF1B3-7C6D-4058-B0FE-4DA5187E1EFF",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.3058823529411765,
-          "green": 0.2196078431372548,
-          "red": 0.1098039215686274
+          "green": 0.2196078431372549,
+          "red": 0.1058823529411765
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansJP-Bold",
-            "size": 15
+            "name": "NotoSansJP-Light",
+            "size": 10
           }
         },
         "kerning": 0,

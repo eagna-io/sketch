@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1622,
+    "height": 1718,
     "width": 375,
     "x": -186,
     "y": -330
@@ -84,6 +84,10 @@
     {
       "class": "group",
       "id": "B1E6F232-53F8-4406-B870-7658B5593BCA"
+    },
+    {
+      "class": "group",
+      "id": "4A9A3AFF-A779-401F-8F06-92B6CD50E013"
     }
   ],
   "name": "iPhone 8",

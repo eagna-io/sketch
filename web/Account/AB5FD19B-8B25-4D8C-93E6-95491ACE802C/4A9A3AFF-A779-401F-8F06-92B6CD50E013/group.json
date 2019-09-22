@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8DDDDF1D-2B69-4E79-8EE9-2EE135BE1DAD",
+  "do_objectID": "4A9A3AFF-A779-401F-8F06-92B6CD50E013",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 119,
-    "width": 353,
-    "x": 10,
-    "y": 268
+    "height": 138,
+    "width": 352,
+    "x": 11,
+    "y": 95
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,38 +34,34 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "8CABDC51-B23F-4719-BFD2-90D0FA6574ED"
+      "id": "E18373D9-329C-43FD-89A7-46E8B5DCA2AB"
     },
     {
-      "class": "rectangle",
-      "id": "EAE59D8C-3DA3-4153-AB71-06158E18787C"
+      "class": "text",
+      "id": "F24E38D8-B30F-434A-AA06-72309E0ACFA2"
+    },
+    {
+      "class": "text",
+      "id": "4DB09421-4699-4D0A-9FBF-48F4A0A822D5"
+    },
+    {
+      "class": "group",
+      "id": "9CE5187E-670C-4085-A845-160B2E5AD10C"
+    },
+    {
+      "class": "text",
+      "id": "E8EDAE5C-2206-49FC-898B-F0D60A573014"
     },
     {
       "class": "shapePath",
-      "id": "2CAA66F1-5A19-481C-B2AB-E4EA141D1130"
+      "id": "57ACA7DC-A4D9-4990-A15E-17A65A869927"
     },
     {
       "class": "text",
-      "id": "C491EF8B-8021-4FCC-A3FA-814794BFA929"
-    },
-    {
-      "class": "text",
-      "id": "C638B436-47AC-4D53-BA08-360123CEA99F"
-    },
-    {
-      "class": "text",
-      "id": "0BA7DBEA-4FCA-49D5-B74A-47645A7FEE47"
-    },
-    {
-      "class": "text",
-      "id": "26A63FE2-C31B-425E-B5B1-C3F1E7ABDAF9"
-    },
-    {
-      "class": "text",
-      "id": "3B34A8DA-6104-4CCE-8A89-A324647BEA4F"
+      "id": "6E755ABC-223E-425C-8E9F-31612D149D9E"
     }
   ],
-  "name": "Profile",
+  "name": "保有ポイント",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

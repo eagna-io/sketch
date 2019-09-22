@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3058823529411765,
-            "green": 0.2196078431372548,
-            "red": 0.1098039215686274
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 15
+              "size": 14
             }
           },
           "kerning": 0,
@@ -28,20 +28,19 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 8,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "注目のマーケット"
+    "string": "報酬と交換する"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "914DA3E3-ABAF-48B6-993F-115EB5E7B513",
+  "do_objectID": "19E70E7D-DC13-4BDE-90EC-CFC0AD504D4A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "03707CE4-2FE0-4EC5-9F61-98F38381E6A3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5FA7D379-ECA8-4F24-907A-A573A750E9D5",
-    "height": 22,
-    "width": 120,
-    "x": 14,
-    "y": 738
+    "height": 20,
+    "width": 98,
+    "x": 55,
+    "y": 19
   },
-  "glyphBounds": "{{0, 4}, {119, 15}}",
+  "glyphBounds": "{{0, 4}, {97, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "注目のマーケット",
+  "name": "報酬と交換する",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,26 +73,24 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4429CE45-8D2B-47B1-9002-58678FE28292",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "9DD8CDD0-46F4-4366-A58F-03C918FBEED8",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3058823529411765,
-          "green": 0.2196078431372548,
-          "red": 0.1098039215686274
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
-            "size": 15
+            "size": 14
           }
         },
         "kerning": 0,

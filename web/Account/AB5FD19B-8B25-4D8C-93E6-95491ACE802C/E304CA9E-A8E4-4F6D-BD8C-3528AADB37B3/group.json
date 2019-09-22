@@ -19,8 +19,8 @@
     "do_objectID": "10FE732C-3B7B-4A89-A69B-280A817A61BF",
     "height": 204,
     "width": 169,
-    "x": 194,
-    "y": 306
+    "x": 195,
+    "y": 464
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -32,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",

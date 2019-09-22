@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8DDDDF1D-2B69-4E79-8EE9-2EE135BE1DAD",
+  "do_objectID": "745262B3-E527-491A-BA25-ED7ACD85A93B",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "224BC612-96E7-4B19-8E8C-91AC44514CCC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 119,
-    "width": 353,
-    "x": 10,
-    "y": 268
+    "do_objectID": "8C5C113A-04DD-4A9F-A08C-614EEFA48410",
+    "height": 138,
+    "width": 352,
+    "x": 11,
+    "y": 95
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "63727C63-166D-4D03-8266-38387C4FF73B"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,38 +37,34 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "8CABDC51-B23F-4719-BFD2-90D0FA6574ED"
+      "id": "8341788C-2345-413A-AAB1-A6EF5EB4E5FE"
     },
     {
-      "class": "rectangle",
-      "id": "EAE59D8C-3DA3-4153-AB71-06158E18787C"
+      "class": "text",
+      "id": "E3E49D00-A56E-4FB9-920E-F35AD5A40A0A"
+    },
+    {
+      "class": "text",
+      "id": "F2B99542-C73A-4B84-A114-AB25B02D0DB3"
+    },
+    {
+      "class": "group",
+      "id": "F0BF511E-4371-4862-8A90-EBF0C5FBF091"
+    },
+    {
+      "class": "text",
+      "id": "6CD9D1DC-95F0-4FF7-86C7-611A412D3A23"
     },
     {
       "class": "shapePath",
-      "id": "2CAA66F1-5A19-481C-B2AB-E4EA141D1130"
+      "id": "811D932C-F677-4F23-A95C-D91BE6BB4DAD"
     },
     {
       "class": "text",
-      "id": "C491EF8B-8021-4FCC-A3FA-814794BFA929"
-    },
-    {
-      "class": "text",
-      "id": "C638B436-47AC-4D53-BA08-360123CEA99F"
-    },
-    {
-      "class": "text",
-      "id": "0BA7DBEA-4FCA-49D5-B74A-47645A7FEE47"
-    },
-    {
-      "class": "text",
-      "id": "26A63FE2-C31B-425E-B5B1-C3F1E7ABDAF9"
-    },
-    {
-      "class": "text",
-      "id": "3B34A8DA-6104-4CCE-8A89-A324647BEA4F"
+      "id": "3CA77E14-2492-4AF9-B7EC-A3D34ED9D46D"
     }
   ],
-  "name": "Profile",
+  "name": "保有ポイント",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,6 +72,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "60A6ECAD-E68C-420E-B8A0-A961E9AA6607",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
