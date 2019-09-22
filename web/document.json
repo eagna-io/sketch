@@ -209,6 +209,8 @@
   "pages": [
     "Top",
     "Account",
-    "Market"
+    "Market",
+    "Reward",
+    "Symbols"
   ]
 }
