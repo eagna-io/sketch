@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "92D6526C-0D7E-40C1-B98B-8436A44A86C8",
+  "do_objectID": "2E306B31-7D0B-442D-A5C6-8E318DBFE827",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,9 +22,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 639,
-    "width": 375,
-    "x": 2304,
+    "height": 2038,
+    "width": 1440,
+    "x": 2779,
     "y": -330
   },
   "groupLayout": {
@@ -47,41 +47,37 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "1C4FA7F4-78DB-4162-A3E2-68C2DCBC6379"
+      "id": "C0B9E7BB-07FD-48EE-90A1-833CA8E7188B"
+    },
+    {
+      "class": "group",
+      "id": "4C3E8E87-457F-4B57-B494-53D216F76883"
     },
     {
       "class": "text",
-      "id": "AEB0B67A-C241-4A34-BB88-558E52BE2362"
+      "id": "34DFC417-36B3-42A9-B7B5-B6CA147D9DCC"
     },
     {
       "class": "group",
-      "id": "3C54D189-6BC9-464F-8F3A-0DA335E5C1C1"
+      "id": "E7136B55-036B-409D-9CA7-9AAB3DA09942"
     },
     {
       "class": "group",
-      "id": "EECCB29A-4395-473A-8058-6A1E17101E3A"
-    },
-    {
-      "class": "group",
-      "id": "3FF9513A-B2A5-4804-8C33-1B4FEA27EF3B"
-    },
-    {
-      "class": "group",
-      "id": "0CD775C2-20B6-4B72-A1A0-AAB415BF8235"
+      "id": "774C2241-EA36-4CAB-9001-E4C005930EE3"
     }
   ],
-  "name": "ポイント履歴",
+  "name": "Desktop HD ポイント履歴",
   "nameIsFixed": true,
   "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
   },
   "resizesContent": false,
   "resizingConstraint": 63,

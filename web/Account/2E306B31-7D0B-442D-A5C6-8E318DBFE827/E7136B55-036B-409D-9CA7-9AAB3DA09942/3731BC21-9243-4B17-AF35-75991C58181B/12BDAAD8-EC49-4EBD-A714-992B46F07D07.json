@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 15
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -35,11 +35,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BD8E077A-B36C-46AA-877A-FABDA99361CB",
+  "do_objectID": "12BDAAD8-EC49-4EBD-A714-992B46F07D07",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "85063D6C-4ABD-43C6-B2A9-6513F2F9DA10",
+    "do_objectID": "5827060F-F709-4F38-849E-9352EA2CB70A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DA71EF28-2CE6-4EB8-B456-56A8FEC7F601",
-    "height": 22,
-    "width": 102,
-    "x": 25,
+    "do_objectID": "481D4913-FB52-4FB3-8B2C-115E18F22C5D",
+    "height": 24,
+    "width": 109,
+    "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 4}, {99, 14}}",
+  "glyphBounds": "{{1, 5}, {106, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "951C097A-948C-4616-8C06-6E9EAA1FD6F9",
+    "do_objectID": "28F5A5EB-C23E-4F2D-BA82-C4F379DD8754",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "78E47EBD-AB1E-4206-91A6-214F3271E26A",
+      "do_objectID": "2F9C566F-5867-4742-B5EB-59EE27AB5282",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
-            "size": 15
+            "size": 16
           }
         },
         "paragraphStyle": {

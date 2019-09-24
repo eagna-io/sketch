@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EECCB29A-4395-473A-8058-6A1E17101E3A",
+  "do_objectID": "3731BC21-9243-4B17-AF35-75991C58181B",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "87657BE7-8E50-48C1-A9BE-68D60215C2AD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 130,
-    "width": 323,
-    "x": 33,
-    "y": 289
+    "do_objectID": "AEDDD008-5100-42CA-830D-730F149651CE",
+    "height": 83,
+    "width": 321,
+    "x": 45,
+    "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FB696F1F-173D-417C-AD54-AE9D159DA0C7"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,30 +36,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "oval",
-      "id": "C9B364DB-369D-4C31-82DC-CDE799E91227"
+      "class": "text",
+      "id": "12BDAAD8-EC49-4EBD-A714-992B46F07D07"
     },
     {
       "class": "text",
-      "id": "D17C2781-60D5-4F6A-8AC1-B46713228614"
-    },
-    {
-      "class": "text",
-      "id": "BD8E077A-B36C-46AA-877A-FABDA99361CB"
-    },
-    {
-      "class": "shapePath",
-      "id": "39DFF336-1D0B-4F8F-BDBD-B51296DF2006"
+      "id": "53883D5B-3AE7-4E13-815D-66E87BCC5EE9"
     }
   ],
-  "name": "履歴２",
-  "nameIsFixed": true,
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "2037B0CC-8458-466D-BCB3-1CB006B700FF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

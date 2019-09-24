@@ -1,8 +1,9 @@
 {
-  "_class": "group",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "3FF9513A-B2A5-4804-8C33-1B4FEA27EF3B",
+  "do_objectID": "A3C154FE-34F0-4951-8B7D-B8E42EA0648C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,41 +13,30 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 104,
-    "width": 323,
-    "x": 33,
-    "y": 423
+    "constrainProportions": true,
+    "height": 50,
+    "width": 100,
+    "x": 30,
+    "y": 5
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/aa30aad437d48ffa5986e05407cbda855e23d948.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "oval",
-      "id": "B1C21AEA-044D-47AC-BDDD-600A60B8730C"
-    },
-    {
-      "class": "text",
-      "id": "720EBB3F-B50C-4227-A4CF-16EBC7F6ED6A"
-    },
-    {
-      "class": "text",
-      "id": "25A9A748-29FB-4A58-AC3E-E626A8DCE088"
-    }
-  ],
-  "name": "履歴３",
-  "nameIsFixed": true,
+  "name": "icon",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

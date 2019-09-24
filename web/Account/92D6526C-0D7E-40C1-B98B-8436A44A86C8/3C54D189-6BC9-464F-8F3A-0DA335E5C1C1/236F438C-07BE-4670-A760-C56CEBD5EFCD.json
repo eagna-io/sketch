@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3058823529411765,
-            "green": 0.2196078431372549,
-            "red": 0.1058823529411765
+            "blue": 0.1298772692680359,
+            "green": 0.8262341022491455,
+            "red": 0.4941504597663879
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "2123ポイント"
+    "string": "＋123ポイント"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 96,
+    "width": 102,
     "x": 25,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {94, 14}}",
+  "glyphBounds": "{{2, 4}, {98, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "2123ポイント",
+  "name": "＋123ポイント",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -80,9 +80,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3058823529411765,
-          "green": 0.2196078431372549,
-          "red": 0.1058823529411765
+          "blue": 0.1298772692680359,
+          "green": 0.8262341022491455,
+          "red": 0.4941504597663879
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

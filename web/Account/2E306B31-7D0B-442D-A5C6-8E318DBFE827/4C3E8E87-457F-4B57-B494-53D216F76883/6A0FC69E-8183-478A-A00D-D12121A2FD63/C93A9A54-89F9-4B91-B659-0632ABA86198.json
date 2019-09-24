@@ -54,7 +54,7 @@
           "textStyleVerticalAlignmentKey": 2,
           "underlineStyle": 1
         },
-        "length": 27,
+        "length": 26,
         "location": 26
       },
       {
@@ -81,7 +81,7 @@
           "textStyleVerticalAlignmentKey": 2
         },
         "length": 9,
-        "location": 53
+        "location": 52
       },
       {
         "_class": "stringAttribute",
@@ -107,15 +107,15 @@
           "textStyleVerticalAlignmentKey": 2
         },
         "length": 10,
-        "location": 62
+        "location": 61
       }
     ],
-    "string": "2019/09/22/15:00:00\nマーケット「アラジンvsスパイダーマン・ファー・フ\nローム・ホーム」でポイント獲得\n2123ポイント保有"
+    "string": "2019/09/22/15:00:00\nマーケット「アラジンvsスパイダーマン・ファー・フローム・ホーム」でポイント獲得\n2123ポイント保有"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "88E32EC9-7FB3-40C3-8592-C66263F59F37",
+  "do_objectID": "C93A9A54-89F9-4B91-B659-0632ABA86198",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -129,12 +129,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 72,
-    "width": 288,
-    "x": 26,
-    "y": 32
+    "height": 54,
+    "width": 467,
+    "x": 0,
+    "y": 29
   },
-  "glyphBounds": "{{0, 4}, {286, 66}}",
+  "glyphBounds": "{{0, 4}, {466, 48}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

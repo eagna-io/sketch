@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.145098039215686,
-            "green": 0.01568627450980385,
-            "red": 0.8901960784313725
+            "blue": 0.1298772692680359,
+            "green": 0.8262341022491455,
+            "red": 0.4941504597663879
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 15
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -30,16 +30,15 @@
         "location": 0
       }
     ],
-    "string": "ー300ポイント"
+    "string": "＋123ポイント"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BD8E077A-B36C-46AA-877A-FABDA99361CB",
+  "do_objectID": "CEDF0880-C194-4575-8858-D327A4EA64B0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "85063D6C-4ABD-43C6-B2A9-6513F2F9DA10",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DA71EF28-2CE6-4EB8-B456-56A8FEC7F601",
-    "height": 22,
-    "width": 102,
-    "x": 25,
+    "height": 24,
+    "width": 109,
+    "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 4}, {99, 14}}",
+  "glyphBounds": "{{2, 5}, {105, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "ー300ポイント",
+  "name": "＋123ポイント",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,26 +71,24 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "951C097A-948C-4616-8C06-6E9EAA1FD6F9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "78E47EBD-AB1E-4206-91A6-214F3271E26A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.145098039215686,
-          "green": 0.01568627450980385,
-          "red": 0.8901960784313725
+          "blue": 0.1298772692680359,
+          "green": 0.8262341022491455,
+          "red": 0.4941504597663879
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
-            "size": 15
+            "size": 16
           }
         },
         "paragraphStyle": {

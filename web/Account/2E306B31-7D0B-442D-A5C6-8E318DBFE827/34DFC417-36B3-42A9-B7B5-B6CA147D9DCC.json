@@ -9,37 +9,38 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.145098039215686,
-            "green": 0.01568627450980385,
-            "red": 0.8901960784313725
+            "blue": 0.3058823529411765,
+            "green": 0.2196078431372548,
+            "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 15
+              "size": 20
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 3
+            "alignment": 3,
+            "allowsDefaultTighteningForTruncation": 0
           },
-          "textStyleVerticalAlignmentKey": 2
+          "textStyleVerticalAlignmentKey": 1
         },
-        "length": 8,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "ー300ポイント"
+    "string": "ポイント獲得・使用履歴"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BD8E077A-B36C-46AA-877A-FABDA99361CB",
+  "do_objectID": "34DFC417-36B3-42A9-B7B5-B6CA147D9DCC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "85063D6C-4ABD-43C6-B2A9-6513F2F9DA10",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DA71EF28-2CE6-4EB8-B456-56A8FEC7F601",
-    "height": 22,
-    "width": 102,
-    "x": 25,
-    "y": 0
+    "height": 29,
+    "width": 220,
+    "x": 231,
+    "y": 120
   },
-  "glyphBounds": "{{1, 4}, {99, 14}}",
+  "glyphBounds": "{{0, 5}, {220, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "ー300ポイント",
+  "name": "ポイント獲得・使用履歴",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,35 +73,35 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "951C097A-948C-4616-8C06-6E9EAA1FD6F9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "78E47EBD-AB1E-4206-91A6-214F3271E26A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.145098039215686,
-          "green": 0.01568627450980385,
-          "red": 0.8901960784313725
+          "blue": 0.3058823529411765,
+          "green": 0.2196078431372548,
+          "red": 0.1098039215686274
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
-            "size": 15
+            "size": 20
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 3
+          "alignment": 3,
+          "allowsDefaultTighteningForTruncation": 0
         },
-        "textStyleVerticalAlignmentKey": 2
+        "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 2
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
