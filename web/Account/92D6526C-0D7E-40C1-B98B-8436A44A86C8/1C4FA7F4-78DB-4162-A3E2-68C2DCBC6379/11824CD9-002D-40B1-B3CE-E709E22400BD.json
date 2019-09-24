@@ -3,10 +3,9 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "19F1950F-DE70-427A-967D-5D4E08FEC889",
+  "do_objectID": "11824CD9-002D-40B1-B3CE-E709E22400BD",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C4CC82A2-36DA-4C60-987C-992FCE9CB708",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,16 +17,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "3D43ABCF-66BA-49B9-940B-CB29A72D3057",
-    "height": 33,
-    "width": 33,
-    "x": 6,
-    "y": 4
+    "height": 50,
+    "width": 100,
+    "x": 30,
+    "y": 5
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/8e249419225303693aa35be5868181d11723dd81.png",
+    "_ref": "images/aa30aad437d48ffa5986e05407cbda855e23d948.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -37,7 +35,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "シンプルなプレゼントアイコン",
+  "name": "icon",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,26 +43,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5A6B75BC-40EB-4A37-B8FB-BA7FA2AE43DE",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.3058823529411765,
-          "green": 0.2196078431372548,
-          "red": 0.1098039215686274
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1

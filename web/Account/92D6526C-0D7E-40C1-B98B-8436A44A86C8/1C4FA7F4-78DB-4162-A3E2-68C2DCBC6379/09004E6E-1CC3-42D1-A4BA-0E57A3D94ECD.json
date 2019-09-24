@@ -1,12 +1,11 @@
 {
-  "_class": "bitmap",
+  "_class": "triangle",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "E28BCB00-8471-4CFB-A2D3-B960997B6AA0",
+  "do_objectID": "09004E6E-1CC3-42D1-A4BA-0E57A3D94ECD",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C73503E7-6D5D-4471-9E2C-433EE9ACDEA5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,38 +13,64 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "8937CC5E-AFD6-4EBA-A47B-74FF22A881A8",
-    "height": 30,
-    "width": 30,
-    "x": 13,
-    "y": 14
+    "constrainProportions": false,
+    "height": 5,
+    "width": 9,
+    "x": 336,
+    "y": 33
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/8e249419225303693aa35be5868181d11723dd81.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "isClosed": true,
+  "isEquilateral": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
-  "isFlippedVertical": false,
+  "isFlippedVertical": true,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "シンプルなプレゼントアイコン",
+  "name": "Triangle",
   "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.5, 0}",
+      "curveMode": 1,
+      "curveTo": "{0.5, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.5, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0AD490FA-9C3C-4DD3-9513-00041E156AC0",
     "endMarkerType": 0,
     "fills": [
       {

@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9CE5187E-670C-4085-A845-160B2E5AD10C",
+  "do_objectID": "3FF9513A-B2A5-4804-8C33-1B4FEA27EF3B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 45,
-    "width": 45,
-    "x": 276,
-    "y": 46
+    "height": 104,
+    "width": 311,
+    "x": 33,
+    "y": 423
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,15 +34,19 @@
   "layers": [
     {
       "class": "oval",
-      "id": "07516B16-2451-40B0-ABFE-D468CA95CE53"
+      "id": "B1C21AEA-044D-47AC-BDDD-600A60B8730C"
     },
     {
-      "class": "bitmap",
-      "id": "8BAA74AC-7A4B-472F-9580-C4CF201971D9"
+      "class": "text",
+      "id": "720EBB3F-B50C-4227-A4CF-16EBC7F6ED6A"
+    },
+    {
+      "class": "text",
+      "id": "25A9A748-29FB-4A58-AC3E-E626A8DCE088"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
+  "name": "履歴３",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -51,28 +55,6 @@
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 1,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 1,
-        "offsetY": 1,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

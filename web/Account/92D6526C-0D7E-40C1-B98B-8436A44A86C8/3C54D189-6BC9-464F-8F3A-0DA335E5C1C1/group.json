@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D288DAC8-094D-4AA0-A0B4-E8CA08CF23DC",
+  "do_objectID": "3C54D189-6BC9-464F-8F3A-0DA335E5C1C1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 130,
+    "width": 314,
+    "x": 33,
+    "y": 155
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -626,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,23 +33,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "AB5FD19B-8B25-4D8C-93E6-95491ACE802C"
+      "class": "oval",
+      "id": "9B67506E-ED50-4DC5-A36E-072D553A4BD7"
     },
     {
-      "class": "artboard",
-      "id": "92D6526C-0D7E-40C1-B98B-8436A44A86C8"
+      "class": "text",
+      "id": "88E32EC9-7FB3-40C3-8592-C66263F59F37"
     },
     {
-      "class": "artboard",
-      "id": "0EED2581-C319-4975-8F65-18711C9BAB82"
+      "class": "text",
+      "id": "236F438C-07BE-4670-A760-C56CEBD5EFCD"
     },
     {
-      "class": "artboard",
-      "id": "43D65FCD-F927-40D2-B9EF-8D9098AF747A"
+      "class": "shapePath",
+      "id": "B9A23358-A94B-46BA-AEA1-AF0D1E99BE4D"
     }
   ],
-  "name": "Account",
+  "name": "履歴１",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,11 +61,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -484,
-    "guides": [
-    ]
   }
 }

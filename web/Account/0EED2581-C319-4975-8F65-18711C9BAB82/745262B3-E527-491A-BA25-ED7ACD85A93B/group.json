@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "8C5C113A-04DD-4A9F-A08C-614EEFA48410",
     "height": 138,
-    "width": 352,
-    "x": 11,
+    "width": 367,
+    "x": -4,
     "y": 95
   },
   "groupLayout": {
@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -42,14 +42,6 @@
     {
       "class": "text",
       "id": "E3E49D00-A56E-4FB9-920E-F35AD5A40A0A"
-    },
-    {
-      "class": "text",
-      "id": "F2B99542-C73A-4B84-A114-AB25B02D0DB3"
-    },
-    {
-      "class": "group",
-      "id": "F0BF511E-4371-4862-8A90-EBF0C5FBF091"
     },
     {
       "class": "text",
@@ -62,6 +54,18 @@
     {
       "class": "text",
       "id": "3CA77E14-2492-4AF9-B7EC-A3D34ED9D46D"
+    },
+    {
+      "class": "text",
+      "id": "9F2CD9D4-6A73-4E8F-8BEA-7BDAABE6299C"
+    },
+    {
+      "class": "bitmap",
+      "id": "51A4555F-878B-4BD4-B8BA-395BA636E757"
+    },
+    {
+      "class": "text",
+      "id": "E24EC60F-FE3B-4E66-AC53-571AA04745F9"
     }
   ],
   "name": "保有ポイント",

@@ -17,31 +17,29 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 21
+              "size": 15
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 3,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 3
           },
-          "textStyleVerticalAlignmentKey": 1
+          "textStyleVerticalAlignmentKey": 2
         },
-        "length": 12,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "\t12,345 ポイント"
+    "string": "2423ポイント"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F2B99542-C73A-4B84-A114-AB25B02D0DB3",
+  "do_objectID": "BD8E077A-B36C-46AA-877A-FABDA99361CB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "363EC408-3586-472F-8EF9-FF016A2BCA98",
+    "do_objectID": "85063D6C-4ABD-43C6-B2A9-6513F2F9DA10",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "91A43850-2B86-4F2D-8ABA-9F47637B7A54",
-    "height": 31,
-    "width": 186,
-    "x": 11,
-    "y": 53
+    "do_objectID": "DA71EF28-2CE6-4EB8-B456-56A8FEC7F601",
+    "height": 22,
+    "width": 96,
+    "x": 25,
+    "y": 0
   },
-  "glyphBounds": "{{29, 5}, {154, 24}}",
+  "glyphBounds": "{{0, 4}, {94, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "12,345 ポイント",
+  "name": "2423ポイント",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "EDE147A7-1932-40C2-81B3-0E164AE82DCA",
+    "do_objectID": "951C097A-948C-4616-8C06-6E9EAA1FD6F9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C343466C-124E-49EC-B6AF-A88AE991C6E8",
+      "do_objectID": "78E47EBD-AB1E-4206-91A6-214F3271E26A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -94,18 +92,16 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
-            "size": 21
+            "size": 15
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 3,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 3
         },
-        "textStyleVerticalAlignmentKey": 1
+        "textStyleVerticalAlignmentKey": 2
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 2
     },
     "windingRule": 1
   },
