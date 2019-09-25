@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "所持コイン"
+    "string": "所持チップ"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,10 +55,10 @@
     "do_objectID": "021252F5-A74D-4D84-BE62-FC30CC218F3B",
     "height": 24,
     "width": 113.625,
-    "x": 0,
+    "x": -4.547473508864641e-13,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {79, 16}}",
+  "glyphBounds": "{{0, 5}, {80, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "所持コイン",
+  "name": "所持チップ",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
