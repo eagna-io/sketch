@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "774C2241-EA36-4CAB-9001-E4C005930EE3",
+  "do_objectID": "5EF9E6B4-97CA-4E9A-8F66-AC01C9268733",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 83,
-    "width": 366,
+    "height": 123,
+    "width": 650,
     "x": 247,
-    "y": 405
+    "y": 193
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,14 +34,22 @@
   "layers": [
     {
       "class": "oval",
-      "id": "E3234C64-0B2B-41B6-9759-56DE6D074ED3"
+      "id": "2459126D-4843-4985-A861-120074F67F54"
     },
     {
-      "class": "group",
-      "id": "4A8D021E-11A7-43E3-B6D9-BC9C75D0421A"
+      "class": "text",
+      "id": "CEDF0880-C194-4575-8858-D327A4EA64B0"
+    },
+    {
+      "class": "text",
+      "id": "C93A9A54-89F9-4B91-B659-0632ABA86198"
+    },
+    {
+      "class": "shapePath",
+      "id": "736A55ED-77C9-4908-802B-DC8D271EDB14"
     }
   ],
-  "name": "履歴３",
+  "name": "履歴１",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

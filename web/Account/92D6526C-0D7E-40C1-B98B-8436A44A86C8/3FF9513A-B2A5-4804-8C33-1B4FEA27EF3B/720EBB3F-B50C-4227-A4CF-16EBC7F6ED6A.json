@@ -26,8 +26,114 @@
           },
           "textStyleVerticalAlignmentKey": 2
         },
-        "length": 59,
+        "length": 23,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3058823529411765,
+            "green": 0.2196078431372549,
+            "red": 0.1058823529411765
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "NotoSansJP-Regular",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3
+          },
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 2,
+          "underlineStyle": 1
+        },
+        "length": 30,
+        "location": 23
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3058823529411765,
+            "green": 0.2196078431372549,
+            "red": 0.1058823529411765
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "NotoSansJP-Regular",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3
+          },
+          "textStyleVerticalAlignmentKey": 2
+        },
+        "length": 6,
+        "location": 53
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3058823529411765,
+            "green": 0.2196078431372549,
+            "red": 0.1058823529411765
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "NotoSansJP-Bold",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3
+          },
+          "textStyleVerticalAlignmentKey": 2
+        },
+        "length": 5,
+        "location": 59
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3058823529411765,
+            "green": 0.2196078431372549,
+            "red": 0.1058823529411765
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "NotoSansJP-Regular",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3
+          },
+          "textStyleVerticalAlignmentKey": 2
+        },
+        "length": 1,
+        "location": 64
       },
       {
         "_class": "stringAttribute",
@@ -53,10 +159,10 @@
           "textStyleVerticalAlignmentKey": 2
         },
         "length": 10,
-        "location": 59
+        "location": 65
       }
     ],
-    "string": "2019/09/19/10:00:00\n報酬「Starbucks Coffee フードチケット（300円）」と\n交換\n2723ポイント保有"
+    "string": "2019/09/19/10:00:00\n賞品「Starbucks Coffee フードチケット（300円）」と\n交換\n賞品送信済\n2723ポイント保有"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -77,12 +183,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D65767D3-3E27-4129-8712-0A4D8EB2F441",
-    "height": 72,
+    "height": 90,
     "width": 297,
     "x": 26,
     "y": 32
   },
-  "glyphBounds": "{{0, 4}, {295, 66}}",
+  "glyphBounds": "{{0, 4}, {295, 84}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

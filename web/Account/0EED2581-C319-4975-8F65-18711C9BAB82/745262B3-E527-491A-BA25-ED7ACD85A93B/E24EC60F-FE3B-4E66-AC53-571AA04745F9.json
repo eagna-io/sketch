@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "報酬と交換→"
+    "string": "賞品と交換→"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "報酬と交換→",
+  "name": "賞品と交換→",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

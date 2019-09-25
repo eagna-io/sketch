@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 2
         },
-        "length": 58,
+        "length": 26,
         "location": 0
       },
       {
@@ -42,7 +42,35 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansJP-Bold",
+              "name": "NotoSansJP-Regular",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3
+          },
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 2,
+          "underlineStyle": 1
+        },
+        "length": 26,
+        "location": 26
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3058823529411765,
+            "green": 0.2196078431372549,
+            "red": 0.1058823529411765
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "NotoSansJP-Regular",
               "size": 12
             }
           },
@@ -52,20 +80,45 @@
           },
           "textStyleVerticalAlignmentKey": 2
         },
+        "length": 9,
+        "location": 52
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3058823529411765,
+            "green": 0.2196078431372549,
+            "red": 0.1058823529411765
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "NotoSansJP-Bold",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3
+          },
+          "textStyleVerticalAlignmentKey": 2
+        },
         "length": 10,
-        "location": 58
+        "location": 61
       }
     ],
-    "string": "2019/09/19/10:00:00\n報酬「Starbucks Coffee フードチケット（300円）」と交換\n2723ポイント保有"
+    "string": "2019/09/22/15:00:00\nマーケット「アラジンvsスパイダーマン・ファー・フローム・ホーム」でポイント獲得\n2123ポイント保有"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5461E028-093E-4E79-B5E3-C6B5D0B89336",
+  "do_objectID": "C93A9A54-89F9-4B91-B659-0632ABA86198",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "63E5CC79-E375-4341-99F3-2A95EFEA4856",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -76,13 +129,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BF6DD315-C9D8-44BB-BD7A-F74C5D3B5DBF",
-    "height": 54,
-    "width": 321,
-    "x": 0,
-    "y": 29
+    "height": 56,
+    "width": 467,
+    "x": 183,
+    "y": 0
   },
-  "glyphBounds": "{{0, 4}, {321, 48}}",
+  "glyphBounds": "{{0, 4}, {466, 50}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +143,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "2019/09/19/10:00:00",
+  "name": "2019/09/22/15:00:00",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -99,13 +151,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "86A9CC55-D13D-4FDB-98DA-DFEFCB86B3F1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5BD47611-0B24-4E42-98A0-6A6EF3DD6F98",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
