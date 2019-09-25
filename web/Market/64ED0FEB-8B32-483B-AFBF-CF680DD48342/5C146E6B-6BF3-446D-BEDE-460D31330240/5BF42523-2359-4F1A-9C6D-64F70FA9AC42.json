@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "所持コイン"
+    "string": "所持チップ"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "所持コイン",
+  "name": "所持チップ",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

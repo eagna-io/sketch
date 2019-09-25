@@ -60,7 +60,7 @@
         "location": 1
       }
     ],
-    "string": "３. 正しい予測で報酬をGET！"
+    "string": "３. 正しい予測で賞品をGET！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "３. 正しい予測で報酬をGET！",
+  "name": "３. 正しい予測で賞品をGET！",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

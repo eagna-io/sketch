@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 53,
+        "length": 48,
         "location": 0
       }
     ],
-    "string": "コインはいろんな商品やポイントと\n交換することができます。正確な予測\nでたくさんの報酬をGETしましょう！"
+    "string": "チップはいろんな賞品と交換すること\nができます。正確な予測でたくさんの\n賞品をGETしましょう！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "コインはいろんな商品やポイントと 交換す",
+  "name": "チップはいろんな賞品と交換すること がで",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

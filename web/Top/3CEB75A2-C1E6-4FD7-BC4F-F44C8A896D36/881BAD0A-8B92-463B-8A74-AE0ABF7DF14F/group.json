@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9F86AB7F-466B-4BE2-8517-94EF4B5A4CB6",
-    "height": 261,
-    "width": 418,
+    "height": 257,
+    "width": 508,
     "x": 511,
     "y": 1127
   },
@@ -41,6 +41,10 @@
     {
       "class": "text",
       "id": "02DD5440-A17C-4A2E-86BC-8AE29CC8D91C"
+    },
+    {
+      "class": "text",
+      "id": "B86CBFA0-0929-494C-83AC-583E90EB883B"
     }
   ],
   "name": "Step 1",

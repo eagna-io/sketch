@@ -19,10 +19,10 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "FCB28244-1369-4181-A23C-4CE1055B2111",
-    "height": 61.83333333333333,
-    "width": 61.98830409356719,
-    "x": 71.34502923976603,
-    "y": 92.16666666666667
+    "height": 52,
+    "width": 52,
+    "x": 66,
+    "y": 77
   },
   "hasClippingMask": false,
   "image": {

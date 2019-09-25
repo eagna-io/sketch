@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FF253004-B297-4E41-BD1E-DC746217C22E",
-    "height": 239,
-    "width": 373,
+    "height": 240,
+    "width": 500,
     "x": 511,
     "y": 1812
   },
@@ -32,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -41,6 +41,10 @@
     {
       "class": "group",
       "id": "FA7ABE7D-83BA-465E-B7FD-EF2724785411"
+    },
+    {
+      "class": "text",
+      "id": "44C98011-BA07-4B43-BB6F-4845FC0AA047"
     }
   ],
   "name": "Step 3",

@@ -16,6 +16,34 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "NotoSansJP-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 1
+        },
+        "length": 4,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "NotoSansJP-Bold",
               "size": 18
             }
@@ -29,7 +57,7 @@
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 1,
-        "location": 0
+        "location": 4
       },
       {
         "_class": "stringAttribute",
@@ -57,7 +85,7 @@
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 1,
-        "location": 1
+        "location": 5
       },
       {
         "_class": "stringAttribute",
@@ -84,11 +112,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 4,
-        "location": 2
+        "length": 1,
+        "location": 6
       }
     ],
-    "string": "- coin"
+    "string": "チップ - 枚"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -114,7 +142,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{46, 10}, {37, 12}}",
+  "glyphBounds": "{{31, 9}, {69, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -123,7 +151,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "- coin",
+  "name": "チップ - 枚",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -149,8 +177,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansJP-Bold",
-            "size": 18
+            "name": "NotoSansJP-Regular",
+            "size": 14
           }
         },
         "kerning": 0,

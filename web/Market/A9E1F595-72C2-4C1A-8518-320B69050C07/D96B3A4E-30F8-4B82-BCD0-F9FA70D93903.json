@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 4,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "トークン"
+    "string": "予測チケット"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "AE5C0C5B-76B9-44D0-9189-24C63371C0CA",
     "height": 24,
-    "width": 87,
+    "width": 104,
     "x": 17,
     "y": 430
   },
-  "glyphBounds": "{{4, 5}, {60, 16}}",
+  "glyphBounds": "{{0, 5}, {94, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "トークン",
+  "name": "予測チケット",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

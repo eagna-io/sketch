@@ -10,7 +10,7 @@
             "_class": "color",
             "alpha": 1,
             "blue": 0.3058823529411765,
-            "green": 0.2196078431372549,
+            "green": 0.2196078431372548,
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
@@ -23,25 +23,27 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 3,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 17,
+            "minimumLineHeight": 17
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 5,
+        "length": 48,
         "location": 0
       }
     ],
-    "string": "所持チップ"
+    "string": "チップはいろんな賞品と交換すること\nができます。正確な予測でたくさんの\n賞品をGETしましょう！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CD4B89F3-857C-4B51-BAE6-D05650A6C599",
+  "do_objectID": "44C98011-BA07-4B43-BB6F-4845FC0AA047",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8FD12300-39DD-43BD-A278-9A0282281671",
+    "do_objectID": "55E5AC5C-7C6C-4208-9FF1-385732D949E7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A59F9F1D-FF0C-4824-9422-8A8E0170389B",
-    "height": 24,
-    "width": 87,
-    "x": 0,
-    "y": 4
+    "do_objectID": "F1D7D9CC-E8E3-4FB9-AC06-D7D8591620F2",
+    "height": 51,
+    "width": 272,
+    "x": 228,
+    "y": 120
   },
-  "glyphBounds": "{{0, 5}, {80, 16}}",
+  "glyphBounds": "{{0, 1}, {271, 50}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "所持チップ",
+  "name": "チップはいろんな賞品と交換すること がで",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,19 +77,19 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CE5DD4DF-1FBC-4941-9804-5E48F3E52972",
+    "do_objectID": "9F73E655-0674-4676-9B1D-242EC382D7C2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "21915503-FB29-496E-BE10-61844CEE7C70",
+      "do_objectID": "18EB8C77-AFF9-4417-8FC4-C244DF311CFA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.3058823529411765,
-          "green": 0.2196078431372549,
+          "green": 0.2196078431372548,
           "red": 0.1098039215686274
         },
         "MSAttributedStringFontAttribute": {
@@ -100,8 +102,10 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 3,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 17,
+          "minimumLineHeight": 17
         },
         "textStyleVerticalAlignmentKey": 1
       },
@@ -109,5 +113,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

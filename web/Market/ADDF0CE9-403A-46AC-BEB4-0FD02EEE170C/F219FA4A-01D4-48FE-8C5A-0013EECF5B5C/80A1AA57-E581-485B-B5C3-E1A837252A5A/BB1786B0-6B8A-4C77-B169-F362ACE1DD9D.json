@@ -90,11 +90,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 8,
+        "length": 1,
         "location": 4
       }
     ],
-    "string": "461 coin / 枚"
+    "string": "461 枚"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -120,7 +120,7 @@
     "x": 17.34693877551021,
     "y": 112.0419161676646
   },
-  "glyphBounds": "{{4, 4}, {35, 32}}",
+  "glyphBounds": "{{10, 4}, {29, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -129,7 +129,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "461 coin / 枚",
+  "name": "461 枚",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

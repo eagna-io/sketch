@@ -18,9 +18,9 @@
     "constrainProportions": true,
     "do_objectID": "80664888-F73D-4AAA-9680-12E12F8A0735",
     "height": 136,
-    "width": 290,
-    "x": 64,
-    "y": 103
+    "width": 139,
+    "x": 40,
+    "y": 104
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -32,16 +32,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "bitmap",
-      "id": "FCCBF2E3-853E-43F8-BC08-2675D930254D"
-    },
-    {
-      "class": "shapePath",
-      "id": "BFD492BA-F8B4-48ED-B030-B09D148C382E"
-    },
     {
       "class": "bitmap",
       "id": "C4E12924-0740-4BA9-9052-488AB12775D4"
