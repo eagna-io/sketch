@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 3,
+        "length": 4,
         "location": 0
       },
       {
@@ -57,7 +57,7 @@
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 3,
-        "location": 3
+        "location": 4
       },
       {
         "_class": "stringAttribute",
@@ -85,7 +85,7 @@
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 1,
-        "location": 6
+        "location": 7
       },
       {
         "_class": "stringAttribute",
@@ -113,10 +113,10 @@
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 1,
-        "location": 7
+        "location": 8
       }
     ],
-    "string": "チップ454 枚"
+    "string": "チップ 454 枚"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -142,7 +142,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{20, 7}, {91, 16}}",
+  "glyphBounds": "{{19, 7}, {93, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -151,7 +151,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "チップ454 枚",
+  "maintainScrollPosition": false,
+  "name": "チップ 454 枚",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -159,9 +160,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "5FC93364-EC0A-4585-B21E-CE4AC406BEFF",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
