@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 4,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "交換する"
+    "string": "交換をリクエストする"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 27,
-    "width": 72,
-    "x": 135,
+    "width": 180,
+    "x": 81,
     "y": 12
   },
-  "glyphBounds": "{{0, 5}, {70, 18}}",
+  "glyphBounds": "{{0, 5}, {178, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "交換する",
+  "name": "交換をリクエストする",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 54,
+        "length": 55,
         "location": 0
       }
     ],
-    "string": "ギフトはポイントで交換することができます。ポイントはマー\nケットに参加し予測をすることで得ることができます。"
+    "string": "賞品はポイントで交換することができます。ポイントはマー\nケットに参加し予測をすることで獲得することができます。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 336,
+    "width": 324,
     "x": 18,
     "y": 76
   },
-  "glyphBounds": "{{0, 3}, {335, 30}}",
+  "glyphBounds": "{{0, 3}, {323, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "ギフトはポイントで交換することができます",
+  "name": "賞品はポイントで交換することができます。",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
