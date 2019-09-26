@@ -44,6 +44,7 @@
       "id": "7367AFFB-A35C-4AD2-87AF-6C8142F17D52"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "メッセージ",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -52,6 +53,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -60,6 +70,8 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
+    "borders": [
+    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -68,9 +80,20 @@
       "isEnabled": true,
       "saturation": 1
     },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "3BA3D814-F2EA-4322-8898-D1B109521523",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

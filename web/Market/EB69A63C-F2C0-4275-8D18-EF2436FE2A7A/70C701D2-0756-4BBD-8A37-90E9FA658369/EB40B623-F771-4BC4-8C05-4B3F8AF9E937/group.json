@@ -51,6 +51,7 @@
       "id": "9623C5CF-0ABF-4640-AD65-BD51EE091D3B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Spiderman",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -59,6 +60,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -67,6 +77,8 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
+    "borders": [
+    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -75,9 +87,20 @@
       "isEnabled": true,
       "saturation": 1
     },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "64A01B23-5126-4054-8758-527B0D23386C",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }
