@@ -44,7 +44,6 @@
       "id": "129F051E-3BD8-4722-BB13-55D0BBEDFDE2"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Buy Button",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -53,15 +52,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 10,
-      "saturation": 1,
-      "type": 0
-    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -70,8 +60,6 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
-    "borders": [
-    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -80,20 +68,9 @@
       "isEnabled": true,
       "saturation": 1
     },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 1
-    },
     "do_objectID": "7E988560-35ED-40FC-87AC-EFF18BDB52C6",
     "endMarkerType": 0,
-    "fills": [
-    ],
-    "innerShadows": [
-    ],
     "miterLimit": 10,
-    "shadows": [
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

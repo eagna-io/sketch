@@ -52,7 +52,6 @@
       "id": "28032B82-01CD-49BC-B642-E223DDF8DFE9"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Market Header",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -61,15 +60,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 10,
-      "saturation": 1,
-      "type": 0
-    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -78,8 +68,6 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
-    "borders": [
-    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -88,20 +76,9 @@
       "isEnabled": true,
       "saturation": 1
     },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 1
-    },
     "do_objectID": "3C3E24D6-F0BF-48BD-B8E2-6FBCB934D8FC",
     "endMarkerType": 0,
-    "fills": [
-    ],
-    "innerShadows": [
-    ],
     "miterLimit": 10,
-    "shadows": [
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }
