@@ -1,0 +1,161 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA4EC463-C9E8-47A5-836C-7A880FC8459D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -626,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "64ED0FEB-8B32-483B-AFBF-CF680DD48342"
+    },
+    {
+      "class": "artboard",
+      "id": "EB69A63C-F2C0-4275-8D18-EF2436FE2A7A"
+    },
+    {
+      "class": "artboard",
+      "id": "32B1F2C7-F08E-4BF2-B4DD-A596C1BE2EEA"
+    },
+    {
+      "class": "artboard",
+      "id": "092BBCEA-C1BB-4C28-83D5-2A56602690CA"
+    },
+    {
+      "class": "artboard",
+      "id": "8DED28C0-4E14-45CE-AA9B-BA8DB83919B5"
+    },
+    {
+      "class": "artboard",
+      "id": "7224B653-ADA8-4EBD-BDD4-6D69810E4FBA"
+    },
+    {
+      "class": "artboard",
+      "id": "324A3606-BB5F-4A7A-8D3C-087F3E0FBF26"
+    },
+    {
+      "class": "artboard",
+      "id": "F5195276-332C-4862-B05B-10995F06DC38"
+    },
+    {
+      "class": "artboard",
+      "id": "ADDF0CE9-403A-46AC-BEB4-0FD02EEE170C"
+    },
+    {
+      "class": "artboard",
+      "id": "4F706612-5062-4318-9B83-8A06781C37DD"
+    },
+    {
+      "class": "artboard",
+      "id": "A9E1F595-72C2-4C1A-8518-320B69050C07"
+    },
+    {
+      "class": "artboard",
+      "id": "8076D214-CE1E-4220-8301-5026CDF54ECA"
+    },
+    {
+      "class": "artboard",
+      "id": "B3454664-3965-48B7-A10B-CF00F0944D30"
+    },
+    {
+      "class": "artboard",
+      "id": "042B6865-890D-450D-8720-EAA1DF97AF5A"
+    },
+    {
+      "class": "artboard",
+      "id": "D13D832A-0A3D-415A-AF33-A6B157317ECE"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Market",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -484,
+    "guides": [
+    ]
+  }
+}
