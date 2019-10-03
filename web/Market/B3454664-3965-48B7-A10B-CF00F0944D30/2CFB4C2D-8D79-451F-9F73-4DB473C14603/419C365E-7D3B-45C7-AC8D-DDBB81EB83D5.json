@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3058823529411765,
-            "green": 0.2196078431372549,
-            "red": 0.1098039215686274
+            "blue": 0.2000000000000001,
+            "green": 0.6666666666666667,
+            "red": 0.9764705882352941
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -23,25 +23,25 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 3,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 5,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Eagna"
+    "string": "総ポイント 50,000"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7B86EB4E-0C96-4001-8A88-E19DCBE918B8",
+  "do_objectID": "419C365E-7D3B-45C7-AC8D-DDBB81EB83D5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "94F3763E-7D0B-4910-86B2-12987C17C173",
+    "do_objectID": "11B7F3AF-4571-44FE-857D-7143AE83818B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "688042A0-9B97-4C85-862A-E433B8039D41",
+    "do_objectID": "9D62C0D2-4B2A-4FA9-A116-7A2C59DC9623",
     "height": 24,
-    "width": 49,
-    "x": 306,
-    "y": 223
+    "width": 136,
+    "x": 40,
+    "y": 3
   },
-  "glyphBounds": "{{1, 7}, {47, 16}}",
+  "glyphBounds": "{{0, 5}, {136, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Eagna",
+  "name": "総ポイント 50,000",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -79,6 +79,7 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "33985A02-1088-4477-ABCF-8F9A68D003AE",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -89,6 +90,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "A6A352D1-F979-4D20-AD1A-B9B6A8964E6B",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -99,6 +101,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
+      "do_objectID": "E18B7FDD-03A0-42FE-B29B-BC3BF15FA04B",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -106,9 +109,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "23D2441B-2F1B-4048-8EC4-8432B7C62507",
       "opacity": 1
     },
-    "do_objectID": "E6A3115C-D11B-4BCA-8877-FFB4BD31F2AE",
+    "do_objectID": "CEED4B4B-43A4-4F92-A183-FA4F19C8BD64",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,14 +124,14 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "9D4E3F8F-2FE3-403F-95AF-C752A16405BD",
+      "do_objectID": "C9067225-6651-431B-B905-EAE282699D83",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3058823529411765,
-          "green": 0.2196078431372549,
-          "red": 0.1098039215686274
+          "blue": 0.2000000000000001,
+          "green": 0.6666666666666667,
+          "red": 0.9764705882352941
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -139,7 +143,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 3,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 1

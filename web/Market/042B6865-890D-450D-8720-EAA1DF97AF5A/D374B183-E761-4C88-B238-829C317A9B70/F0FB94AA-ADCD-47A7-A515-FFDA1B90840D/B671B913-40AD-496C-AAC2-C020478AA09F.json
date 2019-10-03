@@ -9,39 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3058823529411765,
-            "green": 0.2196078431372549,
-            "red": 0.1098039215686274
+            "blue": 0.2000000000000001,
+            "green": 0.6666666666666667,
+            "red": 0.9764705882352941
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 16
+              "size": 12
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 3,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 6,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "予測チケット"
+    "string": "総ポイント 50,000"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "672B9273-68E1-41F5-8BA0-11D2783B6BFA",
+  "do_objectID": "B671B913-40AD-496C-AAC2-C020478AA09F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BDAA049C-A389-4440-ADA7-425C53436214",
+    "do_objectID": "8FA90EA3-7BA1-4FED-B6BC-A7712A26E55A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DF5C7D97-4036-4A53-A98D-3D3E46D2B3B9",
-    "height": 24,
-    "width": 98,
-    "x": 17,
-    "y": 420
+    "do_objectID": "78FF2730-38F9-4D87-A8C4-186E267E1C66",
+    "height": 18,
+    "width": 102,
+    "x": 26,
+    "y": 1
   },
-  "glyphBounds": "{{0, 5}, {94, 16}}",
+  "glyphBounds": "{{0, 3}, {102, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "予測チケット",
+  "name": "総ポイント 50,000",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -79,6 +79,7 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "569439E4-2809-4F58-A710-EFBA03E88F8C",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -89,6 +90,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "1FDB7B4E-A2F3-4C26-B493-7F3C267C8FA3",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -99,6 +101,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
+      "do_objectID": "B5B02140-04A3-4E80-8BA2-2F0A5BC38BE8",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -106,9 +109,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "EF17D482-E8CF-4EAA-A382-D8FE69EF64ED",
       "opacity": 1
     },
-    "do_objectID": "5D817C0D-F68A-478E-A42C-EE2FF94794E3",
+    "do_objectID": "8427EC62-97DA-460A-8467-4BA51A78585D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,26 +124,26 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7FA71FE8-1AA2-4764-93CE-4C932E382776",
+      "do_objectID": "1F61C52A-77DF-40AE-9B1B-D73BD1E03B46",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3058823529411765,
-          "green": 0.2196078431372549,
-          "red": 0.1098039215686274
+          "blue": 0.2000000000000001,
+          "green": 0.6666666666666667,
+          "red": 0.9764705882352941
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
-            "size": 16
+            "size": 12
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 3,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 1
@@ -148,5 +152,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
