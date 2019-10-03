@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "10FE732C-3B7B-4A89-A69B-280A817A61BF",
-    "height": 204,
+    "height": 219,
     "width": 169,
     "x": 195,
     "y": 464
@@ -32,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -53,6 +53,10 @@
     {
       "class": "bitmap",
       "id": "C321576A-43EA-40F4-A072-FA7B4B3796A2"
+    },
+    {
+      "class": "group",
+      "id": "F81489C0-4D0F-4474-9BFE-AEB6EE8FEAFB"
     }
   ],
   "maintainScrollPosition": false,

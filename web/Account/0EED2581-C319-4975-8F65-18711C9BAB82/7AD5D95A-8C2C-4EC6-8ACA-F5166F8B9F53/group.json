@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 204,
+    "height": 219,
     "width": 169,
     "x": 194,
     "y": 845
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -47,6 +47,10 @@
     {
       "class": "group",
       "id": "5CB16085-A68E-473A-BA21-5AF17C109108"
+    },
+    {
+      "class": "group",
+      "id": "CFFB0428-31E2-4489-A3BD-CBA7B0E055CA"
     }
   ],
   "maintainScrollPosition": false,
