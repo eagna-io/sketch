@@ -22,10 +22,6 @@
     "x": 56,
     "y": 267
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "E7765B0E-767D-49FB-A039-79514730A4CD"
-  },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -44,7 +40,6 @@
       "id": "9C4F2FC5-8514-41FA-ACB5-F343B2F45DE4"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "総ポイント",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -53,16 +48,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "438E4310-82DC-4D50-B4A7-4A3CB17DF5E3",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 10,
-      "saturation": 1,
-      "type": 0
-    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -72,8 +57,6 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
-    "borders": [
-    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -83,21 +66,9 @@
       "isEnabled": true,
       "saturation": 1
     },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "AD365103-A48D-4DD7-969C-43D30A5586C2",
-      "opacity": 1
-    },
     "do_objectID": "AAFB076F-E29A-4AD2-B047-3440DEC11922",
     "endMarkerType": 0,
-    "fills": [
-    ],
-    "innerShadows": [
-    ],
     "miterLimit": 10,
-    "shadows": [
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

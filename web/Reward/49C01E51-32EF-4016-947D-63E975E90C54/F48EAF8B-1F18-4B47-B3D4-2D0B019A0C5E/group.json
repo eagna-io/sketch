@@ -22,10 +22,6 @@
     "x": 666,
     "y": 547
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "C3889072-1209-4748-AAC9-A91A02BC088F"
-  },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -52,7 +48,6 @@
       "id": "78E32765-DA1F-4624-A9EA-E2170F719EF6"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "参加マーケットコンポーネント",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -61,16 +56,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "1295411D-82BB-41DD-9F23-A514313B9887",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 10,
-      "saturation": 1,
-      "type": 0
-    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -80,8 +65,6 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
-    "borders": [
-    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -91,21 +74,9 @@
       "isEnabled": true,
       "saturation": 1
     },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "5280879A-CA69-4925-A4E4-7EA6302EBB18",
-      "opacity": 1
-    },
     "do_objectID": "6CA37A26-25D5-46CB-AB1F-7551B453263C",
     "endMarkerType": 0,
-    "fills": [
-    ],
-    "innerShadows": [
-    ],
     "miterLimit": 10,
-    "shadows": [
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

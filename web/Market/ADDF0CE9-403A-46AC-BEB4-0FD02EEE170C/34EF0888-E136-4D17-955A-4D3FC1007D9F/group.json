@@ -22,10 +22,6 @@
     "x": 20,
     "y": 999
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "B3CDA5C0-7B0D-4B22-A2B9-E974EF65580F"
-  },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -52,7 +48,6 @@
       "id": "0C16C9D3-DBFD-40AD-B5A6-CA62E5A9D8B7"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "ポイント",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -61,16 +56,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "4B91241F-44C1-4FE3-BA36-0E22FE4AD64E",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 10,
-      "saturation": 1,
-      "type": 0
-    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -80,8 +65,6 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
-    "borders": [
-    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -91,21 +74,9 @@
       "isEnabled": true,
       "saturation": 1
     },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "1FAB2141-308A-41CD-A4A4-FA828D444EDA",
-      "opacity": 1
-    },
     "do_objectID": "4F755894-DB9F-40DD-8BA9-5B9E766ECDF0",
     "endMarkerType": 0,
-    "fills": [
-    ],
-    "innerShadows": [
-    ],
     "miterLimit": 10,
-    "shadows": [
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

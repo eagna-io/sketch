@@ -30,10 +30,6 @@
     "x": 7,
     "y": -415
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "5D7BF3FE-5E54-42B9-9E0F-1880F8E275E8"
-  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -83,7 +79,6 @@
       "id": "8462922F-7DFD-44B9-823A-81F973221DDE"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "交換その１",
   "nameIsFixed": true,
   "presetDictionary": {
@@ -100,15 +95,6 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 10,
-      "saturation": 1,
-      "type": 0
-    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -117,8 +103,6 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
-    "borders": [
-    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -127,20 +111,9 @@
       "isEnabled": true,
       "saturation": 1
     },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 1
-    },
     "do_objectID": "5176376F-819B-4395-96D4-E323C9C10553",
     "endMarkerType": 0,
-    "fills": [
-    ],
-    "innerShadows": [
-    ],
     "miterLimit": 10,
-    "shadows": [
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
