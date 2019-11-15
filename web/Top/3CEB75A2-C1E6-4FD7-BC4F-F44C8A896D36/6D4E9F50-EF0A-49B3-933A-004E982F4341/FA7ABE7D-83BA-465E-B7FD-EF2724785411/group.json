@@ -5,7 +5,6 @@
   "do_objectID": "FA7ABE7D-83BA-465E-B7FD-EF2724785411",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E8D899A6-29DC-4EB4-B8EF-2B42EA545ECC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "80664888-F73D-4AAA-9680-12E12F8A0735",
     "height": 136,
     "width": 290,
     "x": 64,
@@ -55,6 +53,7 @@
       "id": "821F4CCC-857A-405A-A907-4F6C3021936C"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "報酬イラスト",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -63,9 +62,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "860566FE-0494-44E2-A769-1092871C1463",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

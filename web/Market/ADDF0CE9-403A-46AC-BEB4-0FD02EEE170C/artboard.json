@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "08E4943F-64F7-4CD3-8834-6BCDF2396D97",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "ADDF0CE9-403A-46AC-BEB4-0FD02EEE170C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A57C9DC0-7983-4D94-9609-FC6CB9BA4712",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,15 +31,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A54AFA1A-1278-4BA2-ADC3-65DC6DF21607",
     "height": 1455,
     "width": 375,
     "x": 1520,
     "y": -432
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "70DF030B-7149-4B3D-9F90-B0382378BD49"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -49,7 +45,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "6433F393-041F-44BD-AD2A-A226DB5CD56B",
     "guides": [
     ]
   },
@@ -108,6 +103,7 @@
       "id": "B6056967-72F9-47CD-8FFA-DE073488A126"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Close時",
   "nameIsFixed": true,
   "presetDictionary": {
@@ -124,16 +120,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "B6DE9DF7-F84B-4D26-937A-A67BEC410144",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "1FA43420-C829-4532-924C-EA4A8C3298DA",
     "guides": [
     ]
   }

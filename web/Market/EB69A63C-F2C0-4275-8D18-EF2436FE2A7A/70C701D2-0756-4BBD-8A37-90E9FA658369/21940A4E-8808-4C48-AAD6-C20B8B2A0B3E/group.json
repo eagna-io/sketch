@@ -5,7 +5,6 @@
   "do_objectID": "21940A4E-8808-4C48-AAD6-C20B8B2A0B3E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0E2DAD59-FE96-405B-B7F6-1FD80FA04004",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "3F83FBD7-899B-4CC0-9B2B-23771512F2A2",
     "height": 176,
     "width": 167,
     "x": 0,
@@ -51,6 +49,7 @@
       "id": "56A4C304-F224-4673-ACDA-8D1B9B140CB8"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Aladdin",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -59,9 +58,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "21C9EFCB-DFDD-42C1-AEE3-0258338D73C0",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

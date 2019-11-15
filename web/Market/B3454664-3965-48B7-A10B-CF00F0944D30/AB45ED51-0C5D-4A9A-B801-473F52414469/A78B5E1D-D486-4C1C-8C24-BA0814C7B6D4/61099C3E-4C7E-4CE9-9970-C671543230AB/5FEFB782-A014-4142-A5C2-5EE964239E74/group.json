@@ -5,7 +5,6 @@
   "do_objectID": "5FEFB782-A014-4142-A5C2-5EE964239E74",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A67B425A-7066-4DC2-BCE3-19FB65DC78E1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "8DB804C6-2BCB-4EC9-A0C5-2C5C178EDEB0",
     "height": 30,
     "width": 29.25000000000001,
     "x": 7.990157480314864,
     "y": 53
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "4870508F-E14F-4DE8-B1CF-87D03B029E55"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -100,6 +97,7 @@
       "id": "4FE669A1-3B71-4B0B-834E-92579D63B39F"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "コインのフリーアイコン",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -108,9 +106,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "B5C72F4C-7A43-4CFE-97B2-23C15F27B6EB",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }
