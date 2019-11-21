@@ -1,11 +1,20 @@
 {
   "_class": "group",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "A9EE3FA1-2BE3-41D2-B1D6-035E64C8EA3A",
+  "do_objectID": "00048EF7-2276-4ECD-800B-3B75089480D5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -14,11 +23,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 782,
-    "width": 1143,
-    "x": 274,
-    "y": 101
+    "constrainProportions": true,
+    "height": 5,
+    "width": 7,
+    "x": 4,
+    "y": 7
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,16 +42,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "5B99FB53-0610-4890-B4DE-E93C865D9E64"
+      "class": "shapePath",
+      "id": "1B7373BF-E8C8-462F-B349-63D925C21339"
     },
     {
-      "class": "group",
-      "id": "F7A93EE2-8852-45E6-9B3C-F6F90E8E9DD6"
+      "class": "shapePath",
+      "id": "A69C4593-5492-44B2-9C9D-F5D7D61F4BA1"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "ユーザーリスト",
+  "name": "Icon : thick-check",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +91,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C3080CC-E500-4099-A63D-83A07267A45E",
+    "do_objectID": "101FC3F0-3344-45A1-B3CB-FCEC81F3DF51",
     "endMarkerType": 0,
     "fills": [
     ],

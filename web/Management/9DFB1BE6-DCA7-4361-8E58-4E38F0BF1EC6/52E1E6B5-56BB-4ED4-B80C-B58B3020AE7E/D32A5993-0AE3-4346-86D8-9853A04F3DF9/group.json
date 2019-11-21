@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A9EE3FA1-2BE3-41D2-B1D6-035E64C8EA3A",
+  "do_objectID": "D32A5993-0AE3-4346-86D8-9853A04F3DF9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 782,
-    "width": 1143,
-    "x": 274,
-    "y": 101
+    "height": 70,
+    "width": 812,
+    "x": 134,
+    "y": 110
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,15 +34,15 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "5B99FB53-0610-4890-B4DE-E93C865D9E64"
+      "id": "5E57DE7F-2FB8-403B-B96E-4EC73277AC4E"
     },
     {
-      "class": "group",
-      "id": "F7A93EE2-8852-45E6-9B3C-F6F90E8E9DD6"
+      "class": "text",
+      "id": "2FAB9B94-E188-403F-B2C2-0D9FD4DFF23F"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "ユーザーリスト",
+  "name": "説明",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C3080CC-E500-4099-A63D-83A07267A45E",
+    "do_objectID": "D813557B-B92F-4C6F-8109-6E8170ED1055",
     "endMarkerType": 0,
     "fills": [
     ],

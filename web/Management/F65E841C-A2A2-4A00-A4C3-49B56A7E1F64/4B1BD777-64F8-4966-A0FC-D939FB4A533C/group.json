@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A9EE3FA1-2BE3-41D2-B1D6-035E64C8EA3A",
+  "do_objectID": "4B1BD777-64F8-4966-A0FC-D939FB4A533C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 782,
-    "width": 1143,
-    "x": 274,
-    "y": 101
+    "height": 900,
+    "width": 250,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,15 +34,47 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "5B99FB53-0610-4890-B4DE-E93C865D9E64"
+      "id": "7258BB6C-A5AB-43F5-9905-705355B74FE7"
+    },
+    {
+      "class": "text",
+      "id": "36E79DCB-6501-4542-897A-99391743A02C"
+    },
+    {
+      "class": "rectangle",
+      "id": "B449CD28-180F-43C5-AEC9-7E1F76C00785"
+    },
+    {
+      "class": "text",
+      "id": "1320FD43-57D6-4468-8C67-8CF0067AEA08"
+    },
+    {
+      "class": "text",
+      "id": "43D1715A-275A-4C31-B366-76DD2DCD22D7"
+    },
+    {
+      "class": "text",
+      "id": "437F6C19-AF0C-4BA7-B44F-BC69FA39C60A"
+    },
+    {
+      "class": "text",
+      "id": "1C1E70CD-149A-4532-9A83-2EEF9A76355A"
+    },
+    {
+      "class": "text",
+      "id": "FAA9E10A-08ED-484E-9EAB-B0F39E653D05"
+    },
+    {
+      "class": "shapePath",
+      "id": "32698258-89EF-4BB6-874D-AA2C5598D8EA"
     },
     {
       "class": "group",
-      "id": "F7A93EE2-8852-45E6-9B3C-F6F90E8E9DD6"
+      "id": "A8625250-1CA7-4B5C-9267-52B3FF686B74"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "ユーザーリスト",
+  "name": "Side Bar",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +114,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C3080CC-E500-4099-A63D-83A07267A45E",
+    "do_objectID": "C78A20D0-D089-4F2A-9AA3-5308639F79A8",
     "endMarkerType": 0,
     "fills": [
     ],

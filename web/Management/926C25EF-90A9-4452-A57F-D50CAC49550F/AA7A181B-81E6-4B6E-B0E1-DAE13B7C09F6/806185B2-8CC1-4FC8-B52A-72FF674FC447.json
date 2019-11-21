@@ -1,8 +1,8 @@
 {
-  "_class": "group",
-  "booleanOperation": -1,
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "A9EE3FA1-2BE3-41D2-B1D6-035E64C8EA3A",
+  "do_objectID": "806185B2-8CC1-4FC8-B52A-72FF674FC447",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 782,
-    "width": 1143,
-    "x": 274,
-    "y": 101
+    "height": 28,
+    "width": 311,
+    "x": 0,
+    "y": 217
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "maintainScrollPosition": false,
+  "name": "textfield/inactive",
+  "nameIsFixed": false,
+  "originalObjectID": "2F028890-1F59-4D7F-A82B-3E4E590BC090",
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "5B99FB53-0610-4890-B4DE-E93C865D9E64"
-    },
-    {
-      "class": "group",
-      "id": "F7A93EE2-8852-45E6-9B3C-F6F90E8E9DD6"
+      "_class": "overrideValue",
+      "overrideName": "2EA0BB76-5F69-4127-8F9B-35524B548E80_stringValue",
+      "value": "Password"
     }
   ],
-  "maintainScrollPosition": false,
-  "name": "ユーザーリスト",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +78,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C3080CC-E500-4099-A63D-83A07267A45E",
+    "do_objectID": "1D6876D4-2789-4976-8424-B3E380996426",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -93,5 +89,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "6833C81A-135C-4935-AE60-28700D5E0530",
+  "verticalSpacing": 0
 }

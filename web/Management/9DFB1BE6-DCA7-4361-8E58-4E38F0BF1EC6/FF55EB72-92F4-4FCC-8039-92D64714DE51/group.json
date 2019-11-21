@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A9EE3FA1-2BE3-41D2-B1D6-035E64C8EA3A",
+  "do_objectID": "FF55EB72-92F4-4FCC-8039-92D64714DE51",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 782,
-    "width": 1143,
-    "x": 274,
-    "y": 101
+    "height": 900,
+    "width": 250,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,15 +34,47 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "5B99FB53-0610-4890-B4DE-E93C865D9E64"
+      "id": "16A71A97-698D-40C5-85BE-F016A6A57749"
+    },
+    {
+      "class": "text",
+      "id": "C1DD6229-FF00-43EE-BA66-1F6E8D55CD67"
+    },
+    {
+      "class": "rectangle",
+      "id": "CEC1F58A-A930-4CE0-AB73-9BC843193BC3"
+    },
+    {
+      "class": "text",
+      "id": "50EE3F05-DB45-488A-AB31-57758262CC5C"
+    },
+    {
+      "class": "text",
+      "id": "1F32B2A4-764B-478B-AABF-9F8B65CC3373"
+    },
+    {
+      "class": "text",
+      "id": "3DDF6355-E7AE-451F-A5D5-001BFA4D5622"
+    },
+    {
+      "class": "text",
+      "id": "B2A3CD24-05E3-4616-9D0C-EF5E9B76E6FC"
+    },
+    {
+      "class": "text",
+      "id": "2FE1F98C-731F-4759-8D4B-14778343BF74"
+    },
+    {
+      "class": "shapePath",
+      "id": "35212857-E936-42A8-A229-F13678DC1596"
     },
     {
       "class": "group",
-      "id": "F7A93EE2-8852-45E6-9B3C-F6F90E8E9DD6"
+      "id": "2D27D47C-CD0D-4E8B-8DDD-D6BB64D617D7"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "ユーザーリスト",
+  "name": "Side Bar",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +114,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C3080CC-E500-4099-A63D-83A07267A45E",
+    "do_objectID": "127F549F-1001-4D8A-9F0E-65CB3032E0E4",
     "endMarkerType": 0,
     "fills": [
     ],

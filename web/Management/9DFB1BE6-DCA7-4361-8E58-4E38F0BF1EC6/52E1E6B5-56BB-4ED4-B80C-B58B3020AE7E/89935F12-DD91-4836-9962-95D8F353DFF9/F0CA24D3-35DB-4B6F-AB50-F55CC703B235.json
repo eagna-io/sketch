@@ -1,8 +1,8 @@
 {
-  "_class": "group",
-  "booleanOperation": -1,
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "A9EE3FA1-2BE3-41D2-B1D6-035E64C8EA3A",
+  "do_objectID": "F0CA24D3-35DB-4B6F-AB50-F55CC703B235",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +15,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 782,
-    "width": 1143,
-    "x": 274,
-    "y": 101
+    "height": 17,
+    "width": 100,
+    "x": 589,
+    "y": 40
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "5B99FB53-0610-4890-B4DE-E93C865D9E64"
-    },
-    {
-      "class": "group",
-      "id": "F7A93EE2-8852-45E6-9B3C-F6F90E8E9DD6"
-    }
-  ],
   "maintainScrollPosition": false,
-  "name": "ユーザーリスト",
-  "nameIsFixed": true,
+  "name": "Checkboxes / filled / hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C3080CC-E500-4099-A63D-83A07267A45E",
+    "do_objectID": "AEA69656-7699-41B5-A94F-5063051E60FA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -93,5 +83,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "1624E459-67B6-4695-8C6B-3DE3DA5FBD6A",
+  "verticalSpacing": 0
 }

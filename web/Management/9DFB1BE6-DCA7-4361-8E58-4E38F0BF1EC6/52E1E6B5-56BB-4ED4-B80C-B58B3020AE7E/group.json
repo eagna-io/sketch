@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A9EE3FA1-2BE3-41D2-B1D6-035E64C8EA3A",
+  "do_objectID": "52E1E6B5-56BB-4ED4-B80C-B58B3020AE7E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 782,
-    "width": 1143,
+    "width": 1142,
     "x": 274,
     "y": 101
   },
@@ -34,15 +34,47 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "5B99FB53-0610-4890-B4DE-E93C865D9E64"
+      "id": "259D41AF-A91B-4EB1-A45B-F406B9A8A8A2"
     },
     {
       "class": "group",
-      "id": "F7A93EE2-8852-45E6-9B3C-F6F90E8E9DD6"
+      "id": "F9AD8C56-C4DA-4750-A727-EBADAFA2B91C"
+    },
+    {
+      "class": "group",
+      "id": "EC195262-9922-44A8-BC22-35EB1E0D7A2E"
+    },
+    {
+      "class": "group",
+      "id": "D32A5993-0AE3-4346-86D8-9853A04F3DF9"
+    },
+    {
+      "class": "group",
+      "id": "26BF7339-56F5-47B1-838C-5051265A730C"
+    },
+    {
+      "class": "group",
+      "id": "540D15A4-56AB-498C-A98B-A3CBD09343F5"
+    },
+    {
+      "class": "group",
+      "id": "232BAD2E-B603-4199-8738-FAE42E48B02D"
+    },
+    {
+      "class": "group",
+      "id": "EF765183-8698-4D09-8FA7-0215A7E65EDB"
+    },
+    {
+      "class": "group",
+      "id": "89935F12-DD91-4836-9962-95D8F353DFF9"
+    },
+    {
+      "class": "text",
+      "id": "B6A66773-A15D-46BF-BCA5-7CF2F9986492"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "ユーザーリスト",
+  "name": "フォーム",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +114,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C3080CC-E500-4099-A63D-83A07267A45E",
+    "do_objectID": "74C0C871-0F87-40DE-AC96-6F89DAEB9900",
     "endMarkerType": 0,
     "fills": [
     ],

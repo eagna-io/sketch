@@ -1,8 +1,8 @@
 {
   "_class": "group",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "A9EE3FA1-2BE3-41D2-B1D6-035E64C8EA3A",
+  "do_objectID": "71A88085-24DB-4E15-A22B-3707475FB0C5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 782,
-    "width": 1143,
-    "x": 274,
-    "y": 101
+    "height": 17,
+    "width": 100,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,15 +34,19 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "5B99FB53-0610-4890-B4DE-E93C865D9E64"
+      "id": "527DBE7D-B202-4755-86A4-298893D329DE"
     },
     {
       "class": "group",
-      "id": "F7A93EE2-8852-45E6-9B3C-F6F90E8E9DD6"
+      "id": "00048EF7-2276-4ECD-800B-3B75089480D5"
+    },
+    {
+      "class": "text",
+      "id": "DDAD6B62-0C2B-4D76-9E41-15EC490F04CE"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "ユーザーリスト",
+  "name": "Checkboxes /  filled / Active",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C3080CC-E500-4099-A63D-83A07267A45E",
+    "do_objectID": "FB2CD40A-843B-49BF-B0EB-47E37B6386D1",
     "endMarkerType": 0,
     "fills": [
     ],

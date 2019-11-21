@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A9EE3FA1-2BE3-41D2-B1D6-035E64C8EA3A",
+  "do_objectID": "89935F12-DD91-4836-9962-95D8F353DFF9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 782,
-    "width": 1143,
-    "x": 274,
-    "y": 101
+    "height": 94,
+    "width": 809,
+    "x": 94,
+    "y": 560
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,16 +33,64 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "5B99FB53-0610-4890-B4DE-E93C865D9E64"
+      "class": "text",
+      "id": "71BA5E5B-924A-4AAE-8FCE-F6746AA6D8AC"
     },
     {
-      "class": "group",
-      "id": "F7A93EE2-8852-45E6-9B3C-F6F90E8E9DD6"
+      "class": "symbolInstance",
+      "id": "D7D08A3F-CC74-43BA-B556-075F6AAD0A8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0169D50B-8D0E-4B99-B329-32ED46156F41"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3492634-828B-49D2-B4EA-D950CCD8D6AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9BC2C9D-4E39-4692-AC0F-74CF83750F6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CBBDA62A-4196-4F45-882A-D1A72FDDBC54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7B32679-C4E5-42A5-9E1F-74197AC420FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0AD2FDF4-457E-4048-9B49-EC8349FFCF5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E0D10492-C87D-498E-B03D-CB21F66A1425"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C2532CB-46B3-45C4-907D-BF9F0E152D14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0CA24D3-35DB-4B6F-AB50-F55CC703B235"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9FC2DFE4-23A0-45ED-8C66-51260C9102A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5FF7223-6868-4E19-8ADF-5920BB133848"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DC016CB-A2BD-4F8E-99E3-DFB7CCEB1A1F"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "ユーザーリスト",
+  "name": "参加可能条件",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +130,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C3080CC-E500-4099-A63D-83A07267A45E",
+    "do_objectID": "DE1901CB-E8C9-4D1D-835D-22C347A8EDEB",
     "endMarkerType": 0,
     "fills": [
     ],

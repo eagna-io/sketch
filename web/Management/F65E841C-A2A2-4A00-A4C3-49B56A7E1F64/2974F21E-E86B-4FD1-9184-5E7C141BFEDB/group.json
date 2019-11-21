@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A9EE3FA1-2BE3-41D2-B1D6-035E64C8EA3A",
+  "do_objectID": "2974F21E-E86B-4FD1-9184-5E7C141BFEDB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 782,
-    "width": 1143,
+    "width": 1142,
     "x": 274,
     "y": 101
   },
@@ -34,15 +34,15 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "5B99FB53-0610-4890-B4DE-E93C865D9E64"
+      "id": "4D6C5214-6628-47DE-BC6F-A3CA0DD2585B"
     },
     {
-      "class": "group",
-      "id": "F7A93EE2-8852-45E6-9B3C-F6F90E8E9DD6"
+      "class": "bitmap",
+      "id": "5085C0D2-289D-4099-A4C5-1FE55B9E516B"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "ユーザーリスト",
+  "name": "マーケットResolve",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C3080CC-E500-4099-A63D-83A07267A45E",
+    "do_objectID": "A0E0901A-0140-469B-93CA-C78195A9ADEC",
     "endMarkerType": 0,
     "fills": [
     ],

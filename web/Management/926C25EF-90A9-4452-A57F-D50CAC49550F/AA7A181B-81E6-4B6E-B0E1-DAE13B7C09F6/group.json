@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A9EE3FA1-2BE3-41D2-B1D6-035E64C8EA3A",
+  "do_objectID": "AA7A181B-81E6-4B6E-B0E1-DAE13B7C09F6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 782,
-    "width": 1143,
-    "x": 274,
-    "y": 101
+    "height": 328,
+    "width": 311,
+    "x": 565,
+    "y": 260
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,16 +33,28 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "5B99FB53-0610-4890-B4DE-E93C865D9E64"
+      "class": "symbolInstance",
+      "id": "8B1CB2CB-FC40-4F77-BC8B-E24D107FE6A3"
     },
     {
-      "class": "group",
-      "id": "F7A93EE2-8852-45E6-9B3C-F6F90E8E9DD6"
+      "class": "text",
+      "id": "8C5714C7-6111-4238-AEB4-46CEC8EECAFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "806185B2-8CC1-4FC8-B52A-72FF674FC447"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B70568F-12AC-4FDA-A73B-C2D1CDC099B3"
+    },
+    {
+      "class": "bitmap",
+      "id": "3D28169D-F632-4F7D-91D0-C5F0902469C7"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "ユーザーリスト",
+  "name": "Login",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +94,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C3080CC-E500-4099-A63D-83A07267A45E",
+    "do_objectID": "164492AB-E171-48EA-B15E-73B3D4C99F3C",
     "endMarkerType": 0,
     "fills": [
     ],
