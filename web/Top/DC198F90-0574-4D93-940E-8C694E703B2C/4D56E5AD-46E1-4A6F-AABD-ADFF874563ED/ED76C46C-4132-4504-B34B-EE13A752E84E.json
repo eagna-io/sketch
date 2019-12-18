@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 72,
+        "length": 75,
         "location": 0
       }
     ],
-    "string": "当たったトークンは1つにつき1,000コインに変換されます。価格が安いと思ったときに買い、高いと思ったときに売り、コインを増やしていきましょう！"
+    "string": "当たった予測チケットは1つにつき1チップ1000枚に変換されます。価格が安いと思ったときに買い、高いと思ったときに売り、チップを増やしていきましょう！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -58,7 +58,7 @@
     "x": 145,
     "y": 69
   },
-  "glyphBounds": "{{1, 4}, {162, 78}}",
+  "glyphBounds": "{{0, 4}, {163, 78}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "当たったトークンは1つにつき1,000コ",
+  "name": "当たった予測チケットは1つにつき1チップ",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,6 +75,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -84,11 +84,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 16,
+        "length": 18,
         "location": 3
       }
     ],
-    "string": "３. 当たったトークンで報酬をGET！"
+    "string": "３. 当たった予測チケットで賞品をGET！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -110,11 +110,11 @@
     "constrainProportions": false,
     "do_objectID": "1379A025-D19F-4552-9FF5-A0D64DF2E0CA",
     "height": 52,
-    "width": 373,
+    "width": 417,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{6, 14}, {359, 30}}",
+  "glyphBounds": "{{6, 14}, {403, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -123,7 +123,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "３. 当たったトークンで報酬をGET！",
+  "name": "３. 当たった予測チケットで賞品をGET",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -131,6 +131,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "347D13D7-69DF-4BB9-8971-C1A336297D83",
     "endMarkerType": 0,
     "miterLimit": 10,

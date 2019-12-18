@@ -1,0 +1,125 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F6EFD3B-18A4-4AE4-952A-9FCD84EEA8D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1413,
+    "width": 375,
+    "x": 1432,
+    "y": -415
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "F34846F8-23E7-4EDF-9A04-9B12FE8CF752"
+    },
+    {
+      "class": "text",
+      "id": "57306D8E-001B-41E0-92F9-6BA527F741A0"
+    },
+    {
+      "class": "group",
+      "id": "5DB57824-7752-4EE3-B783-D839746AAB47"
+    },
+    {
+      "class": "group",
+      "id": "C28EB272-669A-457E-9A78-81D338A908C5"
+    },
+    {
+      "class": "group",
+      "id": "CEF26B52-93A3-434A-B324-D4AC0798C46B"
+    },
+    {
+      "class": "group",
+      "id": "4821666E-5FDE-4AB3-8416-4E4EAC8C7A65"
+    },
+    {
+      "class": "text",
+      "id": "3FFB3B8E-0366-4BE2-BAAB-9707C29FA2F0"
+    },
+    {
+      "class": "text",
+      "id": "90F4CC6B-7214-4A71-9A4C-C77399504238"
+    }
+  ],
+  "name": "ポイント不足",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

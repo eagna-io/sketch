@@ -30,10 +30,6 @@
     "x": 3420,
     "y": -432
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "0DA6F910-DE9D-49C2-B3E6-2472C5C516DA"
-  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -52,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -76,27 +72,15 @@
     },
     {
       "class": "group",
-      "id": "4811F054-33DD-40AB-84AB-F7C8A2CD637C"
-    },
-    {
-      "class": "group",
       "id": "13741AD3-7D77-431D-90B6-F7E4ACB9A48C"
-    },
-    {
-      "class": "text",
-      "id": "87446D7B-86B0-4073-94C8-ECBFBB09B8F8"
-    },
-    {
-      "class": "text",
-      "id": "67B3AE67-FFFB-40D5-BB37-99C577F43492"
-    },
-    {
-      "class": "text",
-      "id": "672B9273-68E1-41F5-8BA0-11D2783B6BFA"
     },
     {
       "class": "group",
       "id": "67017F8B-442E-4A44-AF16-B27D537B77C0"
+    },
+    {
+      "class": "group",
+      "id": "9A3761D1-76BF-4194-BDB3-4AFE95CBF2DE"
     }
   ],
   "name": "Upcoming時",
@@ -115,6 +99,22 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "C30D4F3A-5BEE-4437-88DB-E6F6A59D96B5",
     "endMarkerType": 0,
     "miterLimit": 10,

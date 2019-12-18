@@ -34,7 +34,7 @@
         "location": 0
       }
     ],
-    "string": "映画「アラジン」の興行成績が、映画「スパイダーマン　ファー・フロム・ホーム」よりも上だった場合に、1,000 coin と交換されます。"
+    "string": "映画「アラジン」の興行成績が、映画「スパイダーマン　ファー・フロム・ホーム」よりも上だった場合に、チップ1,000 枚 と交換されます。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -60,7 +60,7 @@
     "x": 22.5,
     "y": 329
   },
-  "glyphBounds": "{{0, 4}, {391, 56}}",
+  "glyphBounds": "{{1, 4}, {390, 56}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -77,6 +77,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "59FB23E7-4ABE-457F-A3E5-19F6595C6DBE",
     "endMarkerType": 0,
     "miterLimit": 10,

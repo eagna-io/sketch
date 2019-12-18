@@ -34,7 +34,7 @@
         "location": 0
       }
     ],
-    "string": "「参加する」ボタンを押すことでコインが配布され、取引を開始できます。"
+    "string": "「参加する」ボタンを押すことでチップが配布され、取引を開始できます。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "「参加する」ボタンを押すことでコインが配",
+  "name": "「参加する」ボタンを押すことでチップが配",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,6 +77,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "48599BA6-AE6E-42D6-93E9-715B50BB0DE1",
     "endMarkerType": 0,
     "miterLimit": 10,

@@ -54,7 +54,7 @@
     "height": 22,
     "width": 120,
     "x": 13,
-    "y": 645
+    "y": 803
   },
   "glyphBounds": "{{0, 4}, {119, 15}}",
   "hasClippingMask": false,
@@ -73,6 +73,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -27,11 +27,8 @@
     "x": 289,
     "y": -330
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -82,16 +79,16 @@
       "id": "99768FCB-9DEA-4A9B-BC1C-4111D4F11A8A"
     },
     {
-      "class": "text",
-      "id": "DFCC8045-9F4C-4A05-85E0-527B27F0C902"
+      "class": "group",
+      "id": "CB5644D3-7AB5-4FCD-9912-30DC9C9D6F04"
     },
     {
-      "class": "bitmap",
-      "id": "76E40299-ED78-4A76-A8E8-9EACEEE9510D"
+      "class": "group",
+      "id": "001A2BD8-A3FD-4883-8C97-3DDB1C4D569A"
     }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "Account HD",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
@@ -106,6 +103,22 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

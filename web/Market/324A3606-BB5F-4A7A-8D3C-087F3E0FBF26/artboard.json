@@ -30,10 +30,6 @@
     "x": 2700,
     "y": 1237
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "290205A8-8AD3-4126-859C-2A31D54DC382"
-  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -52,11 +48,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "A1DD1FDC-EC0D-4915-9729-B989614B9915"
+    },
+    {
+      "class": "group",
+      "id": "BB8AC3C6-7CFD-40AC-8B0B-D8F44F67A53C"
     },
     {
       "class": "group",
@@ -99,6 +99,22 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "1B192E77-5B0E-4321-B3C9-F2B94AECFEB9",
     "endMarkerType": 0,
     "miterLimit": 10,

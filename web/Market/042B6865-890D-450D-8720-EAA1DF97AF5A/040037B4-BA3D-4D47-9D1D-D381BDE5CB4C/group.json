@@ -17,14 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EBE35E67-9CD0-427D-A3C4-16C2A0E3AC76",
-    "height": 205,
-    "width": 335,
-    "x": 20,
-    "y": 467
-  },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "950C7A2F-EC67-474C-916E-63D2BC695EA6"
+    "height": 252,
+    "width": 338,
+    "x": 17,
+    "y": 420
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -46,6 +42,10 @@
     {
       "class": "shapePath",
       "id": "3298C654-FAD2-416B-AEEE-8A7E30D3ABE0"
+    },
+    {
+      "class": "text",
+      "id": "672B9273-68E1-41F5-8BA0-11D2783B6BFA"
     }
   ],
   "name": "Token",
@@ -56,6 +56,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "8D285C3C-70E4-4395-B086-1EEC2C7E8ACD",
     "endMarkerType": 0,
     "miterLimit": 10,

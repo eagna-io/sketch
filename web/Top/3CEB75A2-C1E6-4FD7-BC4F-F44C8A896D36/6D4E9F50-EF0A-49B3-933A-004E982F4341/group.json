@@ -17,13 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FF253004-B297-4E41-BD1E-DC746217C22E",
-    "height": 239,
-    "width": 373,
+    "height": 240,
+    "width": 500,
     "x": 511,
     "y": 1812
-  },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -41,6 +38,10 @@
     {
       "class": "group",
       "id": "FA7ABE7D-83BA-465E-B7FD-EF2724785411"
+    },
+    {
+      "class": "text",
+      "id": "44C98011-BA07-4B43-BB6F-4845FC0AA047"
     }
   ],
   "name": "Step 3",
@@ -51,6 +52,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "4ECE1C3F-3343-434E-8613-66BE565EFBE6",
     "endMarkerType": 0,
     "miterLimit": 10,

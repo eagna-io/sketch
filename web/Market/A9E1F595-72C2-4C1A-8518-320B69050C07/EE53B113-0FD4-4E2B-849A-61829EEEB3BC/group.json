@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE53B113-0FD4-4E2B-849A-61829EEEB3BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 143,
+    "width": 322,
+    "x": 25,
+    "y": 999
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "85BCB79A-969D-4E8A-8713-98CCC8529296"
+    },
+    {
+      "class": "text",
+      "id": "006A8F52-A43A-40BB-915C-0A6EE2742530"
+    },
+    {
+      "class": "bitmap",
+      "id": "0E019BDE-DE21-495C-AA2D-E8800AFE3757"
+    },
+    {
+      "class": "shapePath",
+      "id": "1C47CC91-63FA-48AD-8730-EC005F0AA3C4"
+    },
+    {
+      "class": "text",
+      "id": "851FEA18-B6A6-4827-8DF7-3A78D589792A"
+    }
+  ],
+  "name": "ポイント",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

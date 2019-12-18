@@ -90,11 +90,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 8,
+        "length": 1,
         "location": 5
       }
     ],
-    "string": "541  coin / 枚"
+    "string": "541  枚"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -118,7 +118,7 @@
     "x": 13.5748502994012,
     "y": 110.5449101796407
   },
-  "glyphBounds": "{{10, 5}, {35, 28}}",
+  "glyphBounds": "{{17, 5}, {28, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -127,7 +127,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "541 coin / 枚",
+  "name": "541 枚",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -135,6 +135,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

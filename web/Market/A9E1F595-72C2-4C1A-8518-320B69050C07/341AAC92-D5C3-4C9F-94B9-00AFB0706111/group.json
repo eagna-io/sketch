@@ -22,10 +22,6 @@
     "x": 0,
     "y": 120
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "5D388433-DD42-45EE-82D9-7D38FB816279"
-  },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -33,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -50,6 +46,14 @@
     {
       "class": "text",
       "id": "1E3AEF34-2553-4B1D-B473-3A1EAD041420"
+    },
+    {
+      "class": "text",
+      "id": "7B86EB4E-0C96-4001-8A88-E19DCBE918B8"
+    },
+    {
+      "class": "text",
+      "id": "6AD6B135-B570-4E9E-AD32-072614C6F558"
     }
   ],
   "name": "Market Header",
@@ -60,6 +64,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "E5FBC44C-192B-408B-B41B-8AD4826805DA",
     "endMarkerType": 0,
     "miterLimit": 10,

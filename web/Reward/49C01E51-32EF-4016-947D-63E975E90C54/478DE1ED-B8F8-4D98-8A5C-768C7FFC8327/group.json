@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "478DE1ED-B8F8-4D98-8A5C-768C7FFC8327",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D926826-FFE9-47DD-ADF0-4856F21839A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B1FE8F03-F346-4E55-B8A1-25DB9696D456",
+    "height": 257,
+    "width": 168,
+    "x": 448,
+    "y": 547
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "047AAEA7-0E19-4BA1-9370-3AA4E0185C97"
+    },
+    {
+      "class": "text",
+      "id": "989B8B1D-FC56-4C24-91C6-99B3CAD8A865"
+    },
+    {
+      "class": "text",
+      "id": "40AE17B7-8657-4139-85D8-AC1615CBC066"
+    }
+  ],
+  "name": "参加マーケットコンポーネント",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "9374A0F1-D2DB-4FDC-B715-165C1A293BB4",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "EB10C318-EA75-4727-9A68-12DEFC1D995A",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "D5B203B2-1200-45F5-9DEB-6548D00D6035",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

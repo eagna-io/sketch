@@ -84,11 +84,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 4,
+        "length": 1,
         "location": 6
       }
     ],
-    "string": "4,200 coin"
+    "string": "4,200 枚"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -111,10 +111,10 @@
     "do_objectID": "DA39B073-31DF-43CF-9DD5-E82C584F5C9F",
     "height": 41,
     "width": 127.125,
-    "x": 54.11515748031487,
+    "x": 54.11515748031434,
     "y": 51
   },
-  "glyphBounds": "{{15, 10}, {112, 28}}",
+  "glyphBounds": "{{32, 10}, {95, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -123,7 +123,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "4,200 coin",
+  "name": "4,200 枚",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -131,6 +131,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "683FD2E1-6E10-4FD7-8CC9-1AA278E9CD23",
     "endMarkerType": 0,
     "miterLimit": 10,

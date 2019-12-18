@@ -87,6 +87,14 @@
         "thickness": 1
       }
     ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "95722533-FF5E-423F-87C4-3FCAD86B81EC",
     "endMarkerType": 0,
     "miterLimit": 10,

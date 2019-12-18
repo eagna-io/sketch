@@ -30,11 +30,43 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 20,
+        "length": 68,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.9764705882352941,
+            "green": 0.9764705882352941,
+            "red": 0.9764705882352941
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "NotoSansJP-Bold",
+              "size": 12
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          },
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 1,
+          "underlineStyle": 1
+        },
+        "length": 17,
+        "location": 68
       }
     ],
-    "string": "マーケットはすでにCloseしています。"
+    "string": "マーケットはすでにCloseしています。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＞ 自分の獲得ポイントを確認する。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,11 +88,11 @@
     "constrainProportions": false,
     "do_objectID": "E05359C4-D8A6-4774-AAA7-9117181BBC6F",
     "height": 55,
-    "width": 981,
+    "width": 1009,
     "x": 230,
     "y": 2
   },
-  "glyphBounds": "{{1, 6}, {204, 12}}",
+  "glyphBounds": "{{1, 5}, {975, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -77,6 +109,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "98A5B2A4-6ABB-488F-8D6C-196D7D68CAF0",
     "endMarkerType": 0,
     "miterLimit": 10,

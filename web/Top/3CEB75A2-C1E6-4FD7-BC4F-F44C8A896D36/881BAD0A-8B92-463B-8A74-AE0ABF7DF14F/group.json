@@ -17,13 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9F86AB7F-466B-4BE2-8517-94EF4B5A4CB6",
-    "height": 261,
-    "width": 418,
+    "height": 257,
+    "width": 508,
     "x": 511,
     "y": 1127
-  },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -41,6 +38,10 @@
     {
       "class": "text",
       "id": "02DD5440-A17C-4A2E-86BC-8AE29CC8D91C"
+    },
+    {
+      "class": "text",
+      "id": "B86CBFA0-0929-494C-83AC-583E90EB883B"
     }
   ],
   "name": "Step 1",
@@ -51,6 +52,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "C63BDC55-7AEE-49F6-A313-48FFCC251179",
     "endMarkerType": 0,
     "miterLimit": 10,

@@ -87,6 +87,14 @@
         "thickness": 3
       }
     ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "CA3ECC36-A1EB-4979-9107-86808500695C",
     "endMarkerType": 0,
     "fills": [

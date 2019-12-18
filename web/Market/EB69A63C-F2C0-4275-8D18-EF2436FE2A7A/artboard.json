@@ -36,11 +36,8 @@
     "x": 570,
     "y": -432
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -80,15 +77,15 @@
     },
     {
       "class": "group",
-      "id": "D2252DBD-01F4-481B-85D3-81F3591AF143"
-    },
-    {
-      "class": "group",
       "id": "BEDC3E19-A2B6-4554-841E-C558D79DDE83"
     },
     {
       "class": "group",
       "id": "130421B2-296C-4198-87CF-45AF88971001"
+    },
+    {
+      "class": "group",
+      "id": "F7307AEE-5CC8-44F1-B4E0-BE4429848079"
     }
   ],
   "name": "参加前",
@@ -107,6 +104,22 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

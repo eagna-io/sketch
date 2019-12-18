@@ -22,9 +22,6 @@
     "x": 831,
     "y": 840
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -32,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -49,6 +46,10 @@
     {
       "class": "bitmap",
       "id": "BD3659E0-5663-44E9-92A8-3B11FFAB7EA4"
+    },
+    {
+      "class": "group",
+      "id": "3BDD87F3-3EA5-401A-AD0D-EEB1EC49A374"
     }
   ],
   "name": "３注目マーケットコンポーネント",
@@ -59,6 +60,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "0D79DA8A-DFE8-4039-AD5A-1D77EFF98C82",
     "endMarkerType": 0,
     "miterLimit": 10,

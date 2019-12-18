@@ -120,11 +120,11 @@
           "textStyleVerticalAlignmentKey": 0,
           "underlineStyle": 0
         },
-        "length": 37,
+        "length": 35,
         "location": 32
       }
     ],
-    "string": "・MACHI cafe ドリンクギフト券 ・ランダムに10枚 ・選ばれる確率はマーケットクローズ時に 　保有しているコインの量に比例する。"
+    "string": "・MACHI cafe ドリンクギフト券 ・ランダムに10枚 ・選ばれる確率はマーケットクローズ時に保有しているチップの量に比例する。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -145,12 +145,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EFB5C87F-E516-4519-A034-FAB412C08A6D",
-    "height": 80,
+    "height": 60,
     "width": 776,
     "x": 151,
     "y": 362
   },
-  "glyphBounds": "{{5, 4}, {260, 74}}",
+  "glyphBounds": "{{5, 4}, {490, 54}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -167,6 +167,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "751840A6-ACE6-4181-8621-8A80730DA78C",
     "endMarkerType": 0,
     "miterLimit": 10,

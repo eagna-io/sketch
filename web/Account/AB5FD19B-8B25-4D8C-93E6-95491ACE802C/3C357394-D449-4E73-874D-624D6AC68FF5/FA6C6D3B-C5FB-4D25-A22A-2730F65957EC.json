@@ -54,8 +54,8 @@
     "constrainProportions": false,
     "do_objectID": "C183E09E-676A-424F-829B-91282F90ED99",
     "height": 18,
-    "width": 125,
-    "x": 7,
+    "width": 125.7440476190476,
+    "x": 7.041666666666666,
     "y": 135
   },
   "glyphBounds": "{{0, 4}, {114, 13}}",
@@ -75,6 +75,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "ADA8431E-BAC6-428E-AFFC-6E91D98DA73E",
     "endMarkerType": 0,
     "miterLimit": 10,

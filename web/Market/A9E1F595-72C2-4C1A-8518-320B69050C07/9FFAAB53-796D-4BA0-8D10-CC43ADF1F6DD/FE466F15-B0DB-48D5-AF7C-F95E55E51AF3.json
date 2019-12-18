@@ -20,8 +20,8 @@
     "do_objectID": "76F07F00-7F2D-4752-A15D-9334F5319302",
     "height": 2,
     "width": 310,
-    "x": 14,
-    "y": 202.9965517241379
+    "x": 17,
+    "y": 250.9965517241379
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -87,6 +87,14 @@
         "thickness": 1
       }
     ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "5ECFBDD9-2AF6-48E9-B0E3-22B505505128",
     "endMarkerType": 0,
     "fills": [

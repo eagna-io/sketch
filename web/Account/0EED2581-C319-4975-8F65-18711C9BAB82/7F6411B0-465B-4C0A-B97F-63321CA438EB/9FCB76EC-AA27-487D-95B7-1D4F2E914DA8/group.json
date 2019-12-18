@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9FCB76EC-AA27-487D-95B7-1D4F2E914DA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99EBEA73-5198-4476-B7A6-6B87EC646DF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0EAEE56-7707-4BBF-97EF-E7DBE33D5D1E",
+    "height": 20,
+    "width": 128,
+    "x": 31,
+    "y": 194
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "7ADDF829-2A4E-48EA-9D24-0F2E932E5819"
+    },
+    {
+      "class": "bitmap",
+      "id": "EC1B6E8E-39BC-4E1D-B280-3C93A7DEF620"
+    }
+  ],
+  "name": "総ポイント",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "B166FE9A-0DB0-4773-B41A-962C4D1D9643",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "9CEEC571-26BA-46A7-BB5B-5922E2590A5F",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "6E2A3999-54CA-4EFB-89DB-9AA57A6ABB15",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

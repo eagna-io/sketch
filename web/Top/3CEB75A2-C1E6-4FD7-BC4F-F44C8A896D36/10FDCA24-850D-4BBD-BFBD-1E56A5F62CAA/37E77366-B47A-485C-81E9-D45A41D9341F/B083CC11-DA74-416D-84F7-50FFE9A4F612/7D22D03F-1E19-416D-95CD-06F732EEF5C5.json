@@ -18,10 +18,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7C4986ED-C7A1-4025-A873-23FCA571B1D8",
-    "height": 8.166666666666666,
-    "width": 22.22222222222221,
-    "x": 29.23976608187132,
-    "y": 5.833333333333334
+    "height": 6.844444444444452,
+    "width": 18.56818181818184,
+    "x": 24.4318181818182,
+    "y": 4.888888888888884
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -82,6 +82,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "BB0109E4-E20F-49AF-B053-E9A747A282BA",
     "endMarkerType": 0,
     "fills": [

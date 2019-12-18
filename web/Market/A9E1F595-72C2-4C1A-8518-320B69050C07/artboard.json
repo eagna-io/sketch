@@ -30,10 +30,6 @@
     "x": 2470,
     "y": -432
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "06AA283A-ADAD-4F0C-A07F-EF2E15261D35"
-  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -52,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -76,27 +72,15 @@
     },
     {
       "class": "group",
-      "id": "DF50C9C6-62C9-4DC2-A1FD-2E32F6284606"
-    },
-    {
-      "class": "group",
       "id": "66D0057A-5519-4956-BD3F-984473CD7B9D"
-    },
-    {
-      "class": "text",
-      "id": "6AD6B135-B570-4E9E-AD32-072614C6F558"
-    },
-    {
-      "class": "text",
-      "id": "7B86EB4E-0C96-4001-8A88-E19DCBE918B8"
-    },
-    {
-      "class": "text",
-      "id": "D96B3A4E-30F8-4B82-BCD0-F9FA70D93903"
     },
     {
       "class": "group",
       "id": "EC438C6F-DE1F-4A68-A932-8442693375E4"
+    },
+    {
+      "class": "group",
+      "id": "EE53B113-0FD4-4E2B-849A-61829EEEB3BC"
     }
   ],
   "name": "Resolve時",
@@ -115,6 +99,22 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "C70641D0-DC75-4C66-A994-CE9E86340364",
     "endMarkerType": 0,
     "miterLimit": 10,

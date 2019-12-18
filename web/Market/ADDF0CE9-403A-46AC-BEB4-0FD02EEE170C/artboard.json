@@ -39,10 +39,6 @@
     "x": 1520,
     "y": -432
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "70DF030B-7149-4B3D-9F90-B0382378BD49"
-  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -61,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -85,27 +81,15 @@
     },
     {
       "class": "group",
-      "id": "4A606F62-825B-421F-8C29-D0FB0285B521"
-    },
-    {
-      "class": "group",
       "id": "FACFEC91-630C-4149-BFD4-88C8672A63EE"
-    },
-    {
-      "class": "text",
-      "id": "515A60D5-E14C-484C-B5A6-2C9BF7743D55"
-    },
-    {
-      "class": "text",
-      "id": "783FC0BD-4F00-4FF9-9D83-E59EE36AE3E4"
-    },
-    {
-      "class": "text",
-      "id": "FD986648-0607-469B-99A7-144A3C322EE9"
     },
     {
       "class": "group",
       "id": "B6056967-72F9-47CD-8FFA-DE073488A126"
+    },
+    {
+      "class": "group",
+      "id": "34EF0888-E136-4D17-955A-4D3FC1007D9F"
     }
   ],
   "name": "Close時",
@@ -124,6 +108,22 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "B6DE9DF7-F84B-4D26-937A-A67BEC410144",
     "endMarkerType": 0,
     "miterLimit": 10,

@@ -17,11 +17,8 @@
     "constrainProportions": false,
     "height": 119,
     "width": 353,
-    "x": 10,
-    "y": 110
-  },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "x": 11,
+    "y": 268
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -73,6 +70,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

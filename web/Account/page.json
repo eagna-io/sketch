@@ -20,9 +20,6 @@
     "x": 0,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -45,11 +42,19 @@
     },
     {
       "class": "artboard",
+      "id": "92D6526C-0D7E-40C1-B98B-8436A44A86C8"
+    },
+    {
+      "class": "artboard",
       "id": "0EED2581-C319-4975-8F65-18711C9BAB82"
     },
     {
       "class": "artboard",
       "id": "43D65FCD-F927-40D2-B9EF-8D9098AF747A"
+    },
+    {
+      "class": "artboard",
+      "id": "2E306B31-7D0B-442D-A5C6-8E318DBFE827"
     }
   ],
   "name": "Account",
@@ -60,6 +65,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

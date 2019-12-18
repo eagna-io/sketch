@@ -17,13 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "366DAEEB-1C6A-4805-902E-66AD6EF79092",
-    "height": 62.32876712328768,
-    "width": 115.3846153846152,
+    "height": 63,
+    "width": 116,
     "x": 0,
     "y": 0
-  },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -51,6 +48,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "774B58AE-33A9-4CB4-A904-CE2F71702368",
     "endMarkerType": 0,
     "miterLimit": 10,

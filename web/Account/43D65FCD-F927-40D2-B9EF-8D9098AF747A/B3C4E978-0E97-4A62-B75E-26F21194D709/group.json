@@ -22,9 +22,6 @@
     "x": 531,
     "y": 840
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -32,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -49,6 +46,10 @@
     {
       "class": "group",
       "id": "31ACFD07-64AB-4502-B77A-BEE2496BDCBA"
+    },
+    {
+      "class": "group",
+      "id": "E9F65749-F83A-4EDF-8A5D-5677B3666EC8"
     }
   ],
   "name": "２注目マーケットコンポーネント",
@@ -59,6 +60,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "29B4623D-5357-4E9B-82C0-D6B5B1AB2125",
     "endMarkerType": 0,
     "miterLimit": 10,

@@ -21,8 +21,8 @@
     "do_objectID": "71D3847A-EA30-4415-B00A-AD07A99F2ECE",
     "height": 48.8205128205128,
     "width": 48.9156626506024,
-    "x": 177.0281124497992,
-    "y": 0
+    "x": 26.0281124497992,
+    "y": -4.973799150320701e-14
   },
   "hasClippingMask": false,
   "image": {
@@ -45,6 +45,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "1868D583-013A-4F21-8601-80790A996FFC",
     "endMarkerType": 0,
     "fills": [

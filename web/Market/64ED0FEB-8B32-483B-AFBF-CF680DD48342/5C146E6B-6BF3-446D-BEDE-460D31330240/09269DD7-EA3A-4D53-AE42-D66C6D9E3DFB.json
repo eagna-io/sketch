@@ -84,11 +84,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 4,
+        "length": 1,
         "location": 6
       }
     ],
-    "string": "4,200 coin"
+    "string": "4,200 枚"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -112,7 +112,7 @@
     "x": 188,
     "y": 25
   },
-  "glyphBounds": "{{51, 7}, {85, 21}}",
+  "glyphBounds": "{{65, 7}, {72, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -121,7 +121,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "4,200 coin",
+  "name": "4,200 枚",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -129,6 +129,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

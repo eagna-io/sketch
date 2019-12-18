@@ -60,7 +60,7 @@
         "location": 1
       }
     ],
-    "string": "３. 正しい予測で報酬をGET！"
+    "string": "３. 正しい予測で賞品をGET！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "３. 正しい予測で報酬をGET！",
+  "name": "３. 正しい予測で賞品をGET！",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -103,6 +103,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "CAE5C002-CFC5-4FB2-8D47-B84F24C0EAF8",
     "endMarkerType": 0,
     "miterLimit": 10,

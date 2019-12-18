@@ -15,15 +15,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
+    "constrainProportions": false,
     "do_objectID": "AC5E8290-0D9D-469B-8F3F-1F35FE11D230",
-    "height": 204,
-    "width": 168,
-    "x": 12,
-    "y": 622
-  },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "height": 219,
+    "width": 169,
+    "x": 13,
+    "y": 780
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -49,6 +46,10 @@
     {
       "class": "text",
       "id": "FA6C6D3B-C5FB-4D25-A22A-2730F65957EC"
+    },
+    {
+      "class": "group",
+      "id": "4680A7FC-4444-4AD7-B5AE-E0FF6DFC8CBA"
     }
   ],
   "name": "参加マーケットコンポーネント",
@@ -59,6 +60,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "do_objectID": "E69B186C-8667-4ED6-AA69-39E2BA136728",
     "endMarkerType": 0,
     "miterLimit": 10,

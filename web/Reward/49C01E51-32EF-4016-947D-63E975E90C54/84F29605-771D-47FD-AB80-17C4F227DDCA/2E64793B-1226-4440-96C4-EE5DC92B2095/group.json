@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E64793B-1226-4440-96C4-EE5DC92B2095",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "608A19A7-2E6F-4183-950C-FBE2A6799D65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71C70D59-A073-4672-A41A-96E300EEEFE8",
+    "height": 33,
+    "width": 47,
+    "x": 1363,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9DFD35D0-54DD-4FA6-86D4-A43FD54D11C4"
+    },
+    {
+      "class": "triangle",
+      "id": "6C75B47F-4D16-4DAE-AC97-EF8F6346CCDC"
+    }
+  ],
+  "name": "UserIcon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "785D2B38-A9A9-4BF2-B613-903289418246",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "8DBD5E6C-EC9D-4FC5-8BDC-28F30C505536",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "956AAA32-B8EA-417F-9657-9D7DF6A6E2A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
