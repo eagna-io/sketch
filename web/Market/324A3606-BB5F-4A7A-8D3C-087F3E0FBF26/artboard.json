@@ -30,6 +30,9 @@
     "x": 2700,
     "y": 1237
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -48,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -72,10 +75,6 @@
     },
     {
       "class": "group",
-      "id": "8F8F07C4-3E89-495D-8263-7AB57D95D874"
-    },
-    {
-      "class": "group",
       "id": "2B7AC636-7EF5-4300-9444-138B3F62B803"
     },
     {
@@ -83,6 +82,7 @@
       "id": "31EA973D-7405-4A54-BD6E-5CED88F47B48"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "PC Close時",
   "nameIsFixed": true,
   "presetDictionary": {
@@ -99,6 +99,15 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -107,6 +116,8 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
+    "borders": [
+    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -115,9 +126,20 @@
       "isEnabled": true,
       "saturation": 1
     },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "1B192E77-5B0E-4321-B3C9-F2B94AECFEB9",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

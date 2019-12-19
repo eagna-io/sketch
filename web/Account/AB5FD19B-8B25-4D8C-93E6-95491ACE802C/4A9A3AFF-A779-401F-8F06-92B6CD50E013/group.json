@@ -15,10 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 138,
+    "height": 87,
     "width": 367,
     "x": -4,
     "y": 95
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -40,28 +43,9 @@
     {
       "class": "text",
       "id": "4DB09421-4699-4D0A-9FBF-48F4A0A822D5"
-    },
-    {
-      "class": "bitmap",
-      "id": "8BAA74AC-7A4B-472F-9580-C4CF201971D9"
-    },
-    {
-      "class": "text",
-      "id": "8EE1170B-0499-4CE4-BFF3-784B0402715B"
-    },
-    {
-      "class": "text",
-      "id": "E8EDAE5C-2206-49FC-898B-F0D60A573014"
-    },
-    {
-      "class": "shapePath",
-      "id": "57ACA7DC-A4D9-4990-A15E-17A65A869927"
-    },
-    {
-      "class": "text",
-      "id": "6E755ABC-223E-425C-8E9F-31612D149D9E"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "保有ポイント",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -70,6 +54,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -78,6 +71,8 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
+    "borders": [
+    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -86,8 +81,19 @@
       "isEnabled": true,
       "saturation": 1
     },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

@@ -30,6 +30,9 @@
     "x": 5780,
     "y": 1237
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -48,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -72,10 +75,6 @@
     },
     {
       "class": "group",
-      "id": "59806A90-62FE-4DA4-A94F-E6682494A899"
-    },
-    {
-      "class": "group",
       "id": "61D2BF10-7AE8-4856-8F46-DA3D995729A4"
     },
     {
@@ -83,6 +82,7 @@
       "id": "80F88A0A-145E-4647-AF1A-3D3EA2BFE39A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "PC Upcoming時",
   "nameIsFixed": true,
   "presetDictionary": {
@@ -99,6 +99,15 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -107,6 +116,8 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
+    "borders": [
+    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -115,9 +126,20 @@
       "isEnabled": true,
       "saturation": 1
     },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "06D0FCA1-199B-495E-A065-E1DB53135A2F",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

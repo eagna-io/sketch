@@ -9,12 +9,12 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5725490196078431,
-            "green": 0.6941176470588235,
-            "red": 0.3568627450980392
+            "blue": 0.4627450980392157,
+            "green": 0.03529411764705882,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "AppleColorEmoji",
               "size": 20
@@ -37,12 +37,12 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5725490196078431,
-            "green": 0.6941176470588235,
-            "red": 0.3568627450980392
+            "blue": 0.4627450980392157,
+            "green": 0.03529411764705882,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "HiraginoSans-W4",
               "size": 20
@@ -56,11 +56,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 13,
         "location": 2
       }
     ],
-    "string": "©️2019 Eagna"
+    "string": "©️2019 CROP.inc"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -80,11 +80,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 29,
-    "width": 147,
+    "width": 178,
     "x": 62,
     "y": 171
   },
-  "glyphBounds": "{{0, 2}, {145, 25}}",
+  "glyphBounds": "{{0, 3}, {177, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "©️2019 Eagna",
+  "maintainScrollPosition": false,
+  "name": "©️2019 CROP.inc",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -101,6 +102,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -109,6 +119,8 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
+    "borders": [
+    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -117,8 +129,19 @@
       "isEnabled": true,
       "saturation": 1
     },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -126,12 +149,12 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5725490196078431,
-          "green": 0.6941176470588235,
-          "red": 0.3568627450980392
+          "blue": 0.4627450980392157,
+          "green": 0.03529411764705882,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "AppleColorEmoji",
             "size": 20

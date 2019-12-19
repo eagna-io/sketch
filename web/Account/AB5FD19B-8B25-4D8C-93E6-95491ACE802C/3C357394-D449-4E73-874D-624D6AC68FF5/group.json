@@ -20,7 +20,10 @@
     "height": 219,
     "width": 169,
     "x": 13,
-    "y": 780
+    "y": 835
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -46,12 +49,9 @@
     {
       "class": "text",
       "id": "FA6C6D3B-C5FB-4D25-A22A-2730F65957EC"
-    },
-    {
-      "class": "group",
-      "id": "4680A7FC-4444-4AD7-B5AE-E0FF6DFC8CBA"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "参加マーケットコンポーネント",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -60,6 +60,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -68,6 +77,8 @@
       "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
+    "borders": [
+    ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
@@ -76,9 +87,20 @@
       "isEnabled": true,
       "saturation": 1
     },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "E69B186C-8667-4ED6-AA69-39E2BA136728",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }
