@@ -14,7 +14,7 @@
             "red": 0.6078922152519226
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Light",
               "size": 18
@@ -41,7 +41,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B665E0A3-3E48-4768-8229-41A57C41EBAD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,7 +51,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6241A410-2DCA-4975-B1C6-78D714A579AD",
     "height": 297,
     "width": 966,
     "x": 0,
@@ -89,7 +87,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "CA1D38E5-361A-4A27-9C2B-FE6AE0F635BE",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -100,7 +97,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "FD8DDFE1-7ECB-4ECC-8CDC-734BB0B6C88E",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -122,7 +118,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "0DB53FB9-AA72-4250-AF52-538FF299FBF9",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -132,7 +127,7 @@
           "red": 0.6078922152519226
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Light",
             "size": 18

@@ -14,7 +14,7 @@
             "red": 0.1058823529411765
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
               "size": 18
@@ -41,7 +41,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A8E63900-1BE1-49D8-BD2C-CE38459E0B82",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,7 +51,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "693E9892-8B08-419E-9C16-800DD9712B65",
     "height": 27,
     "width": 419,
     "x": 121,
@@ -120,7 +118,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C29FC2D6-50EC-4289-9B40-4F113A7D243E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -130,7 +127,7 @@
           "red": 0.1058823529411765
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
             "size": 18

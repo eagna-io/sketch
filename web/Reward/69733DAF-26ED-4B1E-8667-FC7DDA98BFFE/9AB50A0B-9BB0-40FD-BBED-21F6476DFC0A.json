@@ -14,7 +14,7 @@
             "red": 0.9764705882352941
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
               "size": 28
@@ -106,6 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "F63B1AFA-6F68-4E95-B29C-0D1569DC8275",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -126,7 +127,7 @@
           "red": 0.9764705882352941
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
             "size": 28

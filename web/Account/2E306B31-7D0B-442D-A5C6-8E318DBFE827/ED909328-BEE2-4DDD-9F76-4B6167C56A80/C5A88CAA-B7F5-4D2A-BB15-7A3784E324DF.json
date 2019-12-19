@@ -6,7 +6,6 @@
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1975D554-3B96-42B7-9597-B44588DC2883",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,7 +16,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F8A71B3E-52A3-4CC8-B322-2238273B1469",
     "height": 15,
     "width": 15,
     "x": 0,

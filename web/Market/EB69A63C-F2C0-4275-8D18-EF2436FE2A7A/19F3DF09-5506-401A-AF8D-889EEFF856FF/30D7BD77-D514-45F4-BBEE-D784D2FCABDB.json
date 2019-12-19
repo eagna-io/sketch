@@ -14,7 +14,7 @@
             "red": 0.7058823529411765
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Regular",
               "size": 14
@@ -42,7 +42,7 @@
             "red": 0.7058823529411765
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Regular",
               "size": 14
@@ -136,6 +136,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "38E3F555-9797-4A37-8B2B-82A98EC5A53D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -156,7 +157,7 @@
           "red": 0.7058823529411765
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Regular",
             "size": 14

@@ -14,7 +14,7 @@
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "HiraginoSans-W4",
               "size": 14
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 21,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "marketrohan@gmail.com"
+    "string": "info@crop-pm.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 177,
-    "x": 1123,
+    "width": 135,
+    "x": 1165,
     "y": 170
   },
-  "glyphBounds": "{{0, 0}, {176, 15}}",
+  "glyphBounds": "{{0, 0}, {134, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "marketrohan@gmail.co",
+  "name": "info@crop-pm.com",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -106,6 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "696E2CCC-90CA-4618-8F1B-FB5FEBDCDD83",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -126,7 +127,7 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "HiraginoSans-W4",
             "size": 14

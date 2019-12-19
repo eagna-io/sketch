@@ -18,7 +18,7 @@
     "height": 236,
     "width": 1440,
     "x": 0,
-    "y": 3538
+    "y": 2998
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -35,10 +35,6 @@
     {
       "class": "rectangle",
       "id": "12C6760C-A497-4537-9EA3-7FD926AF8A87"
-    },
-    {
-      "class": "bitmap",
-      "id": "398A03D0-9630-41E0-BB2A-287D9D6DBD2B"
     },
     {
       "class": "text",
@@ -94,6 +90,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "3E52BCBE-67EF-48AE-9D5C-0DFE9DA0D991",
     "endMarkerType": 0,
     "fills": [
     ],

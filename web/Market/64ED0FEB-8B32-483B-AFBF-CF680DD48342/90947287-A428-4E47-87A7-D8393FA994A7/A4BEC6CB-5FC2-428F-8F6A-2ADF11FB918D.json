@@ -17,7 +17,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 190,
+    "height": 159,
     "width": 375,
     "x": 0,
     "y": 0
@@ -116,6 +116,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "6768CA66-4166-47A7-A2BC-E8A65D9D4523",
     "endMarkerType": 0,
     "fills": [
       {

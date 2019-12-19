@@ -20,7 +20,7 @@
     "height": 657,
     "width": 375,
     "x": 0,
-    "y": 1790
+    "y": 1470
   },
   "hasClippingMask": false,
   "image": {
@@ -76,6 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "9FA701EE-2131-4CA3-9DA5-50E688BC9161",
     "endMarkerType": 0,
     "fills": [
     ],

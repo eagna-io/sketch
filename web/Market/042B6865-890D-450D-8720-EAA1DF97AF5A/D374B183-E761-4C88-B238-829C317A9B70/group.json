@@ -5,7 +5,6 @@
   "do_objectID": "D374B183-E761-4C88-B238-829C317A9B70",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A54FBE8E-42BB-4EC3-B457-C1B76463AFCB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,8 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "09C14950-F608-4F10-A6EE-DD244A807377",
-    "height": 190,
+    "height": 159,
     "width": 375,
     "x": 0,
     "y": 120
@@ -49,14 +47,6 @@
     {
       "class": "text",
       "id": "6FDC6CEE-4A3B-4AA7-8CBD-876E6030A4DE"
-    },
-    {
-      "class": "text",
-      "id": "67B3AE67-FFFB-40D5-BB37-99C577F43492"
-    },
-    {
-      "class": "text",
-      "id": "87446D7B-86B0-4073-94C8-ECBFBB09B8F8"
     }
   ],
   "maintainScrollPosition": false,

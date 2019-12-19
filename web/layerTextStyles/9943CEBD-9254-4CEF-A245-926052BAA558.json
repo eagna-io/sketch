@@ -36,6 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "76B1D89B-4D3E-4350-8B80-05BBE0B31A80",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -56,7 +57,7 @@
           "red": 0.2039215686
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "Lato-Regular",
             "size": 14

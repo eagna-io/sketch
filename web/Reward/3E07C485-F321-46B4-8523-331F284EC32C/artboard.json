@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -135,6 +135,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "B6230E4D-D39B-4D0A-B267-1A9E912DA68D",
     "endMarkerType": 0,
     "fills": [
     ],

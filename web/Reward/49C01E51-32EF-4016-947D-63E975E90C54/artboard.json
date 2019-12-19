@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "B142441D-60EB-43B1-A928-DB7EB4B52E01",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "49C01E51-32EF-4016-947D-63E975E90C54",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B2C4BCA2-AACF-4840-AF89-277A67E147F6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,7 +22,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EADA55DF-53DB-429E-AEAA-950B753B569B",
     "height": 2038,
     "width": 1440,
     "x": -577,
@@ -39,7 +36,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "2F712D1B-9932-4C1B-8EB8-BF23F38224A5",
     "guides": [
     ]
   },
@@ -51,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -108,7 +104,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "61E86662-BC45-42BB-91B1-5C3B865150F5",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -119,7 +114,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "99C66D05-94DC-4138-8EE2-458F64490A51",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -144,7 +138,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "466E82D3-61EE-437F-B822-433990E463C7",
     "guides": [
     ]
   }

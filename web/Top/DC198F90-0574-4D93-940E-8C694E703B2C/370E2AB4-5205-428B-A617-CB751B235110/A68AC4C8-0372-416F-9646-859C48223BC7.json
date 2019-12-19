@@ -14,7 +14,7 @@
             "red": 0.1058823529411765
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Light",
               "size": 16
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "今すぐ予測市場を体験しましょう"
+    "string": "あなたの予測が会社の力に"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -41,7 +41,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F8EB9292-6435-426D-A5A3-BEC9254414A5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3ECB3FAC-1640-47F3-9C99-984E7C1FAF4E",
     "height": 24,
     "width": 241,
     "x": 67,
-    "y": 104
+    "y": 159
   },
-  "glyphBounds": "{{1, 5}, {237, 16}}",
+  "glyphBounds": "{{26, 5}, {189, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "今すぐ予測市場を体験しましょう",
+  "name": "あなたの予測が会社の力に",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -120,7 +118,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "68766681-1986-4B14-828E-D84137E7405E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -130,7 +127,7 @@
           "red": 0.1058823529411765
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Light",
             "size": 16

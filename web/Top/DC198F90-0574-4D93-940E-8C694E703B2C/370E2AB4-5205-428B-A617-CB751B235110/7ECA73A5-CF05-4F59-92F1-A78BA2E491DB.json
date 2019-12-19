@@ -14,7 +14,7 @@
             "red": 0.1058823529411765
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "HiraginoSans-W5",
               "size": 20
@@ -41,7 +41,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F2A08831-EC91-4E81-A44B-A10A860E150E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,11 +51,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E52675ED-96FB-42D4-AB7C-4F996022E98B",
     "height": 22,
     "width": 220,
     "x": 77,
-    "y": 69
+    "y": 129
   },
   "glyphBounds": "{{20, 1}, {179, 19}}",
   "hasClippingMask": false,
@@ -120,7 +118,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "29D00754-7C59-4F29-A862-15AC825DFBB5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -130,7 +127,7 @@
           "red": 0.1058823529411765
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "HiraginoSans-W5",
             "size": 20

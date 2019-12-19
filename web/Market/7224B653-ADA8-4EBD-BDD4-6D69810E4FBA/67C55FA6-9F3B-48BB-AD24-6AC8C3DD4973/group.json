@@ -43,18 +43,6 @@
     {
       "class": "group",
       "id": "FD21EB76-E275-4B0B-8FEA-E3EB86CB4788"
-    },
-    {
-      "class": "text",
-      "id": "830DDD4B-275E-45DD-ADC0-E46F16C41BFE"
-    },
-    {
-      "class": "text",
-      "id": "4FC4AB8B-6D15-4716-BD6B-E01732434078"
-    },
-    {
-      "class": "group",
-      "id": "E2649F7E-2601-46F9-A570-661B708F79BA"
     }
   ],
   "maintainScrollPosition": false,
@@ -98,6 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "47897E7F-10DD-4A3D-B82A-D1D30E747AE1",
     "endMarkerType": 0,
     "fills": [
     ],

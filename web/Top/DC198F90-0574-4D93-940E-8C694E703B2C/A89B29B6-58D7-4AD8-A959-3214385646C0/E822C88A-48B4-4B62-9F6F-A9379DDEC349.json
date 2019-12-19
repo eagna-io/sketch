@@ -14,7 +14,7 @@
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
               "size": 20
@@ -42,7 +42,7 @@
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
               "size": 14
@@ -60,7 +60,7 @@
         "location": 1
       }
     ],
-    "string": "３. 正しい予測で賞品をGET！"
+    "string": "2. 正しい予測で賞品をGET！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -69,7 +69,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0EDCDABA-E84B-4C27-964C-4E0C87FBB455",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -80,13 +79,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "38234BAC-D9D6-4FBD-814B-5E402FFDB5A2",
     "height": 29,
-    "width": 211,
+    "width": 202,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 7}, {201, 18}}",
+  "glyphBounds": "{{0, 7}, {196, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -96,7 +94,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "３. 正しい予測で賞品をGET！",
+  "name": "2. 正しい予測で賞品をGET！",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -148,7 +146,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "36DCC89B-A8E3-4907-988E-2C62F30CBA0B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -158,7 +155,7 @@
           "red": 0.1098039215686274
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
             "size": 20

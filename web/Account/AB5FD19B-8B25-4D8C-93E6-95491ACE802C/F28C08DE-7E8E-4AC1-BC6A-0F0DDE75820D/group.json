@@ -30,23 +30,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "8640ACE8-F6C7-4099-9874-17025F99F42B"
     },
     {
-      "class": "bitmap",
-      "id": "05014938-9D3B-402E-B27A-FC5BF1C93A0A"
-    },
-    {
       "class": "group",
       "id": "7EB51DBC-11F6-4287-93E0-D575B25E401D"
     },
     {
-      "class": "triangle",
-      "id": "A7F1A8FA-8D0A-40B8-B997-B01AB3DFA6B4"
+      "class": "shapeGroup",
+      "id": "48E84E55-6961-4139-89CD-F9C1F9ABCDEC"
     }
   ],
   "maintainScrollPosition": false,
@@ -90,6 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "ABBB1E74-B5D3-46ED-8D7E-BE2C34EA2FB5",
     "endMarkerType": 0,
     "fills": [
     ],

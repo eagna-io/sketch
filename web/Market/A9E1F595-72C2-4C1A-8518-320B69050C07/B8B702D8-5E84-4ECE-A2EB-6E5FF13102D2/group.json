@@ -5,7 +5,6 @@
   "do_objectID": "B8B702D8-5E84-4ECE-A2EB-6E5FF13102D2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C8B5F8FF-5D56-4FF4-8CE4-14239768FE26",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9C1A64BC-FB59-48D1-AA94-63BFB7A0CBCF",
     "height": 237,
     "width": 322,
     "x": 20,
-    "y": 722
+    "y": 681
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"

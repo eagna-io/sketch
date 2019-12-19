@@ -6,7 +6,6 @@
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CAD7083B-43BC-4D58-A47B-4F716821BA13",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,7 +16,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "703B358C-F5C2-4BC2-94E0-81FB0D01D090",
     "height": 5,
     "width": 9,
     "x": 38,
@@ -87,7 +85,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "4E090F91-7CC5-4DE7-94CA-983C723C406F",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -98,7 +95,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "54323F6F-9FC3-4EDF-9A0A-2044319018DC",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1

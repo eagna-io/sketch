@@ -5,7 +5,6 @@
   "do_objectID": "9D22D5AE-3B7A-41EF-9B16-07BFBB05B24A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2BF492D5-C4EE-448A-A3B1-66F30DB3E758",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "45E1512D-CAE6-4007-AE3B-9B94250EF5AA",
     "height": 60,
     "width": 375,
     "x": 0,
@@ -32,15 +30,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "696B5DBE-6BEE-482A-A111-A7D3FB83B14E"
-    },
-    {
-      "class": "bitmap",
-      "id": "FFD348B2-FEB3-4F1B-8B3A-1915A6AB24BC"
     },
     {
       "class": "group",

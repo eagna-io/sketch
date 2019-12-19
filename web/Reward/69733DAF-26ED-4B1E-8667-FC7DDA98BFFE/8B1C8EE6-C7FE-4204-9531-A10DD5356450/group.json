@@ -30,15 +30,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "8C72766C-117E-46C6-B8F1-731323CC9818"
-    },
-    {
-      "class": "bitmap",
-      "id": "6650A41A-050F-476E-B2ED-3BE287DBBE89"
     },
     {
       "class": "group",
@@ -86,6 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "0BD0551C-D127-40B7-BB81-27CDE64AA61D",
     "endMarkerType": 0,
     "fills": [
     ],

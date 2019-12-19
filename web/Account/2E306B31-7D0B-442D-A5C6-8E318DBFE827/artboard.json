@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -119,6 +119,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "FBF36234-966C-4562-B7F1-C13A6460B20B",
     "endMarkerType": 0,
     "fills": [
     ],

@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "013FA078-B2FF-4FA6-BFC3-35F6A1CB41E5",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "5B5453B8-B262-4C83-9B87-59199027BD23",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1184EA15-A6F1-44C8-A840-1E0E36E1FA4E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,7 +22,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CE93C4A9-028E-44B1-B8B3-7C718181AE3F",
     "height": 1413,
     "width": 375,
     "x": 7,
@@ -39,7 +36,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "F7B9FB54-49E9-4D8F-9D3A-D7E764390EAE",
     "guides": [
     ]
   },
@@ -51,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -146,7 +142,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "A721B0AF-4AF5-4BFA-BD70-4F56F1E59B2A",
     "guides": [
     ]
   }

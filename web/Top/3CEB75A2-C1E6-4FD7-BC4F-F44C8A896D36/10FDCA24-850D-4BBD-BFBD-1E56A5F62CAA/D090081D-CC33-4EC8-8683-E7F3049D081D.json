@@ -14,7 +14,7 @@
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
               "size": 35
@@ -42,7 +42,7 @@
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
               "size": 16
@@ -70,7 +70,7 @@
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
               "size": 22
@@ -88,7 +88,7 @@
         "location": 3
       }
     ],
-    "string": "２. 自分の予想通りに予測チケットを売買！"
+    "string": "1. 自分の予想通りに予測チケットを売買！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -97,7 +97,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CE28481F-93A3-4702-BC61-F2C1B0DE5B99",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -108,13 +107,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "50E9B3A1-B007-400C-B52F-6CF4D1B22D26",
     "height": 52,
     "width": 455,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{7, 14}, {425, 30}}",
+  "glyphBounds": "{{2, 15}, {415, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -124,7 +122,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "２. 自分の予想通りに予測チケットを売買",
+  "name": "1. 自分の予想通りに予測チケットを売買",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -176,7 +174,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "6229F848-933B-4F6B-A3C3-A1E611E3724F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -186,7 +183,7 @@
           "red": 0.1098039215686274
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
             "size": 35

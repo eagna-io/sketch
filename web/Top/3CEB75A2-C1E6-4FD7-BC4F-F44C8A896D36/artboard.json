@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3774,
+    "height": 3234,
     "width": 1440,
     "x": -248,
     "y": -314
@@ -71,6 +71,10 @@
       "id": "CAF13496-2B7B-460C-AAF5-420B08AB736A"
     },
     {
+      "class": "bitmap",
+      "id": "B3439949-485E-43CF-BA82-9F4B24FF7E36"
+    },
+    {
       "class": "group",
       "id": "EC3D5C44-D3CA-494E-BA44-8643688B79ED"
     },
@@ -80,19 +84,11 @@
     },
     {
       "class": "group",
-      "id": "881BAD0A-8B92-463B-8A74-AE0ABF7DF14F"
-    },
-    {
-      "class": "group",
       "id": "10FDCA24-850D-4BBD-BFBD-1E56A5F62CAA"
     },
     {
       "class": "group",
       "id": "6D4E9F50-EF0A-49B3-933A-004E982F4341"
-    },
-    {
-      "class": "group",
-      "id": "5F17CCBD-9E64-477C-BB4D-856AA4811AAB"
     },
     {
       "class": "bitmap",
@@ -148,6 +144,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "F52245CC-08D3-4172-A5AC-706C82760E7F",
     "endMarkerType": 0,
     "fills": [
     ],

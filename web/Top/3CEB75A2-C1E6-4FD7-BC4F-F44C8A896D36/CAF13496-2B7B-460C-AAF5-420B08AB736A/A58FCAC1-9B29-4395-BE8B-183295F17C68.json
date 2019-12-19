@@ -14,7 +14,7 @@
             "red": 0.1058823529411765
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Light",
               "size": 30
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "今すぐ予測市場を体験しましょう"
+    "string": "あなたの予測が会社の力に"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 45,
-    "width": 450,
-    "x": 495,
-    "y": 266
+    "width": 360,
+    "x": 540,
+    "y": 318
   },
-  "glyphBounds": "{{1, 9}, {443, 29}}",
+  "glyphBounds": "{{3, 9}, {354, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "今すぐ予測市場を体験しましょう",
+  "name": "あなたの予測が会社の力に",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -106,6 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "16610103-DEC5-4979-BBD7-FC38BEABFD03",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -126,7 +127,7 @@
           "red": 0.1058823529411765
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Light",
             "size": 30

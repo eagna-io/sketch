@@ -11,7 +11,9 @@
           "blue": 0.8431372549019608,
           "green": 0.5568627450980392,
           "red": 0.207843137254902
-        }
+        },
+        "do_objectID": "8C7CE327-52CA-4F21-9146-5E9FA52346B0",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -21,7 +23,9 @@
           "blue": 0.05490196078431372,
           "green": 0.6745098039215687,
           "red": 0.1372549019607843
-        }
+        },
+        "do_objectID": "DFE785B6-7336-46E9-ACB6-9B659E351C84",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -31,7 +35,9 @@
           "blue": 0.07058823529411765,
           "green": 0.8235294117647058,
           "red": 0.8470588235294118
-        }
+        },
+        "do_objectID": "6D280800-9998-4004-A6B0-D6910780E793",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -41,7 +47,9 @@
           "blue": 0.1803921568627451,
           "green": 0.1607843137254902,
           "red": 0.1411764705882353
-        }
+        },
+        "do_objectID": "137981F3-2C5D-48FA-BFBD-619E489EEE0A",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -51,7 +59,9 @@
           "blue": 0.3058823529411765,
           "green": 0.2196078431372549,
           "red": 0.1098039215686274
-        }
+        },
+        "do_objectID": "05BC849D-7C64-4B96-8B05-121037799E05",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -61,7 +71,9 @@
           "blue": 0.592156862745098,
           "green": 0.592156862745098,
           "red": 0.592156862745098
-        }
+        },
+        "do_objectID": "EC569A62-953B-4600-9039-B87E2684DB85",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -71,7 +83,9 @@
           "blue": 0.8549019607843137,
           "green": 0.8352941176470589,
           "red": 0.8196078431372549
-        }
+        },
+        "do_objectID": "CF45EA3A-940E-4AF4-85D5-A46D24BF7C6A",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -81,7 +95,9 @@
           "blue": 0.9764705882352941,
           "green": 0.9764705882352941,
           "red": 0.9764705882352941
-        }
+        },
+        "do_objectID": "6859CF19-33CB-4BCF-A79A-5CF29053B6E4",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -91,7 +107,9 @@
           "blue": 0.4588235294117649,
           "green": 0.1294117647058823,
           "red": 0.6470588235294118
-        }
+        },
+        "do_objectID": "A3A41F82-E04E-4C88-888B-9C2B794CB3E7",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -101,7 +119,9 @@
           "blue": 0.6705882352941176,
           "green": 0.380392156862745,
           "red": 0.196078431372549
-        }
+        },
+        "do_objectID": "C5588186-2680-4D0B-A825-EBEB8C4924CB",
+        "name": ""
       }
     ],
     "colors": [
@@ -176,6 +196,7 @@
         "red": 0.196078431372549
       }
     ],
+    "do_objectID": "FB72A2B6-A2F8-456D-891A-291478DCFB2F",
     "exportPresets": [
     ],
     "gradientAssets": [
@@ -204,9 +225,9 @@
     ]
   },
   "meta": {
-    "appVersion": "58",
-    "build": 84663,
-    "version": 120
+    "appVersion": "60.1",
+    "build": 88133,
+    "version": 121
   },
   "pages": [
     "Top",

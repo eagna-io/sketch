@@ -5,7 +5,6 @@
   "do_objectID": "D2B9FAD1-DBCD-47B3-82FC-C5CB9E4C8922",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C5194AC9-2807-4F02-98C8-2A5AA4E81ED6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7C1CF1D4-9C7B-48B3-9510-EEFE8E070017",
     "height": 190,
     "width": 1440,
     "x": 0,
@@ -32,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -45,14 +43,6 @@
     {
       "class": "group",
       "id": "115D1476-AD4A-4D27-BAE3-EF30F522019D"
-    },
-    {
-      "class": "text",
-      "id": "B0F44DC5-2823-4CDF-BBC7-88F1CD357109"
-    },
-    {
-      "class": "text",
-      "id": "60F14D38-70C3-49B3-B899-51DEBD1BA681"
     }
   ],
   "maintainScrollPosition": false,

@@ -14,7 +14,7 @@
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleColorEmoji",
               "size": 20
@@ -42,7 +42,7 @@
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "HiraginoSans-W4",
               "size": 20
@@ -134,6 +134,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "180E39F5-BA39-4E77-9C29-DBCBE477B69C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -154,7 +155,7 @@
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleColorEmoji",
             "size": 20
