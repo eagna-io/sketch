@@ -14,7 +14,7 @@
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "AppleColorEmoji",
               "size": 20
@@ -42,7 +42,7 @@
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "HiraginoSans-W4",
               "size": 20
@@ -155,7 +155,7 @@
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "AppleColorEmoji",
             "size": 20

@@ -14,7 +14,7 @@
             "red": 0.1058823529411765
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Regular",
               "size": 36
@@ -127,7 +127,7 @@
           "red": 0.1058823529411765
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Regular",
             "size": 36

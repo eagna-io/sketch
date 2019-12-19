@@ -57,7 +57,7 @@
           "red": 0.2039215686
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "Lato-Regular",
             "size": 14

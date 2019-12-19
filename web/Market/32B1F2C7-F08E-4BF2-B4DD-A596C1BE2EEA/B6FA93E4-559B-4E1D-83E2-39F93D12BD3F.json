@@ -14,7 +14,7 @@
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Light",
               "size": 9
@@ -42,7 +42,7 @@
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Regular",
               "size": 9
@@ -70,7 +70,7 @@
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Light",
               "size": 9
@@ -183,7 +183,7 @@
           "red": 0.1098039215686274
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Light",
             "size": 9

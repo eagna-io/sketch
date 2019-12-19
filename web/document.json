@@ -225,15 +225,13 @@
     ]
   },
   "meta": {
-    "appVersion": "60.1",
-    "build": 88133,
-    "version": 121
+    "appVersion": "58",
+    "build": 84663,
+    "version": 120
   },
   "pages": [
     "Top",
     "Account",
-    "Market",
-    "Reward",
-    "Symbols"
+    "Market"
   ]
 }
