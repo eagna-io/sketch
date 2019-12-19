@@ -32,41 +32,9 @@
         },
         "length": 68,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.9764705882352941,
-            "green": 0.9764705882352941,
-            "red": 0.9764705882352941
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
-            "attributes": {
-              "name": "NotoSansJP-Bold",
-              "size": 12
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          },
-          "strikethroughStyle": 0,
-          "textStyleVerticalAlignmentKey": 1,
-          "underlineStyle": 1
-        },
-        "length": 17,
-        "location": 68
       }
     ],
-    "string": "マーケットはすでにCloseしています。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＞ 自分の獲得ポイントを確認する。"
+    "string": "マーケットはすでにCloseしています。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -90,7 +58,7 @@
     "x": 230,
     "y": 2
   },
-  "glyphBounds": "{{1, 5}, {975, 13}}",
+  "glyphBounds": "{{1, 6}, {204, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

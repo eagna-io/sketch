@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 11,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "\t12,345 コイン"
+    "string": "\t12,345 枚"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 0,
     "y": 35
   },
-  "glyphBounds": "{{29, 7}, {135, 22}}",
+  "glyphBounds": "{{29, 6}, {93, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "12,345 コイン",
+  "name": "12,345 枚",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
