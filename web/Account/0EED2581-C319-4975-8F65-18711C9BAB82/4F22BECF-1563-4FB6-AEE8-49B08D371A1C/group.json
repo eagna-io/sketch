@@ -5,7 +5,6 @@
   "do_objectID": "4F22BECF-1563-4FB6-AEE8-49B08D371A1C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "99E7B4AD-BEA1-4581-A6AB-DCDACC2626A6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D1B1C3D9-BD2A-4AF3-9D9E-548368A3AF46",
     "height": 98,
     "width": 375,
     "x": 0,
     "y": 1933
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "67B2A9AA-C7D8-4DC1-8CC3-14AD542512F2"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -68,7 +65,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "9E1F85C0-0E15-4F56-9CD8-0F9BE5BDC9DE",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -79,7 +75,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "9A8B1C27-AFC6-4592-8F80-B345E9B36F7A",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -90,7 +85,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "AE81C1DB-C05B-45A8-965A-2A5C3AC8D00A",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -98,7 +92,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "A5B5E340-037C-47C0-8007-2EEB915D6291",
       "opacity": 1
     },
     "do_objectID": "2F6FCF55-6030-40C7-9A68-8282F0A6E764",

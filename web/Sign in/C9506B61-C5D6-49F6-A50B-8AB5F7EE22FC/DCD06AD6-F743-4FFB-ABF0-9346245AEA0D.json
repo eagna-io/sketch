@@ -14,10 +14,10 @@
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 21
+              "size": 18
             }
           },
           "kerning": 0,
@@ -42,10 +42,10 @@
             "red": 0.1058823529411765
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 21
+              "size": 18
             }
           },
           "kerning": 0,
@@ -70,10 +70,10 @@
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 21
+              "size": 18
             }
           },
           "kerning": 0,
@@ -98,10 +98,10 @@
             "red": 0.1058823529411765
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 21
+              "size": 18
             }
           },
           "kerning": 0,
@@ -126,10 +126,10 @@
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 21
+              "size": 18
             }
           },
           "kerning": 0,
@@ -140,8 +140,36 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 15,
+        "length": 14,
         "location": 25
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "NotoSansJP-Bold",
+              "size": 18
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 1
+        },
+        "length": 1,
+        "location": 39
       },
       {
         "_class": "stringAttribute",
@@ -154,10 +182,10 @@
             "red": 0.1058823529411765
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
-              "size": 21
+              "size": 18
             }
           },
           "kerning": 0,
@@ -181,7 +209,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DEB3C9C0-5644-4EEA-B3EC-C2693EBEC3FC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -192,13 +219,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "78FCAC6E-E95E-4BA9-8A45-0938327E71E6",
     "height": 85,
-    "width": 588,
-    "x": 426,
-    "y": 695
+    "width": 506,
+    "x": 467,
+    "y": 611
   },
-  "glyphBounds": "{{1, 5}, {569, 52}}",
+  "glyphBounds": "{{0, 5}, {489, 45}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -219,7 +245,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "CEAAB625-4D07-4DD2-9506-A66563C19666",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 8.533333333333333,
@@ -230,7 +255,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "9F3089EE-3E10-4A15-B2D5-6DEAD0359A51",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -241,7 +265,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "0B189647-7A8A-483B-8E0A-CFF28B9940F4",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -249,7 +272,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "05435EB7-CB49-49D9-A93E-3EEB2CEC7FC1",
       "opacity": 1
     },
     "do_objectID": "0D4925D5-6246-4F71-AAE7-E647591841E5",
@@ -264,7 +286,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EF9A3C3A-8FCF-4244-874C-81DB586C6D85",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -274,10 +295,10 @@
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
-            "size": 21
+            "size": 18
           }
         },
         "kerning": 0,

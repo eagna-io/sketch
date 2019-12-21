@@ -14,7 +14,7 @@
             "red": 0.6980392156862745
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
               "size": 10.24
@@ -41,7 +41,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4C0DA0CD-27AB-4CEA-81BC-37BA23CDA40D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,7 +51,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "26D2D7F6-C3F8-434C-9E31-DE1CAB44ED3F",
     "height": 30.72,
     "width": 144.2519860627178,
     "x": 18.4938443670151,
@@ -79,7 +77,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "B0D3687F-7FFF-45F1-BC32-FAA1834E41B0",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 8.533333333333333,
@@ -90,7 +87,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "E77694B4-1C38-4079-BA8E-5A2E45766C51",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -101,7 +97,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "FB2314EB-A166-41F6-930E-4BF2558A5ED0",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -109,7 +104,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "AE7CE6EC-00A7-4519-B046-A61746930502",
       "opacity": 1
     },
     "do_objectID": "35E0F933-AAAF-4EE9-A12B-8EB06450CBA2",
@@ -124,7 +118,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7D797C2F-BF4B-4BFC-8032-775104EED629",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -134,7 +127,7 @@
           "red": 0.6980392156862745
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
             "size": 10.24

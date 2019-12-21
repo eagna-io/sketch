@@ -14,7 +14,7 @@
             "red": 0.6980392156862745
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Bold",
               "size": 10.24
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 7,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "メールアドレス"
+    "string": "ユーザーID (メールアドレス)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -41,7 +41,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E381192F-2269-4701-B259-0887F293F8FB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BEE212CF-5C2F-4944-B712-196090467E3C",
     "height": 31.57894736842105,
     "width": 179.8391304347826,
     "x": 18.9304347826087,
     "y": 16.57894736842105
   },
-  "glyphBounds": "{{0, 3}, {71, 10}}",
+  "glyphBounds": "{{0, 3}, {133, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "メールアドレス",
+  "name": "ユーザーID (メールアドレス)",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -79,7 +77,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "DA6A4E0C-3B77-4F3B-B5D0-EA895492FE24",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 8.533333333333333,
@@ -90,7 +87,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "5FB57B90-AB01-45D9-BB4B-0345C9A10B38",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -101,7 +97,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "A96A2EDD-89C8-4EF8-81FC-06E460AA46FD",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -109,7 +104,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "C86DBEC5-843C-4E1A-8BD1-6FBCE8AC6CE2",
       "opacity": 1
     },
     "do_objectID": "7E182291-E785-4378-90E6-F1F663A11E22",
@@ -124,7 +118,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C72ECE19-F3FF-4BEF-A6B1-A67D20102264",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -134,7 +127,7 @@
           "red": 0.6980392156862745
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Bold",
             "size": 10.24
