@@ -39,6 +39,14 @@
     {
       "class": "group",
       "id": "D9B68BB9-73F7-4652-8A90-39B7E9F3C328"
+    },
+    {
+      "class": "text",
+      "id": "23913C00-0B74-4FBE-9C16-33C153DAB68F"
+    },
+    {
+      "class": "text",
+      "id": "3536B39B-D429-455B-84B5-6184A948E224"
     }
   ],
   "maintainScrollPosition": false,

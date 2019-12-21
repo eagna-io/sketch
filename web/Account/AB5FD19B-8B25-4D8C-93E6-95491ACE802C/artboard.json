@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1822,
+    "height": 1938,
     "width": 375,
     "x": -186,
     "y": -330
@@ -92,6 +92,10 @@
     {
       "class": "group",
       "id": "86C606F0-8A32-4A64-BDFC-B44522CE18EE"
+    },
+    {
+      "class": "group",
+      "id": "E39401FF-5AD6-4994-813C-BCEE70FA31BC"
     }
   ],
   "maintainScrollPosition": false,
