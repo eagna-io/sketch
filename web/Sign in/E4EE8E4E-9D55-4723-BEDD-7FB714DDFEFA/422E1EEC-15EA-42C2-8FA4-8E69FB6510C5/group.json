@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7A66F91A-EDD0-434F-B9A6-FC1175AA79BE",
+  "do_objectID": "422E1EEC-15EA-42C2-8FA4-8E69FB6510C5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,61 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 68,
+    "width": 326,
+    "x": 967,
+    "y": 664
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "artboard",
-      "id": "6034DA8A-BA2A-4D11-9DA8-637B749AF7CD"
+      "class": "rectangle",
+      "id": "97E5FD35-EB8A-4FE7-91D7-B5E72B929BC0"
     },
     {
-      "class": "artboard",
-      "id": "F46214E3-03B7-4B8C-AD9A-2BFD00B44D9C"
-    },
-    {
-      "class": "artboard",
-      "id": "EA79C5C1-1637-46E0-BE7E-FA98F5D9C6B3"
-    },
-    {
-      "class": "artboard",
-      "id": "C9506B61-C5D6-49F6-A50B-8AB5F7EE22FC"
-    },
-    {
-      "class": "artboard",
-      "id": "01C3FDD2-785E-47DF-8D58-E2CD852E0D7F"
-    },
-    {
-      "class": "artboard",
-      "id": "29C14792-A218-44A4-BB09-BB12CB572702"
-    },
-    {
-      "class": "artboard",
-      "id": "E4EE8E4E-9D55-4723-BEDD-7FB714DDFEFA"
+      "class": "text",
+      "id": "06BAD3EF-55B2-4813-9B22-68211A5FF19B"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Sign in",
+  "name": "Buy Button",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +55,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8.533333333333333,
       "saturation": 1,
       "type": 0
     },
@@ -109,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2410AA50-DF5F-4D14-B11E-CDAAC1FE7C2E",
+    "do_objectID": "8219B38C-197F-4493-8C5E-F6564BC1BDAE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,11 +93,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
