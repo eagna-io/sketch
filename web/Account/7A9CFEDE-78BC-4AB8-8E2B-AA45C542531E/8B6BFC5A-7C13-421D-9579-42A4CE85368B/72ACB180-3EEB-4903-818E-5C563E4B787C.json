@@ -14,7 +14,7 @@
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleColorEmoji",
               "size": 14
@@ -42,7 +42,7 @@
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "HiraginoSans-W4",
               "size": 14
@@ -69,7 +69,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A031AEDC-AF8C-4A2B-9150-37680FA78F39",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -80,7 +79,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "49BB5DB8-5CCB-4429-AB70-57F09B5BAF10",
     "height": 23,
     "width": 140,
     "x": 5,
@@ -107,7 +105,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "F3D09F24-8C96-4454-8A25-591DB8A41CE4",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -118,7 +115,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "CC5187B0-884A-4757-91F0-F0AD94A14C76",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -129,7 +125,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "B2472953-8031-4E41-AF4B-C615F893CCF4",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -137,7 +132,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "F2CF0F03-7A79-423A-98ED-B882EC20833B",
       "opacity": 1
     },
     "do_objectID": "C3F4F719-AC21-4194-983D-9E09400819A6",
@@ -152,7 +146,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "3820BF62-9CA0-4DF0-BBD5-F536484941C1",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -162,7 +155,7 @@
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleColorEmoji",
             "size": 14

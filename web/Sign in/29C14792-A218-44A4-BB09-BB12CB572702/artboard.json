@@ -47,12 +47,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "bitmap",
-      "id": "0E5A4911-FD53-4D9F-B838-50F060F1146F"
-    },
     {
       "class": "group",
       "id": "A23741DE-7BBD-46E5-8395-8661CD56432E"
@@ -64,6 +60,10 @@
     {
       "class": "group",
       "id": "08CE50CB-3AEB-413D-8D3C-7C0F374C3D69"
+    },
+    {
+      "class": "bitmap",
+      "id": "D5F1E7BA-60A6-4495-BE26-9144ECAD1D42"
     }
   ],
   "maintainScrollPosition": false,
@@ -115,6 +115,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "0B21B0DD-C8C7-4BD1-BA8A-9BF4E10B3CB0",
     "endMarkerType": 0,
     "fills": [
     ],

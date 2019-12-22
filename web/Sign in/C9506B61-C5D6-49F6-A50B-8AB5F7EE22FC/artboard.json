@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -67,7 +67,7 @@
     },
     {
       "class": "rectangle",
-      "id": "EB013E8A-53A0-49C4-9D59-22A94FA13B03"
+      "id": "3AFF3DE0-1362-433B-919C-CB46D0B2429B"
     },
     {
       "class": "group",
@@ -123,6 +123,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "8272A1C5-712C-4D55-A520-A2A72F0566E7",
     "endMarkerType": 0,
     "fills": [
     ],
