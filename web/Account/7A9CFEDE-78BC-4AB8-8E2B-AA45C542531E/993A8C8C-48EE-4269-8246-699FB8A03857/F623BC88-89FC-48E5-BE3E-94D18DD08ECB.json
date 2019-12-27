@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1,
-    "width": 102,
-    "x": 0,
+    "width": 101,
+    "x": 1,
     "y": 34.5
   },
   "hasClippingMask": false,
@@ -37,19 +37,19 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.11764705882352941, -4.0999999999999917}",
+      "curveFrom": "{0.10891089108910891, -4.0999999999999917}",
       "curveMode": 1,
-      "curveTo": "{0.11764705882352941, -4.0999999999999917}",
+      "curveTo": "{0.10891089108910891, -4.0999999999999917}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.7763568394002505e-15, 0.5}"
+      "point": "{-3.4694469519536142e-17, 0.5}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.11764705882352941, -4.0999999999999917}",
+      "curveFrom": "{0.10891089108910891, -4.0999999999999917}",
       "curveMode": 1,
-      "curveTo": "{0.11764705882352941, -4.0999999999999917}",
+      "curveTo": "{0.10891089108910891, -4.0999999999999917}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
       "point": "{1.0000000000000009, 0.5}"
@@ -84,9 +84,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.8549019607843137,
+          "green": 0.8352941176470589,
+          "red": 0.8196078431372549
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

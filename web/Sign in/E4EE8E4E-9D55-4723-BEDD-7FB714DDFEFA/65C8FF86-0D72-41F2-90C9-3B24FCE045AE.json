@@ -9,35 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.3058823529411765,
+            "green": 0.2196078431372549,
+            "red": 0.1058823529411765
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansJP-Medium",
-              "size": 11
+              "name": "NotoSansJP-Bold",
+              "size": 24
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           },
-          "textStyleVerticalAlignmentKey": 0
+          "textStyleVerticalAlignmentKey": 1
         },
-        "length": 16,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "info@crop-pm.com"
+    "string": "パスワードを設定して登録を完了してください"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9826BEBA-9BFF-47D2-B2B4-45374F0FB236",
+  "do_objectID": "65C8FF86-0D72-41F2-90C9-3B24FCE045AE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 151,
-    "x": 213,
-    "y": 69
+    "height": 149,
+    "width": 804,
+    "x": 727,
+    "y": 157
   },
-  "glyphBounds": "{{49, 4}, {102, 12}}",
+  "glyphBounds": "{{150, 7}, {503, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,9 +66,9 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "info@crop-pm.com",
+  "name": "パスワードを設定して登録を完了してくださ",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -79,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8.533333333333333,
       "saturation": 1,
       "type": 0
     },
@@ -106,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D47DE41C-6C39-48B4-BA97-4B5319F73854",
+    "do_objectID": "92E86F3D-4096-42F5-A7A7-1AF2C0CBF17A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,28 +122,28 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.3058823529411765,
+          "green": 0.2196078431372549,
+          "red": 0.1058823529411765
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansJP-Medium",
-            "size": 11
+            "name": "NotoSansJP-Bold",
+            "size": 24
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
         },
-        "textStyleVerticalAlignmentKey": 0
+        "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

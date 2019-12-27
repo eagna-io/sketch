@@ -95,27 +95,11 @@
     },
     {
       "class": "group",
-      "id": "8B6BFC5A-7C13-421D-9579-42A4CE85368B"
-    },
-    {
-      "class": "group",
       "id": "993A8C8C-48EE-4269-8246-699FB8A03857"
     },
     {
-      "class": "text",
-      "id": "BEC312CF-5442-4113-9F9D-59EB85F1FA94"
-    },
-    {
-      "class": "text",
-      "id": "E071AADC-48EE-42D6-98ED-104BF47CA835"
-    },
-    {
-      "class": "text",
-      "id": "5AA4A26D-87E8-4318-A08E-8311EC1189B6"
-    },
-    {
-      "class": "text",
-      "id": "63C2D019-BF14-4DA4-817C-907F7D14D689"
+      "class": "group",
+      "id": "34F995F4-A08F-4701-8791-82503E60F826"
     }
   ],
   "maintainScrollPosition": false,

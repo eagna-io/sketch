@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E39401FF-5AD6-4994-813C-BCEE70FA31BC",
+  "do_objectID": "422E1EEC-15EA-42C2-8FA4-8E69FB6510C5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 98,
-    "width": 375,
-    "x": 0,
-    "y": 1840
+    "height": 68,
+    "width": 326,
+    "x": 967,
+    "y": 664
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,23 +34,15 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "D6BC70E2-E558-48B9-940B-CA46BDBE1C36"
+      "id": "97E5FD35-EB8A-4FE7-91D7-B5E72B929BC0"
     },
     {
       "class": "text",
-      "id": "ABD446C4-E36C-430A-AFF3-AA29A79BD062"
-    },
-    {
-      "class": "text",
-      "id": "9826BEBA-9BFF-47D2-B2B4-45374F0FB236"
-    },
-    {
-      "class": "text",
-      "id": "921AD1BA-936B-4E85-A616-ECF6A1B125B2"
+      "id": "06BAD3EF-55B2-4813-9B22-68211A5FF19B"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "footer",
+  "name": "Buy Button",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,7 +55,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8.533333333333333,
       "saturation": 1,
       "type": 0
     },
@@ -90,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "03ACA035-54D0-409D-A4B2-4C3B95E723F8",
+    "do_objectID": "8219B38C-197F-4493-8C5E-F6564BC1BDAE",
     "endMarkerType": 0,
     "fills": [
     ],

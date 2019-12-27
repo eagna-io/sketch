@@ -17,27 +17,27 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Medium",
-              "size": 11
+              "size": 21
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           },
-          "textStyleVerticalAlignmentKey": 0
+          "textStyleVerticalAlignmentKey": 1
         },
-        "length": 16,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "info@crop-pm.com"
+    "string": "利用規約に同意して登録"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9826BEBA-9BFF-47D2-B2B4-45374F0FB236",
+  "do_objectID": "06BAD3EF-55B2-4813-9B22-68211A5FF19B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 151,
-    "x": 213,
-    "y": 69
+    "height": 68,
+    "width": 257,
+    "x": 35,
+    "y": 0
   },
-  "glyphBounds": "{{49, 4}, {102, 12}}",
+  "glyphBounds": "{{13, 6}, {231, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,9 +66,9 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "info@crop-pm.com",
+  "name": "利用規約に同意して登録",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -79,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8.533333333333333,
       "saturation": 1,
       "type": 0
     },
@@ -106,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D47DE41C-6C39-48B4-BA97-4B5319F73854",
+    "do_objectID": "230C3706-B7D9-4511-A4CF-BE8F6BF2E64D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -130,20 +130,20 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Medium",
-            "size": 11
+            "size": 21
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
         },
-        "textStyleVerticalAlignmentKey": 0
+        "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

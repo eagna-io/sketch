@@ -9,35 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.6980392156862745,
+            "green": 0.6980392156862745,
+            "red": 0.6980392156862745
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansJP-Medium",
-              "size": 11
+              "name": "NotoSansJP-Bold",
+              "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 3,
             "allowsDefaultTighteningForTruncation": 0
           },
-          "textStyleVerticalAlignmentKey": 0
+          "textStyleVerticalAlignmentKey": 1
         },
-        "length": 16,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "info@crop-pm.com"
+    "string": "パスワード"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9826BEBA-9BFF-47D2-B2B4-45374F0FB236",
+  "do_objectID": "A2419000-8DC9-4440-9DC7-33A8E40447EE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 151,
-    "x": 213,
-    "y": 69
+    "height": 32,
+    "width": 117,
+    "x": 15,
+    "y": 12
   },
-  "glyphBounds": "{{49, 4}, {102, 12}}",
+  "glyphBounds": "{{0, 5}, {79, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,9 +66,9 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "info@crop-pm.com",
+  "name": "パスワード",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -79,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8.533333333333333,
       "saturation": 1,
       "type": 0
     },
@@ -106,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D47DE41C-6C39-48B4-BA97-4B5319F73854",
+    "do_objectID": "6FCF31B4-9630-43CA-A082-9272D805B081",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,28 +122,28 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.6980392156862745,
+          "green": 0.6980392156862745,
+          "red": 0.6980392156862745
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansJP-Medium",
-            "size": 11
+            "name": "NotoSansJP-Bold",
+            "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 3,
           "allowsDefaultTighteningForTruncation": 0
         },
-        "textStyleVerticalAlignmentKey": 0
+        "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

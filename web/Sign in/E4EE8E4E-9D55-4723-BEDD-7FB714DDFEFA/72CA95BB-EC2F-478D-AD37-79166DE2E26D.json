@@ -1,8 +1,9 @@
 {
-  "_class": "group",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "E39401FF-5AD6-4994-813C-BCEE70FA31BC",
+  "do_objectID": "72CA95BB-EC2F-478D-AD37-79166DE2E26D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,45 +13,30 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 98,
-    "width": 375,
-    "x": 0,
-    "y": 1840
+    "constrainProportions": true,
+    "height": 103,
+    "width": 294,
+    "x": 818,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e4160ce9bcd5f508ca5da5f2864e624ade8634a5.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "D6BC70E2-E558-48B9-940B-CA46BDBE1C36"
-    },
-    {
-      "class": "text",
-      "id": "ABD446C4-E36C-430A-AFF3-AA29A79BD062"
-    },
-    {
-      "class": "text",
-      "id": "9826BEBA-9BFF-47D2-B2B4-45374F0FB236"
-    },
-    {
-      "class": "text",
-      "id": "921AD1BA-936B-4E85-A616-ECF6A1B125B2"
-    }
-  ],
+  "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "footer",
+  "name": "logo",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,7 +49,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8.533333333333333,
       "saturation": 1,
       "type": 0
     },
@@ -90,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "03ACA035-54D0-409D-A4B2-4C3B95E723F8",
+    "do_objectID": "7D6DE422-4C70-4A8E-A84F-D987385EB1E4",
     "endMarkerType": 0,
     "fills": [
     ],

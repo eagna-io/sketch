@@ -17,27 +17,27 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Medium",
-              "size": 11
+              "size": 22
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 3,
             "allowsDefaultTighteningForTruncation": 0
           },
-          "textStyleVerticalAlignmentKey": 0
+          "textStyleVerticalAlignmentKey": 1
         },
-        "length": 16,
+        "length": 52,
         "location": 0
       }
     ],
-    "string": "info@crop-pm.com"
+    "string": "あなたの知識が会社のために、より良い予測で報酬をGet\nまずはパスワードを設定して登録を完了しましょう！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9826BEBA-9BFF-47D2-B2B4-45374F0FB236",
+  "do_objectID": "0D8F33F1-78F5-427A-8DC7-5CBFF3EDFAF9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 151,
-    "x": 213,
-    "y": 69
+    "height": 66,
+    "width": 565,
+    "x": 64,
+    "y": 401
   },
-  "glyphBounds": "{{49, 4}, {102, 12}}",
+  "glyphBounds": "{{2, 7}, {563, 54}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "info@crop-pm.com",
+  "name": "あなたの知識が会社のために、より良い予測",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -98,7 +98,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -106,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D47DE41C-6C39-48B4-BA97-4B5319F73854",
+    "do_objectID": "FB5FDC3A-22FE-41AF-AA04-C3AF623CBCF3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -130,20 +130,20 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Medium",
-            "size": 11
+            "size": 22
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 3,
           "allowsDefaultTighteningForTruncation": 0
         },
-        "textStyleVerticalAlignmentKey": 0
+        "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
