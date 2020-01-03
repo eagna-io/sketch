@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,43 +47,39 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "text",
-      "id": "4D33AF16-48EA-4688-A625-CA6D88511ECE"
-    },
-    {
-      "class": "rectangle",
-      "id": "615B5B93-DAC2-4859-A0C2-1A9DD2032B97"
+      "class": "group",
+      "id": "B4526F6A-3D96-432C-AB4C-C933A271E4E8"
     },
     {
       "class": "group",
-      "id": "234620E0-B6BA-47E5-9FF4-90674FB011D6"
+      "id": "0A8DE123-5418-4CA1-B3CC-E45BE9D6828C"
     },
     {
       "class": "group",
-      "id": "32CD9323-F766-4FC6-9AB6-A997287982CD"
+      "id": "35F80D7B-B213-4DED-98BB-05730184861B"
     },
     {
       "class": "group",
-      "id": "7DF776D6-8246-4792-8898-A622FC4F911E"
+      "id": "B18B67A5-07F9-4038-B24C-2BFD5E289605"
     },
     {
-      "class": "text",
-      "id": "B41A9660-4E02-4DA2-AAAA-BEED02661F8C"
+      "class": "group",
+      "id": "6A583652-32F2-4DC7-9350-7325567F6458"
+    },
+    {
+      "class": "group",
+      "id": "94822FCD-FC0B-4D43-BA8D-8CFFAB089A28"
     },
     {
       "class": "bitmap",
-      "id": "987439C9-3292-407B-BE69-438F676AFFC2"
-    },
-    {
-      "class": "text",
-      "id": "CA784AB3-0C3D-4A15-BACA-692ABC9E473E"
+      "id": "763FCE3B-C06B-4030-87DC-0D87C1FCC83E"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "sign up(同意済)iPhone",
+  "name": "sign up（パスワードミス）",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

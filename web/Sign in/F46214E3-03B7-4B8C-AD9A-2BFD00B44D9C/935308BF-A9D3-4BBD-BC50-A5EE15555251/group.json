@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 35,
     "width": 287,
-    "x": 16.21333333333333,
-    "y": 203.0933333333333
+    "x": 17,
+    "y": 215
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -42,7 +42,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "password",
+  "name": "パスワード",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

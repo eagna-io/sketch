@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 43,
     "width": 205,
-    "x": 58.02666666666664,
-    "y": 338.2933333333334
+    "x": 58,
+    "y": 439
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -42,7 +42,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Buy Button",
+  "name": "ボタン",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

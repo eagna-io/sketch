@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 68,
-    "width": 326,
+    "width": 325,
     "x": 557,
-    "y": 672
+    "y": 668
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",

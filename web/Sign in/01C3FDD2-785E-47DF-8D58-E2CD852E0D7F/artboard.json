@@ -51,39 +51,35 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "4AC25E65-C50A-4790-A0E3-891B6AB38746"
-    },
-    {
-      "class": "text",
-      "id": "92F633F8-9922-4433-AE33-C0B9BB1582E9"
+      "id": "22A45E37-1463-41CB-A91B-48D3F670B57C"
     },
     {
       "class": "group",
-      "id": "0A529614-0258-4AFC-9B4C-724229AF83A6"
-    },
-    {
-      "class": "text",
-      "id": "DB3317DA-88E6-4EB1-B83A-E0442C42EA44"
+      "id": "820F9928-0425-4930-973C-B796F5242E36"
     },
     {
       "class": "group",
-      "id": "B02452EB-F4C2-41DB-AFA2-725E76AE5B86"
-    },
-    {
-      "class": "rectangle",
-      "id": "FC7EEADE-0D20-4356-91EE-4626294A29C7"
+      "id": "2C20E82E-7F50-4A7A-93BF-39BFD3889766"
     },
     {
       "class": "group",
-      "id": "83272F0A-B982-4CEF-8EEC-8C51B9C8CDFF"
+      "id": "4D53B4EB-3628-4566-9FDC-46DB16032EC2"
     },
     {
-      "class": "text",
-      "id": "DCFFDE39-F80C-4D02-9942-C8B44F79144A"
+      "class": "group",
+      "id": "623DFFC9-4259-431C-AF23-C39B4F94D841"
+    },
+    {
+      "class": "group",
+      "id": "768435A6-967B-4200-9D2A-4E562AD08CAB"
+    },
+    {
+      "class": "group",
+      "id": "04AC40B4-68B7-424B-845E-34A05D94C2F1"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "sign up (同意済)HD",
+  "name": "sign up (パスワードエラー)HD",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

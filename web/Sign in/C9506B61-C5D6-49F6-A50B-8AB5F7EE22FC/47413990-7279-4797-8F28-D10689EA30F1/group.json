@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -42,7 +42,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Buy Button",
+  "name": "ボタン",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

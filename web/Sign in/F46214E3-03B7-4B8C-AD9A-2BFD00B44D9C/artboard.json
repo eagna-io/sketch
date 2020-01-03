@@ -50,24 +50,28 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "26D065C9-7C59-4021-B4C0-182EC1640E9A"
-    },
-    {
       "class": "group",
       "id": "18886B51-B975-4BB4-A5AA-1962C1992D52"
     },
     {
-      "class": "rectangle",
-      "id": "DED838C4-9F88-4D2B-96AE-7D52AB82C2FC"
+      "class": "group",
+      "id": "472EBD0B-84DE-47DB-B39E-DB5BC17F7315"
     },
     {
       "class": "group",
       "id": "935308BF-A9D3-4BBD-BC50-A5EE15555251"
     },
     {
-      "class": "text",
-      "id": "63504D82-34F2-41EB-8175-104D6D480B48"
+      "class": "group",
+      "id": "EC8A5874-34FB-4A6F-9BEA-5AE6B4D03361"
+    },
+    {
+      "class": "group",
+      "id": "A0A12CD7-B8B9-409C-A64B-BD8E2BF50D20"
+    },
+    {
+      "class": "group",
+      "id": "8E60B39B-1B72-4807-B803-5D1D2297AE31"
     },
     {
       "class": "bitmap",
@@ -75,7 +79,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "sign up iPhone",
+  "name": "sign up",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

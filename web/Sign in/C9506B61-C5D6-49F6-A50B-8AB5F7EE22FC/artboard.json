@@ -54,20 +54,24 @@
       "id": "DECBBD93-12B2-4BCE-BA4C-9C163910478E"
     },
     {
-      "class": "text",
-      "id": "C6464F36-C681-4896-95B5-16A55FE197FC"
-    },
-    {
       "class": "group",
       "id": "50FC7F7C-121A-4101-8F91-1E2698DBFF6C"
     },
     {
-      "class": "text",
-      "id": "DCD06AD6-F743-4FFB-ABF0-9346245AEA0D"
+      "class": "group",
+      "id": "90FB32A8-82D6-4E05-90AC-F25148DC5447"
     },
     {
-      "class": "rectangle",
-      "id": "3AFF3DE0-1362-433B-919C-CB46D0B2429B"
+      "class": "group",
+      "id": "E9266719-D429-44A2-BDC9-30F83568EBE2"
+    },
+    {
+      "class": "group",
+      "id": "80D74A6A-241F-406C-A2E4-2E46DD05BCD0"
+    },
+    {
+      "class": "group",
+      "id": "7B76F6CE-F908-458F-B194-35EA0F579D23"
     },
     {
       "class": "group",

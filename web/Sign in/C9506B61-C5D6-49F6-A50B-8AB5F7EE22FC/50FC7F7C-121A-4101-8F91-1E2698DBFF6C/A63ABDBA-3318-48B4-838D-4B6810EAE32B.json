@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6980392156862745,
-            "green": 0.6980392156862745,
-            "red": 0.6980392156862745
+            "blue": 0.8627450980392157,
+            "green": 0.8627450980392157,
+            "red": 0.8627450980392157
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansJP-Bold",
-              "size": 16
+              "name": "NotoSansJP-Medium",
+              "size": 18
             }
           },
           "kerning": 0,
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 5,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "パスワード"
+    "string": "パスワード確認"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,9 +54,9 @@
     "height": 32,
     "width": 145,
     "x": 19,
-    "y": 12
+    "y": 14
   },
-  "glyphBounds": "{{0, 5}, {79, 15}}",
+  "glyphBounds": "{{0, 5}, {126, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "パスワード",
+  "name": "パスワード確認",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -122,15 +122,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6980392156862745,
-          "green": 0.6980392156862745,
-          "red": 0.6980392156862745
+          "blue": 0.8627450980392157,
+          "green": 0.8627450980392157,
+          "red": 0.8627450980392157
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansJP-Bold",
-            "size": 16
+            "name": "NotoSansJP-Medium",
+            "size": 18
           }
         },
         "kerning": 0,

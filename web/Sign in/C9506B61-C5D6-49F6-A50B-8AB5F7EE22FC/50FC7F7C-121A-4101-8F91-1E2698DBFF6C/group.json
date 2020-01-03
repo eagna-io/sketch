@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 60,
     "width": 622,
-    "x": 408,
-    "y": 467
+    "x": 409,
+    "y": 517
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -42,7 +42,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "password",
+  "name": "パスワード確認",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
