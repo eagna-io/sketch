@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansJP-Bold",
-              "size": 9
+              "name": "NotoSansJP-Medium",
+              "size": 12
             }
           },
           "kerning": 0,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17.92,
-    "width": 134,
+    "width": 161,
     "x": 9.533333333333303,
     "y": 9.386666666666656
   },
-  "glyphBounds": "{{0, 2}, {115, 10}}",
+  "glyphBounds": "{{0, 4}, {152, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -129,8 +129,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansJP-Bold",
-            "size": 9
+            "name": "NotoSansJP-Medium",
+            "size": 12
           }
         },
         "kerning": 0,

@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansJP-Medium",
-              "size": 11
+              "size": 12
             }
           },
           "kerning": 0,
@@ -56,7 +56,7 @@
     "x": 0,
     "y": 7.105427357601002e-15
   },
-  "glyphBounds": "{{1, 4}, {75, 10}}",
+  "glyphBounds": "{{1, 4}, {82, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -182,7 +182,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansJP-Medium",
-            "size": 11
+            "size": 12
           }
         },
         "kerning": 0,
