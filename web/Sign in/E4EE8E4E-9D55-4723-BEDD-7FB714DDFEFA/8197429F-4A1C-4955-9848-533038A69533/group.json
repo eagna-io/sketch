@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 76,
+    "height": 60,
     "width": 450,
     "x": 904,
-    "y": 198
+    "y": 214
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -37,8 +37,8 @@
       "id": "AE9A68FD-972C-46BD-A737-40B753CE0DCA"
     },
     {
-      "class": "group",
-      "id": "B41E96F9-AE0C-4F4E-A468-C6DEAF38D7C3"
+      "class": "text",
+      "id": "48583719-FF36-4D26-AD0F-27A577A43E3B"
     }
   ],
   "maintainScrollPosition": false,

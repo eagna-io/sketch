@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8627450980392157,
-            "green": 0.8627450980392157,
-            "red": 0.8627450980392157
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -28,16 +28,16 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 7,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "ユーザーネーム"
+    "string": "info@hoge.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9D1D9CF0-8FBC-467D-B53C-9EE021A4DA03",
+  "do_objectID": "48583719-FF36-4D26-AD0F-27A577A43E3B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,10 +53,10 @@
     "constrainProportions": false,
     "height": 32,
     "width": 145,
-    "x": 19,
+    "x": 20,
     "y": 14
   },
-  "glyphBounds": "{{1, 6}, {124, 17}}",
+  "glyphBounds": "{{1, 6}, {135, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "ユーザーネーム",
+  "name": "info@hoge.com",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -106,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1E12439F-21AA-4650-85E4-7022043F317A",
+    "do_objectID": "B50C6441-7A70-499A-ACDE-6032FF2BFEBE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,9 +122,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8627450980392157,
-          "green": 0.8627450980392157,
-          "red": 0.8627450980392157
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

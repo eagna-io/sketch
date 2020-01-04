@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 49,
+    "height": 40,
     "width": 286,
     "x": 17,
-    "y": 96
+    "y": 105
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,15 +30,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
       "id": "61D941FE-087A-45F9-B1F6-FDB8FF19417C"
     },
     {
-      "class": "group",
-      "id": "EBE466F1-7408-43E0-AC54-BD5D6F249409"
+      "class": "text",
+      "id": "30076C21-3088-4C75-8FE8-636120DBF1D4"
     }
   ],
   "maintainScrollPosition": false,
