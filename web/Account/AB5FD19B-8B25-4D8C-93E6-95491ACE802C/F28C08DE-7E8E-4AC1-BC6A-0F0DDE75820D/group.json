@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -52,6 +52,10 @@
     {
       "class": "shapeGroup",
       "id": "48E84E55-6961-4139-89CD-F9C1F9ABCDEC"
+    },
+    {
+      "class": "bitmap",
+      "id": "8DABF6E2-4533-4F2B-8D85-AD8815010301"
     }
   ],
   "maintainScrollPosition": false,

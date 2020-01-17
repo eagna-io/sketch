@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2031,
+    "height": 1919,
     "width": 375,
     "x": 1829,
     "y": -330
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,14 +49,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "8DDDDF1D-2B69-4E79-8EE9-2EE135BE1DAD"
-    },
-    {
-      "class": "group",
-      "id": "AAADCB90-9A86-4765-B3E7-C2B24A47F387"
-    },
     {
       "class": "group",
       "id": "7F6411B0-465B-4C0A-B97F-63321CA438EB"
@@ -95,15 +87,15 @@
     },
     {
       "class": "group",
-      "id": "820C58B3-EC21-4D8F-879F-096C92B9D9BD"
-    },
-    {
-      "class": "group",
-      "id": "5FD78AC2-EBE3-46D7-9D87-854335D67349"
-    },
-    {
-      "class": "group",
       "id": "3C12662F-671A-4331-A0FE-494BCBF86B07"
+    },
+    {
+      "class": "group",
+      "id": "D495CFBA-34AA-4A07-A622-EB7877F74670"
+    },
+    {
+      "class": "group",
+      "id": "A1B4E179-81D5-4B02-9FD4-68259498ABAB"
     }
   ],
   "maintainScrollPosition": false,
